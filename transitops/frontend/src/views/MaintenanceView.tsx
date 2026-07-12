@@ -5,8 +5,9 @@ import RoleWrapper from "../components/rbac/RoleWrapper";
 import Loader from "../components/common/Loader";
 import MaintenanceModal from "../components/modals/MaintenanceModal";
 import { maintenanceService } from "../api/services";
-import { Plus, CheckCircle2, Wrench, Search, Filter } from "lucide-react";
+import { Plus, CheckCircle2, Wrench, Search, Filter, Download, FileText } from "lucide-react";
 import { motion, AnimatePresence } from "motion/react";
+import { exportToCSV, exportToPDF } from "../utils/exportUtils";
 
 export default function MaintenanceView() {
   const [logs, setLogs] = useState<any[]>([]);
@@ -52,6 +53,18 @@ export default function MaintenanceView() {
     });
   }, [logs, searchQuery, statusFilter]);
 
+  const exportData = () => {
+    const headers = ["Vehicle", "Description", "Date", "Cost", "Status"];
+    const data = filteredLogs.map(log => [
+      log.vehicleId?.regNo || 'Unknown',
+      log.description,
+      new Date(log.date).toLocaleDateString(),
+      log.cost,
+      log.status
+    ]);
+    return { headers, data };
+  };
+
   return (
     <motion.div 
       initial={{ opacity: 0, y: 10 }}
@@ -63,11 +76,19 @@ export default function MaintenanceView() {
           <h1 className="text-3xl font-semibold tracking-tight text-gray-900 dark:text-gray-100">Maintenance & Shop</h1>
           <p className="text-sm text-gray-500 dark:text-gray-400 mt-1">Service logs and repair tracking.</p>
         </div>
-        <RoleWrapper allowedRoles={["Fleet Manager", "Admin"]}>
-          <button onClick={() => setIsModalOpen(true)} className="flex items-center justify-center gap-2 bg-[#17376e] hover:bg-[#122850] text-white px-5 py-2.5 rounded-lg text-sm font-medium transition-colors shadow-sm w-full sm:w-auto active:scale-95"> 
-            <Plus className="w-4 h-4" /> Log Repair
+        <div className="flex items-center gap-2">
+          <button onClick={() => { const { headers, data } = exportData(); exportToCSV(data, headers, "maintenance_logs"); }} className="flex items-center justify-center gap-2 bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-300 p-2.5 rounded-lg text-sm hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors shadow-sm" title="Export CSV">
+            <Download className="w-4 h-4 text-gray-500" />
           </button>
-        </RoleWrapper>
+          <button onClick={() => { const { headers, data } = exportData(); exportToPDF(data, headers, "maintenance_logs", "Maintenance Logs"); }} className="flex items-center justify-center gap-2 bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-300 p-2.5 rounded-lg text-sm hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors shadow-sm" title="Export PDF">
+            <FileText className="w-4 h-4 text-gray-500" />
+          </button>
+          <RoleWrapper allowedRoles={["Fleet Manager", "Admin"]}>
+            <button onClick={() => setIsModalOpen(true)} className="flex items-center justify-center gap-2 bg-[#17376e] hover:bg-[#122850] text-white px-5 py-2.5 rounded-lg text-sm font-medium transition-colors shadow-sm w-full sm:w-auto active:scale-95 ml-2"> 
+              <Plus className="w-4 h-4" /> Log Repair
+            </button>
+          </RoleWrapper>
+        </div>
       </div>
       
       <div className="bg-white dark:bg-gray-900 p-4 rounded-xl shadow-sm border border-gray-100 dark:border-gray-800 flex flex-wrap items-center gap-4">

@@ -11,10 +11,17 @@ export const getDrivers = async (req: Request, res: Response) => {
   }
 };
 
+import { Notification } from "../models/Notification";
 export const createDriver = async (req: Request, res: Response) => {
   try {
     const driver = new Driver(req.body);
     await driver.save();
+    
+    await Notification.create({
+      title: "New Driver Added",
+      message: `Driver ${driver.name} was added to the system.`
+    });
+
     res.status(201).json(driver);
   } catch (error: any) {
     if (error.code === 11000) {

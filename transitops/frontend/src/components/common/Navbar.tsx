@@ -42,7 +42,18 @@ export default function Navbar({ onMenuClick }: NavbarProps) {
       }
     };
     fetchNotifs();
+    const interval = setInterval(fetchNotifs, 10000); // Poll every 10 seconds
+    return () => clearInterval(interval);
   }, []);
+
+  const markAllAsRead = async () => {
+    try {
+      await axiosClient.put("/notifications/read");
+      setNotifications(notifications.map(n => ({ ...n, read: true })));
+    } catch (err) {
+      console.error(err);
+    }
+  };
 
   useEffect(() => {
     if (searchQuery.trim().length > 1) {
@@ -135,10 +146,15 @@ export default function Navbar({ onMenuClick }: NavbarProps) {
                   <div className="p-2">
                     <h4 className="text-xs font-semibold text-gray-500 uppercase px-3 py-1">Drivers</h4>
                     {searchResults.drivers.map((d, i) => (
-                      <div key={i} className="px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-800 rounded-lg cursor-pointer">
+                      <Link 
+                        to="/drivers"
+                        key={i} 
+                        onClick={() => {setIsSearchOpen(false); setSearchQuery("");}}
+                        className="block px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-800 rounded-lg cursor-pointer"
+                      >
                         <p className="text-sm font-medium dark:text-white">{d.name}</p>
                         <p className="text-xs text-gray-500">{d.licenseNumber}</p>
-                      </div>
+                      </Link>
                     ))}
                   </div>
                 )}
@@ -146,10 +162,15 @@ export default function Navbar({ onMenuClick }: NavbarProps) {
                   <div className="p-2 border-t border-gray-50 dark:border-gray-800">
                     <h4 className="text-xs font-semibold text-gray-500 uppercase px-3 py-1">Vehicles</h4>
                     {searchResults.vehicles.map((v, i) => (
-                      <div key={i} className="px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-800 rounded-lg cursor-pointer">
+                      <Link 
+                        to="/vehicles"
+                        key={i} 
+                        onClick={() => {setIsSearchOpen(false); setSearchQuery("");}}
+                        className="block px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-800 rounded-lg cursor-pointer"
+                      >
                         <p className="text-sm font-medium dark:text-white">{v.regNo}</p>
                         <p className="text-xs text-gray-500">{v.modelName}</p>
-                      </div>
+                      </Link>
                     ))}
                   </div>
                 )}
@@ -198,7 +219,9 @@ export default function Navbar({ onMenuClick }: NavbarProps) {
             className="text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 transition-colors relative p-2 rounded-full hover:bg-gray-100 dark:hover:bg-gray-800"
           >
             <Bell className="w-5 h-5" />
-            <span className="absolute top-1.5 right-1.5 h-2 w-2 bg-[#a70000] rounded-full border-2 border-white dark:border-gray-900"></span>
+            {notifications.some(n => !n.read) && (
+              <span className="absolute top-1.5 right-1.5 h-2 w-2 bg-[#a70000] rounded-full border-2 border-white dark:border-gray-900 animate-pulse"></span>
+            )}
           </button>
           
           <AnimatePresence>
@@ -208,19 +231,26 @@ export default function Navbar({ onMenuClick }: NavbarProps) {
                 animate={{ opacity: 1, y: 0, scale: 1 }}
                 exit={{ opacity: 0, y: 10, scale: 0.95 }}
                 transition={{ duration: 0.15 }}
-                className="absolute right-0 mt-2 w-80 bg-white dark:bg-gray-900 rounded-xl shadow-lg border border-gray-100 dark:border-gray-800 overflow-hidden z-50"
+                className="absolute right-0 mt-2 w-80 max-w-[90vw] sm:w-96 bg-white dark:bg-gray-900 rounded-xl shadow-lg border border-gray-100 dark:border-gray-800 overflow-hidden z-50 origin-top-right"
               >
                 <div className="p-4 border-b border-gray-50 dark:border-gray-800 flex justify-between items-center bg-gray-50/50 dark:bg-gray-800/50">
-                  <h3 className="font-semibold text-gray-900 dark:text-white">Notifications</h3>
-                  <span className="text-xs text-[#17376e] dark:text-blue-400 font-medium cursor-pointer hover:underline">Mark all as read</span>
+                  <h3 className="font-semibold text-gray-900 dark:text-white flex items-center gap-2">
+                    Notifications
+                    {notifications.filter(n => !n.read).length > 0 && (
+                      <span className="bg-[#17376e] text-white text-[10px] px-2 py-0.5 rounded-full">
+                        {notifications.filter(n => !n.read).length} new
+                      </span>
+                    )}
+                  </h3>
+                  <span onClick={markAllAsRead} className="text-xs text-[#17376e] dark:text-blue-400 font-medium cursor-pointer hover:underline">Mark all as read</span>
                 </div>
                 <div className="max-h-80 overflow-y-auto p-2">
                   {notifications.length === 0 ? (
                     <div className="p-4 text-center text-sm text-gray-500">No new notifications</div>
                   ) : (
                     notifications.map((n, i) => (
-                      <div key={i} className="p-3 hover:bg-gray-50 dark:hover:bg-gray-800 rounded-lg cursor-pointer transition-colors mb-1">
-                        <p className="text-sm text-gray-800 dark:text-gray-200 font-medium">{n.title}</p>
+                      <div key={i} className={`p-3 rounded-lg cursor-default transition-colors mb-1 ${!n.read ? 'bg-blue-50 dark:bg-blue-900/10 hover:bg-blue-100 dark:hover:bg-blue-900/20' : 'hover:bg-gray-50 dark:hover:bg-gray-800'}`}>
+                        <p className={`text-sm font-medium ${!n.read ? 'text-[#17376e] dark:text-blue-400' : 'text-gray-800 dark:text-gray-200'}`}>{n.title}</p>
                         <p className="text-xs text-gray-500 dark:text-gray-400 mt-0.5">{n.message}</p>
                         <p className="text-[10px] text-gray-400 mt-1">{new Date(n.createdAt).toLocaleTimeString()}</p>
                       </div>

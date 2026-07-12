@@ -13,6 +13,7 @@ export const getTrips = async (req: Request, res: Response) => {
   }
 };
 
+import { Notification } from "../models/Notification";
 export const createTrip = async (req: Request, res: Response) => {
   try {
     const { vehicleId, driverId, cargoWeight, origin, destination } = req.body;
@@ -53,6 +54,10 @@ export const createTrip = async (req: Request, res: Response) => {
 
     const trip = new Trip({ ...req.body, lifecycleState: "Draft" });
     await trip.save();
+    await Notification.create({
+      title: "Trip Created",
+      message: `Trip from ${trip.origin} to ${trip.destination} was created.`
+    });
     res.status(201).json(trip);
   } catch (error: any) {
     res.status(400).json({ message: error.message });
@@ -86,6 +91,11 @@ export const dispatchTrip = async (req: Request, res: Response) => {
     await Vehicle.updateOne({ _id: trip.vehicleId }, { status: "On Trip" });
     await Driver.updateOne({ _id: trip.driverId }, { status: "On Trip" });
     
+    await Notification.create({
+      title: "Trip Dispatched",
+      message: `Trip to ${trip.destination} has been dispatched.`
+    });
+
     res.json(trip);
   } catch (error: any) {
     res.status(400).json({ message: error.message });
@@ -120,6 +130,11 @@ export const completeTrip = async (req: Request, res: Response) => {
     );
     await Driver.updateOne({ _id: trip.driverId }, { status: "Available" });
     
+    await Notification.create({
+      title: "Trip Completed",
+      message: `Trip to ${trip.destination} has been completed.`
+    });
+
     res.json(trip);
   } catch (error: any) {
     res.status(400).json({ message: error.message });
@@ -146,6 +161,11 @@ export const cancelTrip = async (req: Request, res: Response) => {
       await Driver.updateOne({ _id: trip.driverId }, { status: "Available" });
     }
     
+    await Notification.create({
+      title: "Trip Cancelled",
+      message: `Trip to ${trip.destination} has been cancelled.`
+    });
+
     res.json(trip);
   } catch (error: any) {
     res.status(400).json({ message: error.message });

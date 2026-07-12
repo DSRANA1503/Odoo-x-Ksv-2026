@@ -7,6 +7,7 @@ import ExpenseModal from "../components/modals/ExpenseModal";
 import { financeService } from "../api/services";
 import { Plus, Droplet, CreditCard, Download, FileText } from "lucide-react";
 import { motion, AnimatePresence } from "motion/react";
+import { exportToCSV, exportToPDF } from "../utils/exportUtils";
 
 export default function FuelExpenseView() {
   const [items, setItems] = useState<any[]>([]);
@@ -47,28 +48,16 @@ export default function FuelExpenseView() {
     fetchData();
   }, []);
 
-  const handleExportCSV = () => {
-    if (!items.length) return;
+  const exportData = () => {
     const headers = ["Type", "Amount", "Date", "Vehicle", "Notes"];
-    const csvContent = [
-      headers.join(","),
-      ...items.map(item => [
-        item.type,
-        item.amount,
-        new Date(item.date).toLocaleDateString(),
-        item.vehicleId?.regNo || 'Unknown',
-        `"${(item.notes || '').replace(/"/g, '""')}"`
-      ].join(","))
-    ].join("\n");
-
-    const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
-    const url = URL.createObjectURL(blob);
-    const link = document.createElement('a');
-    link.href = url;
-    link.setAttribute('download', `fuel_expenses_${new Date().toISOString().split('T')[0]}.csv`);
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
+    const data = items.map(item => [
+      item.type,
+      item.amount,
+      new Date(item.date).toLocaleDateString(),
+      item.vehicleId?.regNo || 'Unknown',
+      item.notes || ''
+    ]);
+    return { headers, data };
   };
 
   return (
@@ -83,10 +72,10 @@ export default function FuelExpenseView() {
           <p className="text-sm text-gray-500 dark:text-gray-400 mt-1">Log and monitor fleet operational costs.</p>
         </div>
         <div className="flex items-center gap-2">
-          <button onClick={handleExportCSV} className="flex items-center justify-center gap-2 bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-300 p-2.5 rounded-lg text-sm hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors shadow-sm" title="Export CSV">
+          <button onClick={() => { const { headers, data } = exportData(); exportToCSV(data, headers, "fuel_expenses"); }} className="flex items-center justify-center gap-2 bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-300 p-2.5 rounded-lg text-sm hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors shadow-sm" title="Export CSV">
             <Download className="w-4 h-4 text-gray-500" />
           </button>
-          <button onClick={() => window.print()} className="flex items-center justify-center gap-2 bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-300 p-2.5 rounded-lg text-sm hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors shadow-sm" title="Export PDF (Print)">
+          <button onClick={() => { const { headers, data } = exportData(); exportToPDF(data, headers, "fuel_expenses", "Fuel & Expenses"); }} className="flex items-center justify-center gap-2 bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-300 p-2.5 rounded-lg text-sm hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors shadow-sm" title="Export PDF">
             <FileText className="w-4 h-4 text-gray-500" />
           </button>
           <RoleWrapper allowedRoles={["Fleet Manager", "Financial Analyst", "Admin"]}>

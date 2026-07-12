@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import { Link } from "react-router-dom";
 import { ResponsiveContainer, AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip } from "recharts";
 import KPICard from "../components/dashboard/KPICard";
 import KPIModal from "../components/modals/KPIModal";
@@ -200,6 +201,33 @@ export default function DashboardView() {
             />
           </motion.div>
         ))}
+      </motion.div>
+
+      <motion.div
+        initial={{ opacity: 0, y: 10 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ delay: 0.2 }}
+        className="bg-white dark:bg-gray-900 p-6 rounded-2xl border border-gray-100 dark:border-gray-800 shadow-[0_2px_10px_-3px_rgba(6,81,237,0.05)]"
+      >
+        <h2 className="text-xl font-semibold text-gray-900 dark:text-gray-100 tracking-tight mb-4">Quick Actions</h2>
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <Link to="/vehicles" className="flex flex-col items-center justify-center p-4 rounded-xl bg-violet-50 hover:bg-violet-100 dark:bg-violet-900/20 dark:hover:bg-violet-900/40 text-violet-700 dark:text-violet-300 transition-colors border border-violet-100 dark:border-violet-800">
+            <Truck className="w-6 h-6 mb-2" />
+            <span className="text-sm font-medium">Vehicles</span>
+          </Link>
+          <Link to="/drivers" className="flex flex-col items-center justify-center p-4 rounded-xl bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/20 dark:hover:bg-blue-900/40 text-blue-700 dark:text-blue-300 transition-colors border border-blue-100 dark:border-blue-800">
+            <Users className="w-6 h-6 mb-2" />
+            <span className="text-sm font-medium">Drivers</span>
+          </Link>
+          <Link to="/trips" className="flex flex-col items-center justify-center p-4 rounded-xl bg-emerald-50 hover:bg-emerald-100 dark:bg-emerald-900/20 dark:hover:bg-emerald-900/40 text-emerald-700 dark:text-emerald-300 transition-colors border border-emerald-100 dark:border-emerald-800">
+            <Map className="w-6 h-6 mb-2" />
+            <span className="text-sm font-medium">Dispatch Trip</span>
+          </Link>
+          <Link to="/analytics" className="flex flex-col items-center justify-center p-4 rounded-xl bg-amber-50 hover:bg-amber-100 dark:bg-amber-900/20 dark:hover:bg-amber-900/40 text-amber-700 dark:text-amber-300 transition-colors border border-amber-100 dark:border-amber-800">
+            <TrendingUp className="w-6 h-6 mb-2" />
+            <span className="text-sm font-medium">View Reports</span>
+          </Link>
+        </div>
       </motion.div>
 
       {(user?.role === "Fleet Manager" || user?.role === "Admin" || user?.role === "Financial Analyst") && (

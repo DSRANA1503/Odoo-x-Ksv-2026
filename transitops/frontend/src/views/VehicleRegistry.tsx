@@ -5,8 +5,9 @@ import FilterDropdowns from "../components/dashboard/FilterDropdowns";
 import RoleWrapper from "../components/rbac/RoleWrapper";
 import VehicleModal from "../components/modals/VehicleModal";
 import { vehicleService } from "../api/services";
-import { Search, Plus, Edit2 } from "lucide-react";
+import { Search, Plus, Edit2, Download, FileText } from "lucide-react";
 import { motion, AnimatePresence } from "motion/react";
+import { exportToCSV, exportToPDF } from "../utils/exportUtils";
 
 interface Vehicle {
   _id: string;
@@ -61,6 +62,14 @@ export default function VehicleRegistry() {
     return matchesSearch && matchesStatus;
   });
 
+  const exportData = () => {
+    const headers = ["Reg No", "Model & Type", "Capacity (kg)", "Odometer (km)", "Status", "Region"];
+    const data = filteredVehicles.map(v => [
+      v.regNo, `${v.modelName} (${v.type})`, v.capacity, v.odometer, v.status, v.region
+    ]);
+    return { headers, data };
+  };
+
   return (
     <motion.div 
       initial={{ opacity: 0, y: 10 }}
@@ -72,11 +81,19 @@ export default function VehicleRegistry() {
           <h1 className="text-3xl font-semibold text-gray-900 dark:text-gray-100 tracking-tight">Vehicle Registry</h1>
           <p className="text-gray-500 dark:text-gray-400 mt-1">Manage your fleet, capacities, and current operational statuses.</p>
         </div>
-        <RoleWrapper allowedRoles={["Fleet Manager", "Admin"]}>
-          <button onClick={handleAdd} className="flex items-center justify-center gap-2 bg-violet-600 hover:bg-violet-700 text-white px-5 py-2.5 rounded-lg text-sm font-medium transition-colors shadow-sm w-full sm:w-auto active:scale-95">
-            <Plus className="w-4 h-4" /> Add Vehicle
+        <div className="flex items-center gap-2">
+          <button onClick={() => { const { headers, data } = exportData(); exportToCSV(data, headers, "vehicle_registry"); }} className="flex items-center justify-center gap-2 bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-300 p-2.5 rounded-lg text-sm hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors shadow-sm" title="Export CSV">
+            <Download className="w-4 h-4 text-gray-500" />
           </button>
-        </RoleWrapper>
+          <button onClick={() => { const { headers, data } = exportData(); exportToPDF(data, headers, "vehicle_registry", "Vehicle Registry"); }} className="flex items-center justify-center gap-2 bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-300 p-2.5 rounded-lg text-sm hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors shadow-sm" title="Export PDF">
+            <FileText className="w-4 h-4 text-gray-500" />
+          </button>
+          <RoleWrapper allowedRoles={["Fleet Manager", "Admin"]}>
+            <button onClick={handleAdd} className="flex items-center justify-center gap-2 bg-violet-600 hover:bg-violet-700 text-white px-5 py-2.5 rounded-lg text-sm font-medium transition-colors shadow-sm w-full sm:w-auto active:scale-95 ml-2">
+              <Plus className="w-4 h-4" /> Add Vehicle
+            </button>
+          </RoleWrapper>
+        </div>
       </div>
 
       <div className="bg-white dark:bg-gray-900 rounded-2xl border border-gray-100 dark:border-gray-800 shadow-[0_2px_10px_-3px_rgba(6,81,237,0.05)] overflow-hidden">

@@ -5,8 +5,9 @@ import RoleWrapper from "../components/rbac/RoleWrapper";
 import TripModal from "../components/modals/TripModal";
 import CompleteTripModal from "../components/modals/CompleteTripModal";
 import { tripService } from "../api/services";
-import { Plus, Navigation2, CheckCircle2, XCircle, Search, Filter } from "lucide-react";
+import { Plus, Navigation2, CheckCircle2, XCircle, Search, Filter, Download, FileText } from "lucide-react";
 import { motion, AnimatePresence } from "motion/react";
+import { exportToCSV, exportToPDF } from "../utils/exportUtils";
 
 export default function TripDispatcher() {
   const [trips, setTrips] = useState<any[]>([]);
@@ -64,6 +65,19 @@ export default function TripDispatcher() {
     });
   }, [trips, searchQuery, statusFilter]);
 
+  const exportData = () => {
+    const headers = ["Route", "Vehicle", "Driver", "Cargo (kg)", "Distance (km)", "Status"];
+    const data = filteredTrips.map(trip => [
+      `${trip.origin} -> ${trip.destination}`,
+      trip.vehicleId?.regNo || 'Unknown',
+      trip.driverId?.name || 'Unknown',
+      trip.cargoWeight || 0,
+      trip.plannedDistance || 0,
+      trip.lifecycleState
+    ]);
+    return { headers, data };
+  };
+
   return (
     <motion.div 
       initial={{ opacity: 0, y: 10 }}
@@ -75,11 +89,19 @@ export default function TripDispatcher() {
           <h1 className="text-3xl font-semibold tracking-tight text-gray-900 dark:text-gray-100">Trip Dispatcher</h1>
           <p className="text-sm text-gray-500 dark:text-gray-400 mt-1">Live board and dispatch form.</p>
         </div>
-        <RoleWrapper allowedRoles={["Fleet Manager", "Driver", "Admin"]}>
-          <button onClick={() => setIsModalOpen(true)} className="flex items-center justify-center gap-2 bg-[#17376e] hover:bg-[#122850] text-white px-5 py-2.5 rounded-lg text-sm font-medium transition-colors shadow-sm w-full sm:w-auto active:scale-95">
-            <Plus className="w-4 h-4" /> Create Trip
+        <div className="flex items-center gap-2">
+          <button onClick={() => { const { headers, data } = exportData(); exportToCSV(data, headers, "trip_dispatcher"); }} className="flex items-center justify-center gap-2 bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-300 p-2.5 rounded-lg text-sm hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors shadow-sm" title="Export CSV">
+            <Download className="w-4 h-4 text-gray-500" />
           </button>
-        </RoleWrapper>
+          <button onClick={() => { const { headers, data } = exportData(); exportToPDF(data, headers, "trip_dispatcher", "Trip Dispatcher"); }} className="flex items-center justify-center gap-2 bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-300 p-2.5 rounded-lg text-sm hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors shadow-sm" title="Export PDF">
+            <FileText className="w-4 h-4 text-gray-500" />
+          </button>
+          <RoleWrapper allowedRoles={["Fleet Manager", "Driver", "Admin"]}>
+            <button onClick={() => setIsModalOpen(true)} className="flex items-center justify-center gap-2 bg-[#17376e] hover:bg-[#122850] text-white px-5 py-2.5 rounded-lg text-sm font-medium transition-colors shadow-sm w-full sm:w-auto active:scale-95 ml-2">
+              <Plus className="w-4 h-4" /> Create Trip
+            </button>
+          </RoleWrapper>
+        </div>
       </div>
 
       <div className="bg-white dark:bg-gray-900 p-4 rounded-xl shadow-sm border border-gray-100 dark:border-gray-800 flex flex-wrap items-center gap-4">

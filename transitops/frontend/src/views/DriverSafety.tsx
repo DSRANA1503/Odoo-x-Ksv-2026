@@ -6,8 +6,9 @@ import DriverModal from "../components/modals/DriverModal";
 import DriverSummaryModal from "../components/modals/DriverSummaryModal";
 import { driverService } from "../api/services";
 import { formatDate } from "../utils/formatters";
-import { Plus, Edit2, ShieldAlert, Phone, Search, Filter } from "lucide-react";
+import { Plus, Edit2, ShieldAlert, Phone, Search, Filter, Download, FileText } from "lucide-react";
 import { motion, AnimatePresence } from "motion/react";
+import { exportToCSV, exportToPDF } from "../utils/exportUtils";
 
 interface Driver {
   _id: string;
@@ -78,6 +79,15 @@ export default function DriverSafety() {
     return result;
   }, [drivers, searchQuery, statusFilter, sortOrder]);
 
+  const exportData = () => {
+    const headers = ["Name", "License No", "Category", "Expiry Date", "Contact", "Safety Score", "Status"];
+    const data = filteredDrivers.map(d => [
+      d.name, d.licenseNumber, d.licenseCategory, new Date(d.licenseExpiryDate).toLocaleDateString(), 
+      d.contactNumber, `${d.safetyScore}/100`, d.status
+    ]);
+    return { headers, data };
+  };
+
   if (loading && !drivers.length) return <Loader />;
 
   return (
@@ -91,11 +101,19 @@ export default function DriverSafety() {
           <h1 className="text-3xl font-semibold tracking-tight text-gray-900 dark:text-gray-100">Driver Management</h1>
           <p className="text-sm text-gray-500 dark:text-gray-400 mt-1">Monitor driver profiles, safety scores, and license validity.</p>
         </div>
-        <RoleWrapper allowedRoles={["Fleet Manager", "Safety Officer", "Admin"]}>
-          <button onClick={handleAdd} className="flex items-center justify-center gap-2 bg-[#17376e] hover:bg-[#122850] text-white px-5 py-2.5 rounded-lg text-sm font-medium transition-colors shadow-sm w-full sm:w-auto active:scale-95">
-            <Plus className="w-4 h-4" /> Add Driver
+        <div className="flex items-center gap-2">
+          <button onClick={() => { const { headers, data } = exportData(); exportToCSV(data, headers, "driver_safety"); }} className="flex items-center justify-center gap-2 bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-300 p-2.5 rounded-lg text-sm hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors shadow-sm" title="Export CSV">
+            <Download className="w-4 h-4 text-gray-500" />
           </button>
-        </RoleWrapper>
+          <button onClick={() => { const { headers, data } = exportData(); exportToPDF(data, headers, "driver_safety", "Driver Safety"); }} className="flex items-center justify-center gap-2 bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-300 p-2.5 rounded-lg text-sm hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors shadow-sm" title="Export PDF">
+            <FileText className="w-4 h-4 text-gray-500" />
+          </button>
+          <RoleWrapper allowedRoles={["Fleet Manager", "Safety Officer", "Admin"]}>
+            <button onClick={handleAdd} className="flex items-center justify-center gap-2 bg-[#17376e] hover:bg-[#122850] text-white px-5 py-2.5 rounded-lg text-sm font-medium transition-colors shadow-sm w-full sm:w-auto active:scale-95 ml-2">
+              <Plus className="w-4 h-4" /> Add Driver
+            </button>
+          </RoleWrapper>
+        </div>
       </div>
       
       <div className="bg-white dark:bg-gray-900 p-4 rounded-xl shadow-sm border border-gray-100 dark:border-gray-800 flex flex-wrap items-center gap-4">

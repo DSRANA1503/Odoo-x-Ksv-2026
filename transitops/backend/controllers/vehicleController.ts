@@ -11,10 +11,17 @@ export const getVehicles = async (req: Request, res: Response) => {
   }
 };
 
+import { Notification } from "../models/Notification";
 export const createVehicle = async (req: Request, res: Response) => {
   try {
     const vehicle = new Vehicle(req.body);
     await vehicle.save();
+    
+    await Notification.create({
+      title: "New Vehicle Added",
+      message: `Vehicle ${vehicle.regNo} (${vehicle.modelName}) was added to the fleet.`
+    });
+
     res.status(201).json(vehicle);
   } catch (error: any) {
     if (error.code === 11000) {

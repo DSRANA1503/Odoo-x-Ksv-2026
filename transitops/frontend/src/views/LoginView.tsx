@@ -22,7 +22,7 @@ export default function LoginView() {
       return;
     }
     
-    if (!/^\S+@\S+\.\S+$/.test(email)) {
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
       setError("Please enter a valid email address");
       return;
     }

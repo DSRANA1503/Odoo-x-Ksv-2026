@@ -1,6 +1,7 @@
 import express from "express";
 import { Driver } from "../models/Driver";
 import { Vehicle } from "../models/Vehicle";
+import { Notification } from "../models/Notification";
 
 const router = express.Router();
 
@@ -25,19 +26,21 @@ router.get("/search", async (req, res) => {
 });
 
 router.get("/notifications", async (req, res) => {
-  // Static notifications for demo, normally this would come from a DB
-  res.json([
-    {
-      title: "New Trip Dispatched",
-      message: "Trip TR001 to Ahmedabad Hub started.",
-      createdAt: new Date(Date.now() - 2 * 60 * 1000)
-    },
-    {
-      title: "Maintenance Alert",
-      message: "Vehicle VAN-05 requires oil change.",
-      createdAt: new Date(Date.now() - 60 * 60 * 1000)
-    }
-  ]);
+  try {
+    const notifications = await Notification.find().sort({ createdAt: -1 }).limit(20);
+    res.json(notifications);
+  } catch (error) {
+    res.status(500).json({ message: "Error fetching notifications" });
+  }
+});
+
+router.put("/notifications/read", async (req, res) => {
+  try {
+    await Notification.updateMany({ read: false }, { read: true });
+    res.json({ message: "Marked all as read" });
+  } catch (error) {
+    res.status(500).json({ message: "Error updating notifications" });
+  }
 });
 
 export default router;

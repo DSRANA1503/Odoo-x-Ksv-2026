@@ -24,12 +24,17 @@ export default function RegisterView() {
       return;
     }
     
+    if (name.trim().length < 3) {
+      setError("Full Name must be at least 3 characters long");
+      return;
+    }
+    
     if (!email) {
       setError("Email is required");
       return;
     }
     
-    if (!/^\S+@\S+\.\S+$/.test(email)) {
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
       setError("Please enter a valid email address");
       return;
     }
@@ -39,8 +44,29 @@ export default function RegisterView() {
       return;
     }
     
-    if (password.length < 6) {
-      setError("Password must be at least 6 characters long");
+    // Strong password validation
+    if (password.length < 8) {
+      setError("Password must be at least 8 characters long");
+      return;
+    }
+    
+    if (!/(?=.*[a-z])/.test(password)) {
+      setError("Password must contain at least one lowercase letter");
+      return;
+    }
+
+    if (!/(?=.*[A-Z])/.test(password)) {
+      setError("Password must contain at least one uppercase letter");
+      return;
+    }
+
+    if (!/(?=.*\d)/.test(password)) {
+      setError("Password must contain at least one number");
+      return;
+    }
+
+    if (!/(?=.*[!@#$%^&*])/.test(password)) {
+      setError("Password must contain at least one special character (!@#$%^&*)");
       return;
     }
 

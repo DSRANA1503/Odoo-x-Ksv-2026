@@ -6,6 +6,7 @@ import { analyticsService } from "../api/services";
 import { formatCurrency } from "../utils/formatters";
 import { Download, TrendingUp, TrendingDown, FileText } from "lucide-react";
 import { motion, AnimatePresence } from "motion/react";
+import { exportToCSV, exportToPDF } from "../utils/exportUtils";
 
 export default function AnalyticsView() {
   const [vehiclesData, setVehiclesData] = useState<any[]>([]);
@@ -37,36 +38,34 @@ export default function AnalyticsView() {
     fetchChartData();
   }, []);
 
-  const handleExportCSV = async () => {
-    try {
-      const res = await analyticsService.export();
-      const url = window.URL.createObjectURL(new Blob([res.data]));
-      const link = document.createElement('a');
-      link.href = url;
-      link.setAttribute('download', 'trips_report.csv');
-      document.body.appendChild(link);
-      link.click();
-      link.remove();
-    } catch (err) {
-      console.error(err);
-      alert("Error exporting CSV");
-    }
+  const handleExportCSV = () => {
+    if (!vehiclesData.length) return;
+    const headers = ["Vehicle", "Model", "Distance (km)", "Fuel Efficiency (km/L)", "Revenue", "Op Cost", "ROI (%)"];
+    const data = vehiclesData.map(v => [
+      v.regNo,
+      v.modelName,
+      v.totalDistance || 0,
+      v.fuelEfficiency,
+      v.totalRevenue,
+      v.totalOperationalCost,
+      v.roi
+    ]);
+    exportToCSV(data, headers, "vehicle_performance_report");
   };
 
-  const handleExportPDF = async () => {
-    try {
-      const res = await analyticsService.exportPDF();
-      const url = window.URL.createObjectURL(new Blob([res.data]));
-      const link = document.createElement('a');
-      link.href = url;
-      link.setAttribute('download', 'vehicle_performance_report.pdf');
-      document.body.appendChild(link);
-      link.click();
-      link.remove();
-    } catch (err) {
-      console.error(err);
-      alert("Error exporting PDF");
-    }
+  const handleExportPDF = () => {
+    if (!vehiclesData.length) return;
+    const headers = ["Vehicle", "Model", "Distance (km)", "Fuel Efficiency (km/L)", "Revenue", "Op Cost", "ROI (%)"];
+    const data = vehiclesData.map(v => [
+      v.regNo,
+      v.modelName,
+      v.totalDistance || 0,
+      v.fuelEfficiency,
+      formatCurrency(v.totalRevenue),
+      formatCurrency(v.totalOperationalCost),
+      `${v.roi}%`
+    ]);
+    exportToPDF(data, headers, "vehicle_performance_report", "Vehicle Performance Breakdown");
   };
 
   return (
@@ -80,16 +79,14 @@ export default function AnalyticsView() {
           <h1 className="text-3xl font-semibold tracking-tight text-gray-900 dark:text-gray-100">Analytics & Reports</h1>
           <p className="text-sm text-gray-500 dark:text-gray-400 mt-1">Fleet performance, Fuel Efficiency, and ROI metrics.</p>
         </div>
-        <RoleWrapper allowedRoles={["Fleet Manager", "Financial Analyst", "Admin"]}>
-          <div className="flex gap-2">
-            <button onClick={handleExportCSV} className="flex items-center justify-center gap-2 bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-300 px-5 py-2.5 rounded-lg text-sm font-medium hover:bg-gray-50 dark:hover:bg-gray-800 dark:bg-gray-800 transition-colors shadow-sm w-full sm:w-auto active:scale-95"> 
-              <Download className="w-4 h-4 text-[#17376e]" /> CSV
-            </button>
-            <button onClick={handleExportPDF} className="flex items-center justify-center gap-2 bg-[#17376e] text-white px-5 py-2.5 rounded-lg text-sm font-medium hover:bg-[#122850] transition-colors shadow-sm w-full sm:w-auto active:scale-95"> 
-              <FileText className="w-4 h-4" /> PDF
-            </button>
-          </div>
-        </RoleWrapper>
+        <div className="flex gap-2">
+          <button onClick={handleExportCSV} className="flex items-center justify-center gap-2 bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-300 px-5 py-2.5 rounded-lg text-sm font-medium hover:bg-gray-50 dark:hover:bg-gray-800 dark:bg-gray-800 transition-colors shadow-sm w-full sm:w-auto active:scale-95"> 
+            <Download className="w-4 h-4 text-[#17376e]" /> CSV
+          </button>
+          <button onClick={handleExportPDF} className="flex items-center justify-center gap-2 bg-[#17376e] text-white px-5 py-2.5 rounded-lg text-sm font-medium hover:bg-[#122850] transition-colors shadow-sm w-full sm:w-auto active:scale-95"> 
+            <FileText className="w-4 h-4" /> PDF
+          </button>
+        </div>
       </div>
 
       <div className="bg-white dark:bg-gray-900 rounded-2xl border border-gray-100 dark:border-gray-800 shadow-[0_2px_10px_-3px_rgba(6,81,237,0.05)] overflow-hidden">

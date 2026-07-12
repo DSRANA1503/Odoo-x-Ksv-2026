@@ -1,9 +1,10 @@
 import { useState, useEffect } from "react";
 import { motion } from "motion/react";
-import { Users, Search } from "lucide-react";
+import { Users, Search, Download, FileText } from "lucide-react";
 import RoleWrapper from "../components/rbac/RoleWrapper";
 import axiosClient from "../api/axiosClient";
 import Loader from "../components/common/Loader";
+import { exportToCSV, exportToPDF } from "../utils/exportUtils";
 
 export default function AuditLogsView() {
   const [users, setUsers] = useState<any[]>([]);
@@ -26,14 +27,30 @@ export default function AuditLogsView() {
 
   const filteredUsers = users.filter((u) => u.name.toLowerCase().includes(search.toLowerCase()) || u.email.toLowerCase().includes(search.toLowerCase()));
 
+  const exportData = () => {
+    const headers = ["User", "Role", "Email"];
+    const data = filteredUsers.map(u => [u.name, u.role, u.email]);
+    return { headers, data };
+  };
+
   if (loading) return <Loader />;
 
   return (
     <RoleWrapper allowedRoles={["Admin"]}>
       <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} className="space-y-6">
-        <div>
-          <h1 className="text-3xl font-semibold tracking-tight text-gray-900 dark:text-gray-100">Audit Logs & Users</h1>
-          <p className="text-sm text-gray-500 dark:text-gray-400 mt-1">Admin view of all registered users in the application.</p>
+        <div className="flex flex-col sm:flex-row justify-between sm:items-center gap-4">
+          <div>
+            <h1 className="text-3xl font-semibold tracking-tight text-gray-900 dark:text-gray-100">Audit Logs & Users</h1>
+            <p className="text-sm text-gray-500 dark:text-gray-400 mt-1">Admin view of all registered users in the application.</p>
+          </div>
+          <div className="flex items-center gap-2">
+            <button onClick={() => { const { headers, data } = exportData(); exportToCSV(data, headers, "audit_logs"); }} className="flex items-center justify-center gap-2 bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-300 p-2.5 rounded-lg text-sm hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors shadow-sm" title="Export CSV">
+              <Download className="w-4 h-4 text-gray-500" />
+            </button>
+            <button onClick={() => { const { headers, data } = exportData(); exportToPDF(data, headers, "audit_logs", "Audit Logs & Users"); }} className="flex items-center justify-center gap-2 bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-300 p-2.5 rounded-lg text-sm hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors shadow-sm" title="Export PDF">
+              <FileText className="w-4 h-4 text-gray-500" />
+            </button>
+          </div>
         </div>
 
         <div className="bg-white dark:bg-gray-900 p-4 rounded-xl shadow-sm border border-gray-100 dark:border-gray-800 flex flex-wrap items-center gap-4">

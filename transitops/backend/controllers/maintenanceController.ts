@@ -12,6 +12,7 @@ export const getMaintenanceLogs = async (req: Request, res: Response) => {
   }
 };
 
+import { Notification } from "../models/Notification";
 export const logMaintenance = async (req: Request, res: Response) => {
   try {
     const { vehicleId } = req.body;
@@ -29,6 +30,11 @@ export const logMaintenance = async (req: Request, res: Response) => {
       await Vehicle.updateOne({ _id: vehicleId }, { status: "In Shop" });
     }
     
+    await Notification.create({
+      title: "Maintenance Logged",
+      message: `Vehicle ${vehicle.regNo} has been logged for maintenance.`
+    });
+
     res.status(201).json(log);
   } catch (error: any) {
     res.status(400).json({ message: error.message });
