@@ -1,0 +1,2762 @@
+[
+  {
+    "_id": {
+      "$oid": "6a5375329c55e88ec4dc811f"
+    },
+    "vehicleId": {
+      "$oid": "6a537532e9aab06a1d5a96ba"
+    },
+    "driverId": {
+      "$oid": "6a537532ca4b4e0ef7c3a478"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4791,
+    "cargoWeight": 6684,
+    "lifecycleState": "Completed",
+    "revenue": 4596,
+    "createdAt": {
+      "$date": "2026-04-30T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-30T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d7befb7b66210b09"
+    },
+    "vehicleId": {
+      "$oid": "6a537532b13f640cf28c8b6d"
+    },
+    "driverId": {
+      "$oid": "6a5375327d62e9c038b8a060"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4907,
+    "cargoWeight": 8181,
+    "lifecycleState": "Completed",
+    "revenue": 3136,
+    "createdAt": {
+      "$date": "2026-06-29T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-29T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532f1d1df814a4877f6"
+    },
+    "vehicleId": {
+      "$oid": "6a5375328fce8ba4790064fc"
+    },
+    "driverId": {
+      "$oid": "6a5375322f0155f806fbd3f7"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4908,
+    "cargoWeight": 7223,
+    "lifecycleState": "Completed",
+    "revenue": 2277,
+    "createdAt": {
+      "$date": "2026-04-20T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-20T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375326d016c879182eec6"
+    },
+    "vehicleId": {
+      "$oid": "6a5375323d385cc5c7d9ba4a"
+    },
+    "driverId": {
+      "$oid": "6a5375326708fe0a66697efb"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4936,
+    "cargoWeight": 8440,
+    "lifecycleState": "Completed",
+    "revenue": 3172,
+    "createdAt": {
+      "$date": "2026-06-28T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-28T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375325194a574e006de2d"
+    },
+    "vehicleId": {
+      "$oid": "6a537532fcdd038fb086297c"
+    },
+    "driverId": {
+      "$oid": "6a537532c770d30673a32c4a"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4877,
+    "cargoWeight": 9527,
+    "lifecycleState": "Dispatched",
+    "revenue": 2019,
+    "createdAt": {
+      "$date": "2026-04-23T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-23T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375326bb8b4c5462aaa05"
+    },
+    "vehicleId": {
+      "$oid": "6a5375328ced866d015284f9"
+    },
+    "driverId": {
+      "$oid": "6a537532bd7bc1cbe5aa6814"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4640,
+    "cargoWeight": 5549,
+    "lifecycleState": "Completed",
+    "revenue": 3110,
+    "createdAt": {
+      "$date": "2026-05-22T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-22T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375322d028460b3fbe5fb"
+    },
+    "vehicleId": {
+      "$oid": "6a53753227eb7b2d61bf5e60"
+    },
+    "driverId": {
+      "$oid": "6a53753243e5c7ac308a8e9c"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4689,
+    "cargoWeight": 9552,
+    "lifecycleState": "Completed",
+    "revenue": 4169,
+    "createdAt": {
+      "$date": "2026-04-19T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-19T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532723daa38090a9e56"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d4d3a0fd39a49c05"
+    },
+    "driverId": {
+      "$oid": "6a537532afb08d5e0ebfd3c6"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4702,
+    "cargoWeight": 6076,
+    "lifecycleState": "Completed",
+    "revenue": 4111,
+    "createdAt": {
+      "$date": "2026-05-04T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-04T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328a94ae53f69f4b78"
+    },
+    "vehicleId": {
+      "$oid": "6a53753227eb7b2d61bf5e60"
+    },
+    "driverId": {
+      "$oid": "6a5375321a55d8cedeebd87d"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4982,
+    "cargoWeight": 6715,
+    "lifecycleState": "Completed",
+    "revenue": 2858,
+    "createdAt": {
+      "$date": "2026-04-23T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-23T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c2850c21572be106"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ebb6ca8478f765d8"
+    },
+    "driverId": {
+      "$oid": "6a537532dfdfd2b7e9e5073a"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4867,
+    "cargoWeight": 7490,
+    "lifecycleState": "Dispatched",
+    "revenue": 3326,
+    "createdAt": {
+      "$date": "2026-07-05T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-05T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532641447ff65a452ef"
+    },
+    "vehicleId": {
+      "$oid": "6a53753299467b1398761cc3"
+    },
+    "driverId": {
+      "$oid": "6a5375329c373ec923039d8c"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4860,
+    "cargoWeight": 6352,
+    "lifecycleState": "Completed",
+    "revenue": 3709,
+    "createdAt": {
+      "$date": "2026-05-22T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-22T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375320a97af4478986fba"
+    },
+    "vehicleId": {
+      "$oid": "6a537532f481048c0ff15c36"
+    },
+    "driverId": {
+      "$oid": "6a537532c47e598372df387a"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4919,
+    "cargoWeight": 8537,
+    "lifecycleState": "Completed",
+    "revenue": 2641,
+    "createdAt": {
+      "$date": "2026-06-18T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-18T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d73b380b54c1b106"
+    },
+    "vehicleId": {
+      "$oid": "6a5375328fce8ba4790064fc"
+    },
+    "driverId": {
+      "$oid": "6a5375327f77a36a9202a345"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4798,
+    "cargoWeight": 9688,
+    "lifecycleState": "Completed",
+    "revenue": 4766,
+    "createdAt": {
+      "$date": "2026-04-07T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-07T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753274f6174b592e1a85"
+    },
+    "vehicleId": {
+      "$oid": "6a537532e1a0b51f20b7a52e"
+    },
+    "driverId": {
+      "$oid": "6a5375323d054c27c0ff4047"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4917,
+    "cargoWeight": 6916,
+    "lifecycleState": "Completed",
+    "revenue": 4725,
+    "createdAt": {
+      "$date": "2026-05-29T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-29T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532293ca3d04418c922"
+    },
+    "vehicleId": {
+      "$oid": "6a537532fa3683ae81cf81c8"
+    },
+    "driverId": {
+      "$oid": "6a5375322c859c995a53378c"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4647,
+    "cargoWeight": 9011,
+    "lifecycleState": "Dispatched",
+    "revenue": 4884,
+    "createdAt": {
+      "$date": "2026-05-04T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-04T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e12e704f799ae808"
+    },
+    "vehicleId": {
+      "$oid": "6a5375329dfa899f42e698cc"
+    },
+    "driverId": {
+      "$oid": "6a5375328044d7924abc8909"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4723,
+    "cargoWeight": 6637,
+    "lifecycleState": "Completed",
+    "revenue": 3340,
+    "createdAt": {
+      "$date": "2026-05-26T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-26T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532a115bb89fbf77a41"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d8392f0a02f9b47e"
+    },
+    "driverId": {
+      "$oid": "6a5375328811cf9ecc851e6a"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4656,
+    "cargoWeight": 7420,
+    "lifecycleState": "Completed",
+    "revenue": 4340,
+    "createdAt": {
+      "$date": "2026-06-22T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-22T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532448efe16144d0363"
+    },
+    "vehicleId": {
+      "$oid": "6a5375324f2578d59c79ffc4"
+    },
+    "driverId": {
+      "$oid": "6a53753254f623199f7f61e2"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4720,
+    "cargoWeight": 7138,
+    "lifecycleState": "Completed",
+    "revenue": 4542,
+    "createdAt": {
+      "$date": "2026-04-10T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-10T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375326502d82f72c5b905"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d27de402eb5b49be"
+    },
+    "driverId": {
+      "$oid": "6a5375322f0155f806fbd3f7"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4783,
+    "cargoWeight": 6340,
+    "lifecycleState": "Completed",
+    "revenue": 4243,
+    "createdAt": {
+      "$date": "2026-04-29T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-29T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753243456f77e04451d1"
+    },
+    "vehicleId": {
+      "$oid": "6a5375324f2578d59c79ffc4"
+    },
+    "driverId": {
+      "$oid": "6a5375320f3e10121007f0e8"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4947,
+    "cargoWeight": 8452,
+    "lifecycleState": "Dispatched",
+    "revenue": 2106,
+    "createdAt": {
+      "$date": "2026-05-24T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-24T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532bd523c459bbb3594"
+    },
+    "vehicleId": {
+      "$oid": "6a537532aa7c9dc5b05fa49d"
+    },
+    "driverId": {
+      "$oid": "6a5375323dff05a541969db1"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4885,
+    "cargoWeight": 7103,
+    "lifecycleState": "Completed",
+    "revenue": 2836,
+    "createdAt": {
+      "$date": "2026-07-01T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-01T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328c62b2d6a199e3cf"
+    },
+    "vehicleId": {
+      "$oid": "6a5375320e55bd8657dd72f9"
+    },
+    "driverId": {
+      "$oid": "6a537532248c9e5e6684b28a"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4975,
+    "cargoWeight": 8809,
+    "lifecycleState": "Completed",
+    "revenue": 3025,
+    "createdAt": {
+      "$date": "2026-06-18T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-18T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d9bc87fc54c8d9d5"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ec602c9664600f73"
+    },
+    "driverId": {
+      "$oid": "6a5375321fa3906a9d850b10"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4547,
+    "cargoWeight": 7135,
+    "lifecycleState": "Completed",
+    "revenue": 3956,
+    "createdAt": {
+      "$date": "2026-06-25T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-25T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532eccebaeda96074b6"
+    },
+    "vehicleId": {
+      "$oid": "6a5375320e55bd8657dd72f9"
+    },
+    "driverId": {
+      "$oid": "6a537532e099d4fb44bf20d6"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4733,
+    "cargoWeight": 6059,
+    "lifecycleState": "Completed",
+    "revenue": 3990,
+    "createdAt": {
+      "$date": "2026-05-14T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-14T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532f78804c5e805052c"
+    },
+    "vehicleId": {
+      "$oid": "6a5375321c18f16b9d68ca7a"
+    },
+    "driverId": {
+      "$oid": "6a53753223400f082b09ed72"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4605,
+    "cargoWeight": 9391,
+    "lifecycleState": "Dispatched",
+    "revenue": 2873,
+    "createdAt": {
+      "$date": "2026-06-04T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-04T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375322fa8b8610c742e7b"
+    },
+    "vehicleId": {
+      "$oid": "6a53753271ec652aa4a74cf7"
+    },
+    "driverId": {
+      "$oid": "6a537532e099d4fb44bf20d6"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4990,
+    "cargoWeight": 5112,
+    "lifecycleState": "Completed",
+    "revenue": 4486,
+    "createdAt": {
+      "$date": "2026-06-27T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-27T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753219670fa0f8eb88f9"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ad948c302d9b9d36"
+    },
+    "driverId": {
+      "$oid": "6a5375324a665490e72ca1eb"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4907,
+    "cargoWeight": 5205,
+    "lifecycleState": "Completed",
+    "revenue": 2175,
+    "createdAt": {
+      "$date": "2026-04-10T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-10T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b40f7eaf60494fd0"
+    },
+    "vehicleId": {
+      "$oid": "6a5375328fce8ba4790064fc"
+    },
+    "driverId": {
+      "$oid": "6a5375328044d7924abc8909"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4727,
+    "cargoWeight": 9192,
+    "lifecycleState": "Completed",
+    "revenue": 2221,
+    "createdAt": {
+      "$date": "2026-05-09T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-09T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532db24e95cbf7f24cb"
+    },
+    "vehicleId": {
+      "$oid": "6a53753214ebb5e57da6ee1c"
+    },
+    "driverId": {
+      "$oid": "6a5375329c373ec923039d8c"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4667,
+    "cargoWeight": 6771,
+    "lifecycleState": "Completed",
+    "revenue": 2378,
+    "createdAt": {
+      "$date": "2026-06-26T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-26T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ea45fdb6e9e14130"
+    },
+    "vehicleId": {
+      "$oid": "6a537532944356d4b32f442e"
+    },
+    "driverId": {
+      "$oid": "6a537532d62d74671a87b04b"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4519,
+    "cargoWeight": 6810,
+    "lifecycleState": "Dispatched",
+    "revenue": 3645,
+    "createdAt": {
+      "$date": "2026-05-28T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-28T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c567bc7423d1f46a"
+    },
+    "vehicleId": {
+      "$oid": "6a537532aa2d02d0f9841ca2"
+    },
+    "driverId": {
+      "$oid": "6a53753238dc8b71ad3a18c0"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4609,
+    "cargoWeight": 9927,
+    "lifecycleState": "Completed",
+    "revenue": 2434,
+    "createdAt": {
+      "$date": "2026-04-26T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-26T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532974158512a97f02a"
+    },
+    "vehicleId": {
+      "$oid": "6a537532a31adf2f891934e0"
+    },
+    "driverId": {
+      "$oid": "6a5375324ffc9d5e8ecb2d7d"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4986,
+    "cargoWeight": 7037,
+    "lifecycleState": "Completed",
+    "revenue": 4171,
+    "createdAt": {
+      "$date": "2026-05-15T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-15T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532bf305cdd281e1f97"
+    },
+    "vehicleId": {
+      "$oid": "6a537532cbd23e6f7b1ba64f"
+    },
+    "driverId": {
+      "$oid": "6a5375320f3e10121007f0e8"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4749,
+    "cargoWeight": 8032,
+    "lifecycleState": "Completed",
+    "revenue": 2660,
+    "createdAt": {
+      "$date": "2026-04-16T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-16T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375326428222a3a43f246"
+    },
+    "vehicleId": {
+      "$oid": "6a5375329512ed67474663de"
+    },
+    "driverId": {
+      "$oid": "6a53753285cef20b55835a19"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4623,
+    "cargoWeight": 7225,
+    "lifecycleState": "Completed",
+    "revenue": 3536,
+    "createdAt": {
+      "$date": "2026-06-14T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-14T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375320c0b8ea239c055d0"
+    },
+    "vehicleId": {
+      "$oid": "6a53753270af727a07b7a465"
+    },
+    "driverId": {
+      "$oid": "6a537532de605ff8f98e63dd"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4876,
+    "cargoWeight": 9780,
+    "lifecycleState": "Dispatched",
+    "revenue": 4363,
+    "createdAt": {
+      "$date": "2026-06-29T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-29T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375323788e959d65d8b23"
+    },
+    "vehicleId": {
+      "$oid": "6a53753243efb3119ecee5ca"
+    },
+    "driverId": {
+      "$oid": "6a537532634345c40ea3ddae"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4600,
+    "cargoWeight": 8658,
+    "lifecycleState": "Completed",
+    "revenue": 3556,
+    "createdAt": {
+      "$date": "2026-06-10T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-10T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532611f87f0e4bbb45b"
+    },
+    "vehicleId": {
+      "$oid": "6a53753255ac7f036331b094"
+    },
+    "driverId": {
+      "$oid": "6a5375327d62e9c038b8a060"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4540,
+    "cargoWeight": 9527,
+    "lifecycleState": "Completed",
+    "revenue": 3849,
+    "createdAt": {
+      "$date": "2026-05-08T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-08T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753237a2059bf0088c40"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ad7a590c7b15e370"
+    },
+    "driverId": {
+      "$oid": "6a537532f3e80e500bc734ab"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4695,
+    "cargoWeight": 7669,
+    "lifecycleState": "Completed",
+    "revenue": 4695,
+    "createdAt": {
+      "$date": "2026-05-18T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-18T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532f04efe949fdb6fc3"
+    },
+    "vehicleId": {
+      "$oid": "6a537532b13f640cf28c8b6d"
+    },
+    "driverId": {
+      "$oid": "6a5375328811cf9ecc851e6a"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4621,
+    "cargoWeight": 9414,
+    "lifecycleState": "Completed",
+    "revenue": 2424,
+    "createdAt": {
+      "$date": "2026-04-20T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-20T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328e1da4c36a3f4d4c"
+    },
+    "vehicleId": {
+      "$oid": "6a5375323900a3f4cf7cc91b"
+    },
+    "driverId": {
+      "$oid": "6a5375325ad2d13e093e61fe"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4669,
+    "cargoWeight": 9147,
+    "lifecycleState": "Dispatched",
+    "revenue": 3384,
+    "createdAt": {
+      "$date": "2026-04-17T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-17T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375329ca1d4d063977552"
+    },
+    "vehicleId": {
+      "$oid": "6a53753299467b1398761cc3"
+    },
+    "driverId": {
+      "$oid": "6a5375329c373ec923039d8c"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4614,
+    "cargoWeight": 5133,
+    "lifecycleState": "Completed",
+    "revenue": 2942,
+    "createdAt": {
+      "$date": "2026-05-07T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-07T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375323940e9ecc49d87de"
+    },
+    "vehicleId": {
+      "$oid": "6a53753257a6154398f540e7"
+    },
+    "driverId": {
+      "$oid": "6a53753262d3da73f2b0b9b4"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4604,
+    "cargoWeight": 6008,
+    "lifecycleState": "Completed",
+    "revenue": 4840,
+    "createdAt": {
+      "$date": "2026-05-13T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-13T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753297151c70ee4a11ec"
+    },
+    "vehicleId": {
+      "$oid": "6a537532a31adf2f891934e0"
+    },
+    "driverId": {
+      "$oid": "6a5375324a665490e72ca1eb"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4923,
+    "cargoWeight": 8421,
+    "lifecycleState": "Completed",
+    "revenue": 2197,
+    "createdAt": {
+      "$date": "2026-05-09T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-09T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532de051e17c24de12a"
+    },
+    "vehicleId": {
+      "$oid": "6a5375327cddf8a10a787fc4"
+    },
+    "driverId": {
+      "$oid": "6a537532b015d3e301ba4311"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4917,
+    "cargoWeight": 8133,
+    "lifecycleState": "Completed",
+    "revenue": 2885,
+    "createdAt": {
+      "$date": "2026-04-21T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-21T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532483eb1c44d153737"
+    },
+    "vehicleId": {
+      "$oid": "6a537532f79182d0f01ce443"
+    },
+    "driverId": {
+      "$oid": "6a537532429a4b7ab6187b2d"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4592,
+    "cargoWeight": 7695,
+    "lifecycleState": "Dispatched",
+    "revenue": 3409,
+    "createdAt": {
+      "$date": "2026-05-15T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-15T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753236197d8d8d3934ed"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ef64607dc3a3a96f"
+    },
+    "driverId": {
+      "$oid": "6a537532370ae1844ada8876"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4764,
+    "cargoWeight": 9866,
+    "lifecycleState": "Completed",
+    "revenue": 2328,
+    "createdAt": {
+      "$date": "2026-05-18T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-18T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753205d710291a962239"
+    },
+    "vehicleId": {
+      "$oid": "6a537532969ace0265a2d014"
+    },
+    "driverId": {
+      "$oid": "6a5375321a55d8cedeebd87d"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4995,
+    "cargoWeight": 9318,
+    "lifecycleState": "Completed",
+    "revenue": 3934,
+    "createdAt": {
+      "$date": "2026-06-04T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-04T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375326d0a528af2767141"
+    },
+    "vehicleId": {
+      "$oid": "6a537532c38d45551fc1ceb2"
+    },
+    "driverId": {
+      "$oid": "6a537532248e80cd9c46f095"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4529,
+    "cargoWeight": 6901,
+    "lifecycleState": "Completed",
+    "revenue": 4850,
+    "createdAt": {
+      "$date": "2026-05-06T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-06T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e37c3c344f50eebc"
+    },
+    "vehicleId": {
+      "$oid": "6a537532fcdd038fb086297c"
+    },
+    "driverId": {
+      "$oid": "6a537532fed15d1edf37cdb3"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4960,
+    "cargoWeight": 9764,
+    "lifecycleState": "Completed",
+    "revenue": 3013,
+    "createdAt": {
+      "$date": "2026-04-22T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-22T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532cc42abb94cd1af7c"
+    },
+    "vehicleId": {
+      "$oid": "6a53753257a6154398f540e7"
+    },
+    "driverId": {
+      "$oid": "6a5375320f3e10121007f0e8"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4678,
+    "cargoWeight": 7276,
+    "lifecycleState": "Dispatched",
+    "revenue": 4375,
+    "createdAt": {
+      "$date": "2026-05-22T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-22T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532a585d78f0752fac6"
+    },
+    "vehicleId": {
+      "$oid": "6a537532b6293e69ce278593"
+    },
+    "driverId": {
+      "$oid": "6a53753223594ebd2708f83d"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4511,
+    "cargoWeight": 8874,
+    "lifecycleState": "Completed",
+    "revenue": 4736,
+    "createdAt": {
+      "$date": "2026-06-19T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-19T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532be03a84fcafeed63"
+    },
+    "vehicleId": {
+      "$oid": "6a537532db1268d5860378dd"
+    },
+    "driverId": {
+      "$oid": "6a5375326708fe0a66697efb"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4672,
+    "cargoWeight": 7242,
+    "lifecycleState": "Completed",
+    "revenue": 4810,
+    "createdAt": {
+      "$date": "2026-05-08T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-08T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328f5a0ad24c8d4bf7"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ce83131a8bed31a1"
+    },
+    "driverId": {
+      "$oid": "6a537532942271db3c0bbdfe"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4937,
+    "cargoWeight": 6737,
+    "lifecycleState": "Completed",
+    "revenue": 3118,
+    "createdAt": {
+      "$date": "2026-07-04T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-04T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375327b8c5b20360b007f"
+    },
+    "vehicleId": {
+      "$oid": "6a537532063aec266daf5cab"
+    },
+    "driverId": {
+      "$oid": "6a537532248c9e5e6684b28a"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4788,
+    "cargoWeight": 6613,
+    "lifecycleState": "Completed",
+    "revenue": 3669,
+    "createdAt": {
+      "$date": "2026-05-08T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-08T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375329ac623b79cae4bbf"
+    },
+    "vehicleId": {
+      "$oid": "6a537532c6f05e6badaf85dc"
+    },
+    "driverId": {
+      "$oid": "6a53753215ada1489af14f77"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4684,
+    "cargoWeight": 6242,
+    "lifecycleState": "Dispatched",
+    "revenue": 3235,
+    "createdAt": {
+      "$date": "2026-06-29T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-29T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753238edaf935858a3aa"
+    },
+    "vehicleId": {
+      "$oid": "6a537532aa7c9dc5b05fa49d"
+    },
+    "driverId": {
+      "$oid": "6a537532c8d971b8356bbc4d"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4887,
+    "cargoWeight": 9107,
+    "lifecycleState": "Completed",
+    "revenue": 2314,
+    "createdAt": {
+      "$date": "2026-05-18T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-18T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375327f39d428f107f8a9"
+    },
+    "vehicleId": {
+      "$oid": "6a537532db1268d5860378dd"
+    },
+    "driverId": {
+      "$oid": "6a5375326708fe0a66697efb"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4985,
+    "cargoWeight": 8107,
+    "lifecycleState": "Completed",
+    "revenue": 2283,
+    "createdAt": {
+      "$date": "2026-05-06T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-06T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753226c79e420f0a17ae"
+    },
+    "vehicleId": {
+      "$oid": "6a537532f63dffc4542208b1"
+    },
+    "driverId": {
+      "$oid": "6a537532ceca81edc2a5b0a3"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4949,
+    "cargoWeight": 9634,
+    "lifecycleState": "Completed",
+    "revenue": 3714,
+    "createdAt": {
+      "$date": "2026-06-10T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-10T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375324a08eed8690d48de"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ad948c302d9b9d36"
+    },
+    "driverId": {
+      "$oid": "6a537532e5c0456a06d922c8"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4755,
+    "cargoWeight": 5831,
+    "lifecycleState": "Completed",
+    "revenue": 3008,
+    "createdAt": {
+      "$date": "2026-06-20T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-20T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375320d4cdcb5a3611cea"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d8fa492292b9294c"
+    },
+    "driverId": {
+      "$oid": "6a537532370ae1844ada8876"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4858,
+    "cargoWeight": 7240,
+    "lifecycleState": "Dispatched",
+    "revenue": 2416,
+    "createdAt": {
+      "$date": "2026-07-04T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-04T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753238838e1f93c05f1c"
+    },
+    "vehicleId": {
+      "$oid": "6a537532fa21b978d245cbf3"
+    },
+    "driverId": {
+      "$oid": "6a537532b55f4968adce27ee"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4508,
+    "cargoWeight": 5272,
+    "lifecycleState": "Completed",
+    "revenue": 4356,
+    "createdAt": {
+      "$date": "2026-05-02T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-02T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d597e8e24db324db"
+    },
+    "vehicleId": {
+      "$oid": "6a537532e1a0b51f20b7a52e"
+    },
+    "driverId": {
+      "$oid": "6a53753299cb786a2c4ff2b8"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4888,
+    "cargoWeight": 6282,
+    "lifecycleState": "Completed",
+    "revenue": 4827,
+    "createdAt": {
+      "$date": "2026-06-29T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-29T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532f049131e1a2d4088"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d4d3a0fd39a49c05"
+    },
+    "driverId": {
+      "$oid": "6a537532859ace59f8fe7fd5"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4776,
+    "cargoWeight": 9009,
+    "lifecycleState": "Completed",
+    "revenue": 2001,
+    "createdAt": {
+      "$date": "2026-06-27T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-27T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753216f4bdf9a48dbb71"
+    },
+    "vehicleId": {
+      "$oid": "6a537532fcdd038fb086297c"
+    },
+    "driverId": {
+      "$oid": "6a537532e9129f9f60c9a2af"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4929,
+    "cargoWeight": 6522,
+    "lifecycleState": "Completed",
+    "revenue": 3248,
+    "createdAt": {
+      "$date": "2026-07-05T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-05T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753267d7d75a73264c6f"
+    },
+    "vehicleId": {
+      "$oid": "6a5375320e55bd8657dd72f9"
+    },
+    "driverId": {
+      "$oid": "6a537532e2abdab48400fe74"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4543,
+    "cargoWeight": 8062,
+    "lifecycleState": "Dispatched",
+    "revenue": 2563,
+    "createdAt": {
+      "$date": "2026-04-13T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-13T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753244d2f85eb04040e3"
+    },
+    "vehicleId": {
+      "$oid": "6a537532969f6a1d8454cc21"
+    },
+    "driverId": {
+      "$oid": "6a5375323d054c27c0ff4047"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4514,
+    "cargoWeight": 7102,
+    "lifecycleState": "Completed",
+    "revenue": 3472,
+    "createdAt": {
+      "$date": "2026-05-08T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-08T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c3a21d0635b4cb79"
+    },
+    "vehicleId": {
+      "$oid": "6a53753295bf37977257af49"
+    },
+    "driverId": {
+      "$oid": "6a53753223594ebd2708f83d"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4911,
+    "cargoWeight": 8739,
+    "lifecycleState": "Completed",
+    "revenue": 4468,
+    "createdAt": {
+      "$date": "2026-06-13T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-13T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c055b50b8bff9b2a"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ac44d3ab84145978"
+    },
+    "driverId": {
+      "$oid": "6a537532859ace59f8fe7fd5"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4981,
+    "cargoWeight": 8241,
+    "lifecycleState": "Completed",
+    "revenue": 4286,
+    "createdAt": {
+      "$date": "2026-06-27T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-27T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375322d970960f85dc2a6"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ad7a590c7b15e370"
+    },
+    "driverId": {
+      "$oid": "6a537532338fe5b75eda0d29"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4992,
+    "cargoWeight": 7789,
+    "lifecycleState": "Completed",
+    "revenue": 2445,
+    "createdAt": {
+      "$date": "2026-06-04T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-04T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532522f81e425c49755"
+    },
+    "vehicleId": {
+      "$oid": "6a537532b4cb97f396b6dfcb"
+    },
+    "driverId": {
+      "$oid": "6a53753254f623199f7f61e2"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4674,
+    "cargoWeight": 7514,
+    "lifecycleState": "Dispatched",
+    "revenue": 3564,
+    "createdAt": {
+      "$date": "2026-04-26T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-26T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328891ccec270ba9e9"
+    },
+    "vehicleId": {
+      "$oid": "6a53753294207e0b4597028f"
+    },
+    "driverId": {
+      "$oid": "6a53753210208402b83bcde2"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4729,
+    "cargoWeight": 5596,
+    "lifecycleState": "Completed",
+    "revenue": 2801,
+    "createdAt": {
+      "$date": "2026-05-02T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-02T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532819581a95a2e379e"
+    },
+    "vehicleId": {
+      "$oid": "6a5375328b2320ab0c463f9f"
+    },
+    "driverId": {
+      "$oid": "6a537532ddd87c9bcc6fa55a"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4583,
+    "cargoWeight": 6322,
+    "lifecycleState": "Completed",
+    "revenue": 3001,
+    "createdAt": {
+      "$date": "2026-06-14T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-14T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375327cc155fd6ebe166a"
+    },
+    "vehicleId": {
+      "$oid": "6a53753244f5d8bd947a3460"
+    },
+    "driverId": {
+      "$oid": "6a537532afb08d5e0ebfd3c6"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4828,
+    "cargoWeight": 9752,
+    "lifecycleState": "Completed",
+    "revenue": 4572,
+    "createdAt": {
+      "$date": "2026-07-10T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-10T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d21b055415df813e"
+    },
+    "vehicleId": {
+      "$oid": "6a537532e74b585c2f6fe219"
+    },
+    "driverId": {
+      "$oid": "6a53753239aa87826605fbb5"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4670,
+    "cargoWeight": 5752,
+    "lifecycleState": "Completed",
+    "revenue": 2014,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c632814df4ee5e63"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d8fa492292b9294c"
+    },
+    "driverId": {
+      "$oid": "6a5375321ee59528d50ee01c"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4827,
+    "cargoWeight": 8619,
+    "lifecycleState": "Dispatched",
+    "revenue": 4459,
+    "createdAt": {
+      "$date": "2026-06-02T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-02T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d58b9b883c5350cf"
+    },
+    "vehicleId": {
+      "$oid": "6a5375324a49fd6008113bf7"
+    },
+    "driverId": {
+      "$oid": "6a537532d8f570cfe654fd79"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4758,
+    "cargoWeight": 7211,
+    "lifecycleState": "Completed",
+    "revenue": 2426,
+    "createdAt": {
+      "$date": "2026-05-28T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-28T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ea5fd97f6ce64bca"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d2bef07dbca363b6"
+    },
+    "driverId": {
+      "$oid": "6a53753262d3da73f2b0b9b4"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4803,
+    "cargoWeight": 7146,
+    "lifecycleState": "Completed",
+    "revenue": 4454,
+    "createdAt": {
+      "$date": "2026-06-16T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-16T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532690aa95e22764bca"
+    },
+    "vehicleId": {
+      "$oid": "6a5375329dfa899f42e698cc"
+    },
+    "driverId": {
+      "$oid": "6a53753288f543669dc6a6aa"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4602,
+    "cargoWeight": 9455,
+    "lifecycleState": "Completed",
+    "revenue": 4110,
+    "createdAt": {
+      "$date": "2026-06-17T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-17T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532016708b0eea7cca5"
+    },
+    "vehicleId": {
+      "$oid": "6a5375329e514365c0a0c000"
+    },
+    "driverId": {
+      "$oid": "6a53753239b1c0119411c0cd"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4828,
+    "cargoWeight": 8169,
+    "lifecycleState": "Completed",
+    "revenue": 3146,
+    "createdAt": {
+      "$date": "2026-04-25T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-25T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375326009bff4a7a03647"
+    },
+    "vehicleId": {
+      "$oid": "6a537532255379abaa67301c"
+    },
+    "driverId": {
+      "$oid": "6a53753262d3da73f2b0b9b4"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4727,
+    "cargoWeight": 8997,
+    "lifecycleState": "Dispatched",
+    "revenue": 4326,
+    "createdAt": {
+      "$date": "2026-04-09T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-09T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d4fdd0897565dde3"
+    },
+    "vehicleId": {
+      "$oid": "6a53753201348b741cd5ad0b"
+    },
+    "driverId": {
+      "$oid": "6a5375323f358474d0199299"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4568,
+    "cargoWeight": 7734,
+    "lifecycleState": "Completed",
+    "revenue": 3012,
+    "createdAt": {
+      "$date": "2026-06-30T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-30T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375323370c080b0773967"
+    },
+    "vehicleId": {
+      "$oid": "6a537532f79182d0f01ce443"
+    },
+    "driverId": {
+      "$oid": "6a53753223594ebd2708f83d"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4951,
+    "cargoWeight": 5458,
+    "lifecycleState": "Completed",
+    "revenue": 2450,
+    "createdAt": {
+      "$date": "2026-05-13T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-13T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b1c839c1e840b592"
+    },
+    "vehicleId": {
+      "$oid": "6a537532c38d45551fc1ceb2"
+    },
+    "driverId": {
+      "$oid": "6a537532ca4b4e0ef7c3a478"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4541,
+    "cargoWeight": 8483,
+    "lifecycleState": "Completed",
+    "revenue": 4461,
+    "createdAt": {
+      "$date": "2026-04-24T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-24T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375323de4660bec1c0b06"
+    },
+    "vehicleId": {
+      "$oid": "6a537532cb38b971aeab4267"
+    },
+    "driverId": {
+      "$oid": "6a5375323baf19e904f83600"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4881,
+    "cargoWeight": 8329,
+    "lifecycleState": "Completed",
+    "revenue": 2737,
+    "createdAt": {
+      "$date": "2026-05-06T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-06T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753236ca264170b4ef8a"
+    },
+    "vehicleId": {
+      "$oid": "6a5375321c18f16b9d68ca7a"
+    },
+    "driverId": {
+      "$oid": "6a537532caa92518144c319d"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4868,
+    "cargoWeight": 5684,
+    "lifecycleState": "Dispatched",
+    "revenue": 4348,
+    "createdAt": {
+      "$date": "2026-06-23T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-23T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532afdf86d74afca8ff"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d5051a6e9a122f98"
+    },
+    "driverId": {
+      "$oid": "6a537532b6e16a0d700b8554"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4796,
+    "cargoWeight": 9354,
+    "lifecycleState": "Completed",
+    "revenue": 2371,
+    "createdAt": {
+      "$date": "2026-06-21T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-21T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375321d820255586401ee"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d8392f0a02f9b47e"
+    },
+    "driverId": {
+      "$oid": "6a53753218cbac27b74f2740"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4788,
+    "cargoWeight": 8708,
+    "lifecycleState": "Completed",
+    "revenue": 2053,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328484acca15220e05"
+    },
+    "vehicleId": {
+      "$oid": "6a537532c38d45551fc1ceb2"
+    },
+    "driverId": {
+      "$oid": "6a537532fc09695b29d71b15"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4597,
+    "cargoWeight": 9057,
+    "lifecycleState": "Completed",
+    "revenue": 2108,
+    "createdAt": {
+      "$date": "2026-06-26T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-26T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753250b1cd52ba1a81c3"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ede2a0829916e773"
+    },
+    "driverId": {
+      "$oid": "6a5375320f74ffbefeb7bef6"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4570,
+    "cargoWeight": 6403,
+    "lifecycleState": "Completed",
+    "revenue": 3317,
+    "createdAt": {
+      "$date": "2026-06-25T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-25T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532284f903385ee7798"
+    },
+    "vehicleId": {
+      "$oid": "6a537532857ce04d59af84df"
+    },
+    "driverId": {
+      "$oid": "6a537532e212bb7762ec4bfe"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4616,
+    "cargoWeight": 9477,
+    "lifecycleState": "Dispatched",
+    "revenue": 4073,
+    "createdAt": {
+      "$date": "2026-06-08T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-08T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532fc7561cad3ea3eb0"
+    },
+    "vehicleId": {
+      "$oid": "6a5375328c62c4bac17baffa"
+    },
+    "driverId": {
+      "$oid": "6a53753215ada1489af14f77"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4769,
+    "cargoWeight": 8793,
+    "lifecycleState": "Completed",
+    "revenue": 2425,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532a6be1858a0748aea"
+    },
+    "vehicleId": {
+      "$oid": "6a537532aa2d02d0f9841ca2"
+    },
+    "driverId": {
+      "$oid": "6a5375323baf19e904f83600"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4830,
+    "cargoWeight": 8125,
+    "lifecycleState": "Completed",
+    "revenue": 4969,
+    "createdAt": {
+      "$date": "2026-06-11T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-11T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753237063df95c5e89a5"
+    },
+    "vehicleId": {
+      "$oid": "6a537532722af48f0b8b24d6"
+    },
+    "driverId": {
+      "$oid": "6a53753211e01f03de7f096e"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4550,
+    "cargoWeight": 7100,
+    "lifecycleState": "Completed",
+    "revenue": 3411,
+    "createdAt": {
+      "$date": "2026-07-06T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-06T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753271060a929d453efc"
+    },
+    "vehicleId": {
+      "$oid": "6a537532fa43d312ce32cc40"
+    },
+    "driverId": {
+      "$oid": "6a53753288f543669dc6a6aa"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4739,
+    "cargoWeight": 8694,
+    "lifecycleState": "Completed",
+    "revenue": 3551,
+    "createdAt": {
+      "$date": "2026-04-22T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-22T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532437bf797d259d279"
+    },
+    "vehicleId": {
+      "$oid": "6a537532bacaa40029b3168e"
+    },
+    "driverId": {
+      "$oid": "6a537532ceca81edc2a5b0a3"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4907,
+    "cargoWeight": 5020,
+    "lifecycleState": "Dispatched",
+    "revenue": 4963,
+    "createdAt": {
+      "$date": "2026-06-26T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-26T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ca60e6967d450e7d"
+    },
+    "vehicleId": {
+      "$oid": "6a53753257a6154398f540e7"
+    },
+    "driverId": {
+      "$oid": "6a5375324893e72d8fe45c53"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4742,
+    "cargoWeight": 7923,
+    "lifecycleState": "Completed",
+    "revenue": 3814,
+    "createdAt": {
+      "$date": "2026-04-04T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-04T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753265e344e451ecb4dc"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d8392f0a02f9b47e"
+    },
+    "driverId": {
+      "$oid": "6a53753213eff26660507485"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4788,
+    "cargoWeight": 7040,
+    "lifecycleState": "Completed",
+    "revenue": 2458,
+    "createdAt": {
+      "$date": "2026-06-25T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-25T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375321bca9d3828320101"
+    },
+    "vehicleId": {
+      "$oid": "6a5375321e2427b4ed2f7d85"
+    },
+    "driverId": {
+      "$oid": "6a53753271fb4af94f32cb25"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4784,
+    "cargoWeight": 7878,
+    "lifecycleState": "Completed",
+    "revenue": 4238,
+    "createdAt": {
+      "$date": "2026-06-29T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-29T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c17b0a0bb9ccf8ac"
+    },
+    "vehicleId": {
+      "$oid": "6a537532944356d4b32f442e"
+    },
+    "driverId": {
+      "$oid": "6a537532de605ff8f98e63dd"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4716,
+    "cargoWeight": 7339,
+    "lifecycleState": "Completed",
+    "revenue": 2256,
+    "createdAt": {
+      "$date": "2026-05-22T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-22T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375320eab7069ad856e2c"
+    },
+    "vehicleId": {
+      "$oid": "6a53753271ec652aa4a74cf7"
+    },
+    "driverId": {
+      "$oid": "6a5375328044d7924abc8909"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4504,
+    "cargoWeight": 7098,
+    "lifecycleState": "Dispatched",
+    "revenue": 3781,
+    "createdAt": {
+      "$date": "2026-05-03T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-03T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532689a4ef23b01bd58"
+    },
+    "vehicleId": {
+      "$oid": "6a537532979d0eae4eb78a6d"
+    },
+    "driverId": {
+      "$oid": "6a5375323baf19e904f83600"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4809,
+    "cargoWeight": 6810,
+    "lifecycleState": "Completed",
+    "revenue": 3391,
+    "createdAt": {
+      "$date": "2026-05-23T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-23T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753225b945caa6e34ca3"
+    },
+    "vehicleId": {
+      "$oid": "6a53753299467b1398761cc3"
+    },
+    "driverId": {
+      "$oid": "6a53753250a13029b1e9db49"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4720,
+    "cargoWeight": 6878,
+    "lifecycleState": "Completed",
+    "revenue": 4178,
+    "createdAt": {
+      "$date": "2026-06-15T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-15T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b1a9d2d3aa8ec02f"
+    },
+    "vehicleId": {
+      "$oid": "6a537532770842ceccfc25f4"
+    },
+    "driverId": {
+      "$oid": "6a5375324893e72d8fe45c53"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4597,
+    "cargoWeight": 9386,
+    "lifecycleState": "Completed",
+    "revenue": 4516,
+    "createdAt": {
+      "$date": "2026-04-26T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-26T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532aba5212922c55312"
+    },
+    "vehicleId": {
+      "$oid": "6a537532e74b585c2f6fe219"
+    },
+    "driverId": {
+      "$oid": "6a5375328f0a54270de5052d"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4653,
+    "cargoWeight": 9796,
+    "lifecycleState": "Completed",
+    "revenue": 2982,
+    "createdAt": {
+      "$date": "2026-04-08T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-08T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375321b4343220fce079b"
+    },
+    "vehicleId": {
+      "$oid": "6a537532bacaa40029b3168e"
+    },
+    "driverId": {
+      "$oid": "6a5375324a665490e72ca1eb"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4973,
+    "cargoWeight": 7637,
+    "lifecycleState": "Dispatched",
+    "revenue": 2054,
+    "createdAt": {
+      "$date": "2026-05-05T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-05T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328d291d3796d0fc2b"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ede2a0829916e773"
+    },
+    "driverId": {
+      "$oid": "6a537532e2abdab48400fe74"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4550,
+    "cargoWeight": 8619,
+    "lifecycleState": "Completed",
+    "revenue": 2253,
+    "createdAt": {
+      "$date": "2026-06-29T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-29T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b36bb0ea213c6bad"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d261b32adb80c919"
+    },
+    "driverId": {
+      "$oid": "6a537532c47e598372df387a"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4780,
+    "cargoWeight": 7789,
+    "lifecycleState": "Completed",
+    "revenue": 4367,
+    "createdAt": {
+      "$date": "2026-05-29T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-29T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d793337705c13df1"
+    },
+    "vehicleId": {
+      "$oid": "6a5375327cddf8a10a787fc4"
+    },
+    "driverId": {
+      "$oid": "6a537532248e80cd9c46f095"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4650,
+    "cargoWeight": 9801,
+    "lifecycleState": "Completed",
+    "revenue": 4797,
+    "createdAt": {
+      "$date": "2026-05-16T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-16T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753234f54d8a24d294bb"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d2870002fdf80796"
+    },
+    "driverId": {
+      "$oid": "6a5375326b20c0c3d59cb0f6"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4604,
+    "cargoWeight": 7216,
+    "lifecycleState": "Completed",
+    "revenue": 2598,
+    "createdAt": {
+      "$date": "2026-06-05T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-05T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375325764a48e487d577b"
+    },
+    "vehicleId": {
+      "$oid": "6a53753201348b741cd5ad0b"
+    },
+    "driverId": {
+      "$oid": "6a537532b9a35a87f898df17"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4504,
+    "cargoWeight": 7732,
+    "lifecycleState": "Dispatched",
+    "revenue": 4651,
+    "createdAt": {
+      "$date": "2026-06-23T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-23T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532bd294208022724cb"
+    },
+    "vehicleId": {
+      "$oid": "6a537532aa2d02d0f9841ca2"
+    },
+    "driverId": {
+      "$oid": "6a5375322c859c995a53378c"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4566,
+    "cargoWeight": 5248,
+    "lifecycleState": "Completed",
+    "revenue": 2609,
+    "createdAt": {
+      "$date": "2026-06-18T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-18T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e34371c1f3a0c536"
+    },
+    "vehicleId": {
+      "$oid": "6a5375328fce8ba4790064fc"
+    },
+    "driverId": {
+      "$oid": "6a537532bec49d36204ecf76"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4856,
+    "cargoWeight": 9948,
+    "lifecycleState": "Completed",
+    "revenue": 2566,
+    "createdAt": {
+      "$date": "2026-07-10T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-10T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375326e3249398b2074aa"
+    },
+    "vehicleId": {
+      "$oid": "6a537532c6f05e6badaf85dc"
+    },
+    "driverId": {
+      "$oid": "6a537532d62d74671a87b04b"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4869,
+    "cargoWeight": 9150,
+    "lifecycleState": "Completed",
+    "revenue": 3073,
+    "createdAt": {
+      "$date": "2026-05-04T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-04T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753266cd258bc0cac624"
+    },
+    "vehicleId": {
+      "$oid": "6a537532877fa9398aa577df"
+    },
+    "driverId": {
+      "$oid": "6a53753231716b41e39724e6"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4606,
+    "cargoWeight": 7651,
+    "lifecycleState": "Completed",
+    "revenue": 3839,
+    "createdAt": {
+      "$date": "2026-04-09T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-09T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753208b10d9908b01ee4"
+    },
+    "vehicleId": {
+      "$oid": "6a537532969ace0265a2d014"
+    },
+    "driverId": {
+      "$oid": "6a537532fcec0582cd6b6607"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4712,
+    "cargoWeight": 7341,
+    "lifecycleState": "Dispatched",
+    "revenue": 4542,
+    "createdAt": {
+      "$date": "2026-05-09T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-09T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532780a7bcc741196b5"
+    },
+    "vehicleId": {
+      "$oid": "6a5375328b2320ab0c463f9f"
+    },
+    "driverId": {
+      "$oid": "6a537532fcec0582cd6b6607"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4900,
+    "cargoWeight": 7525,
+    "lifecycleState": "Completed",
+    "revenue": 4868,
+    "createdAt": {
+      "$date": "2026-07-09T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-09T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ece5b63eb18aa191"
+    },
+    "vehicleId": {
+      "$oid": "6a537532cc2314a7fc9f9d9f"
+    },
+    "driverId": {
+      "$oid": "6a5375323d054c27c0ff4047"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4676,
+    "cargoWeight": 7566,
+    "lifecycleState": "Completed",
+    "revenue": 4891,
+    "createdAt": {
+      "$date": "2026-05-11T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-11T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532092b0aa1a94d5da5"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ec602c9664600f73"
+    },
+    "driverId": {
+      "$oid": "6a537532955ea5d38df2d333"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4959,
+    "cargoWeight": 6382,
+    "lifecycleState": "Completed",
+    "revenue": 2474,
+    "createdAt": {
+      "$date": "2026-04-14T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-14T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532be9eff9875029119"
+    },
+    "vehicleId": {
+      "$oid": "6a537532bf7b08308cff57bf"
+    },
+    "driverId": {
+      "$oid": "6a5375325ad2d13e093e61fe"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4944,
+    "cargoWeight": 8991,
+    "lifecycleState": "Completed",
+    "revenue": 3906,
+    "createdAt": {
+      "$date": "2026-07-04T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-04T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532fe08db93c78ac76f"
+    },
+    "vehicleId": {
+      "$oid": "6a537532b3f402f36e020ef6"
+    },
+    "driverId": {
+      "$oid": "6a537532dfacb55207f44c1c"
+    },
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "plannedDistance": 4970,
+    "cargoWeight": 5998,
+    "lifecycleState": "Dispatched",
+    "revenue": 3228,
+    "createdAt": {
+      "$date": "2026-06-18T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-18T11:06:26.210Z"
+    }
+  }
+]

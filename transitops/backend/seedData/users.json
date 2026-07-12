@@ -1,0 +1,302 @@
+[
+  {
+    "_id": {
+      "$oid": "6a5375327f166dea1b8f9ef0"
+    },
+    "name": "User 1",
+    "email": "user1@example.com",
+    "password": "password123",
+    "role": "Driver",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.203Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.203Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532a469baf7d7dd4bd3"
+    },
+    "name": "User 2",
+    "email": "user2@example.com",
+    "password": "password123",
+    "role": "Safety Officer",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.203Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.203Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375321f63cd6b4659adf9"
+    },
+    "name": "User 3",
+    "email": "user3@example.com",
+    "password": "password123",
+    "role": "Financial Analyst",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.203Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.203Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753241e2f1b0b505e132"
+    },
+    "name": "User 4",
+    "email": "user4@example.com",
+    "password": "password123",
+    "role": "Admin",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532f1645b92261e3266"
+    },
+    "name": "User 5",
+    "email": "user5@example.com",
+    "password": "password123",
+    "role": "Fleet Manager",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375322932a976d51af21e"
+    },
+    "name": "User 6",
+    "email": "user6@example.com",
+    "password": "password123",
+    "role": "Driver",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375329654fc5d3f6f7606"
+    },
+    "name": "User 7",
+    "email": "user7@example.com",
+    "password": "password123",
+    "role": "Safety Officer",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532dfac849d0c4e8219"
+    },
+    "name": "User 8",
+    "email": "user8@example.com",
+    "password": "password123",
+    "role": "Financial Analyst",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753265dd8958dc3e2cd7"
+    },
+    "name": "User 9",
+    "email": "user9@example.com",
+    "password": "password123",
+    "role": "Admin",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753215127926db64d965"
+    },
+    "name": "User 10",
+    "email": "user10@example.com",
+    "password": "password123",
+    "role": "Fleet Manager",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d0c97ec0e30e1084"
+    },
+    "name": "User 11",
+    "email": "user11@example.com",
+    "password": "password123",
+    "role": "Driver",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532491fcf330ca3bd6f"
+    },
+    "name": "User 12",
+    "email": "user12@example.com",
+    "password": "password123",
+    "role": "Safety Officer",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753272ede82ac842d565"
+    },
+    "name": "User 13",
+    "email": "user13@example.com",
+    "password": "password123",
+    "role": "Financial Analyst",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e8bc79c68d65c14b"
+    },
+    "name": "User 14",
+    "email": "user14@example.com",
+    "password": "password123",
+    "role": "Admin",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375321fd154ec7c5bf69a"
+    },
+    "name": "User 15",
+    "email": "user15@example.com",
+    "password": "password123",
+    "role": "Fleet Manager",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375329921e29f5a3bd32b"
+    },
+    "name": "User 16",
+    "email": "user16@example.com",
+    "password": "password123",
+    "role": "Driver",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b42a17316bcf9404"
+    },
+    "name": "User 17",
+    "email": "user17@example.com",
+    "password": "password123",
+    "role": "Safety Officer",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753210cc7ee3a3a20088"
+    },
+    "name": "User 18",
+    "email": "user18@example.com",
+    "password": "password123",
+    "role": "Financial Analyst",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532f20138e0febcb91a"
+    },
+    "name": "User 19",
+    "email": "user19@example.com",
+    "password": "password123",
+    "role": "Admin",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e89912b426a3e7b7"
+    },
+    "name": "User 20",
+    "email": "user20@example.com",
+    "password": "password123",
+    "role": "Fleet Manager",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  }
+]

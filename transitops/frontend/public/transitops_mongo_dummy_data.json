@@ -1,0 +1,6786 @@
+{
+  "users": [
+    {
+      "_id": {
+        "$oid": "5e3bb3b9b1dbdfd231b89365"
+      },
+      "name": "User 1",
+      "email": "user1@transitops.com",
+      "password": "password123",
+      "role": "Fleet Manager",
+      "createdAt": "2026-07-12T10:22:16.886Z",
+      "updatedAt": "2026-07-12T10:22:16.886Z"
+    },
+    {
+      "_id": {
+        "$oid": "d050e241a01e6aea627eafb4"
+      },
+      "name": "User 2",
+      "email": "user2@transitops.com",
+      "password": "password123",
+      "role": "Safety Officer",
+      "createdAt": "2026-07-12T10:22:16.887Z",
+      "updatedAt": "2026-07-12T10:22:16.887Z"
+    },
+    {
+      "_id": {
+        "$oid": "f4455f9b02c7afe0495f1678"
+      },
+      "name": "User 3",
+      "email": "user3@transitops.com",
+      "password": "password123",
+      "role": "Financial Analyst",
+      "createdAt": "2026-07-12T10:22:16.887Z",
+      "updatedAt": "2026-07-12T10:22:16.887Z"
+    },
+    {
+      "_id": {
+        "$oid": "ee29465f5326ef57aa907849"
+      },
+      "name": "User 4",
+      "email": "user4@transitops.com",
+      "password": "password123",
+      "role": "Admin",
+      "createdAt": "2026-07-12T10:22:16.887Z",
+      "updatedAt": "2026-07-12T10:22:16.887Z"
+    },
+    {
+      "_id": {
+        "$oid": "a4e68eb5ba089d477cdc2a70"
+      },
+      "name": "User 5",
+      "email": "user5@transitops.com",
+      "password": "password123",
+      "role": "Driver",
+      "createdAt": "2026-07-12T10:22:16.887Z",
+      "updatedAt": "2026-07-12T10:22:16.887Z"
+    },
+    {
+      "_id": {
+        "$oid": "92cb24093e10669d91daa963"
+      },
+      "name": "User 6",
+      "email": "user6@transitops.com",
+      "password": "password123",
+      "role": "Fleet Manager",
+      "createdAt": "2026-07-12T10:22:16.887Z",
+      "updatedAt": "2026-07-12T10:22:16.887Z"
+    },
+    {
+      "_id": {
+        "$oid": "6eeb96a203340a898ef70e2a"
+      },
+      "name": "User 7",
+      "email": "user7@transitops.com",
+      "password": "password123",
+      "role": "Safety Officer",
+      "createdAt": "2026-07-12T10:22:16.887Z",
+      "updatedAt": "2026-07-12T10:22:16.887Z"
+    },
+    {
+      "_id": {
+        "$oid": "09c5a1605fa4d204ffbf6896"
+      },
+      "name": "User 8",
+      "email": "user8@transitops.com",
+      "password": "password123",
+      "role": "Financial Analyst",
+      "createdAt": "2026-07-12T10:22:16.887Z",
+      "updatedAt": "2026-07-12T10:22:16.887Z"
+    },
+    {
+      "_id": {
+        "$oid": "4b7d74345a9bf1a6de4f19e7"
+      },
+      "name": "User 9",
+      "email": "user9@transitops.com",
+      "password": "password123",
+      "role": "Admin",
+      "createdAt": "2026-07-12T10:22:16.887Z",
+      "updatedAt": "2026-07-12T10:22:16.887Z"
+    },
+    {
+      "_id": {
+        "$oid": "27cddb88c2f2effe9af6e3eb"
+      },
+      "name": "User 10",
+      "email": "user10@transitops.com",
+      "password": "password123",
+      "role": "Driver",
+      "createdAt": "2026-07-12T10:22:16.887Z",
+      "updatedAt": "2026-07-12T10:22:16.887Z"
+    },
+    {
+      "_id": {
+        "$oid": "606cae012cf4e33867f6430f"
+      },
+      "name": "User 11",
+      "email": "user11@transitops.com",
+      "password": "password123",
+      "role": "Fleet Manager",
+      "createdAt": "2026-07-12T10:22:16.887Z",
+      "updatedAt": "2026-07-12T10:22:16.887Z"
+    },
+    {
+      "_id": {
+        "$oid": "7babd9df3dc125195cd2e876"
+      },
+      "name": "User 12",
+      "email": "user12@transitops.com",
+      "password": "password123",
+      "role": "Safety Officer",
+      "createdAt": "2026-07-12T10:22:16.887Z",
+      "updatedAt": "2026-07-12T10:22:16.887Z"
+    },
+    {
+      "_id": {
+        "$oid": "f93fb5af7a32cd3953cd8a25"
+      },
+      "name": "User 13",
+      "email": "user13@transitops.com",
+      "password": "password123",
+      "role": "Financial Analyst",
+      "createdAt": "2026-07-12T10:22:16.887Z",
+      "updatedAt": "2026-07-12T10:22:16.887Z"
+    },
+    {
+      "_id": {
+        "$oid": "3eb84a085ad719da54ab5302"
+      },
+      "name": "User 14",
+      "email": "user14@transitops.com",
+      "password": "password123",
+      "role": "Admin",
+      "createdAt": "2026-07-12T10:22:16.887Z",
+      "updatedAt": "2026-07-12T10:22:16.887Z"
+    },
+    {
+      "_id": {
+        "$oid": "f2293f572606573e8ea73a51"
+      },
+      "name": "User 15",
+      "email": "user15@transitops.com",
+      "password": "password123",
+      "role": "Driver",
+      "createdAt": "2026-07-12T10:22:16.887Z",
+      "updatedAt": "2026-07-12T10:22:16.887Z"
+    },
+    {
+      "_id": {
+        "$oid": "5d2326b9fd2979768974ef3e"
+      },
+      "name": "User 16",
+      "email": "user16@transitops.com",
+      "password": "password123",
+      "role": "Fleet Manager",
+      "createdAt": "2026-07-12T10:22:16.887Z",
+      "updatedAt": "2026-07-12T10:22:16.887Z"
+    },
+    {
+      "_id": {
+        "$oid": "ee9f5a9f44e8d57a6a0dea9f"
+      },
+      "name": "User 17",
+      "email": "user17@transitops.com",
+      "password": "password123",
+      "role": "Safety Officer",
+      "createdAt": "2026-07-12T10:22:16.887Z",
+      "updatedAt": "2026-07-12T10:22:16.887Z"
+    },
+    {
+      "_id": {
+        "$oid": "81f4f4ce0325461c119bfbad"
+      },
+      "name": "User 18",
+      "email": "user18@transitops.com",
+      "password": "password123",
+      "role": "Financial Analyst",
+      "createdAt": "2026-07-12T10:22:16.887Z",
+      "updatedAt": "2026-07-12T10:22:16.887Z"
+    },
+    {
+      "_id": {
+        "$oid": "f21fbd0b258829007a954833"
+      },
+      "name": "User 19",
+      "email": "user19@transitops.com",
+      "password": "password123",
+      "role": "Admin",
+      "createdAt": "2026-07-12T10:22:16.887Z",
+      "updatedAt": "2026-07-12T10:22:16.887Z"
+    },
+    {
+      "_id": {
+        "$oid": "1773b5dc569698447b5e89f9"
+      },
+      "name": "User 20",
+      "email": "user20@transitops.com",
+      "password": "password123",
+      "role": "Driver",
+      "createdAt": "2026-07-12T10:22:16.887Z",
+      "updatedAt": "2026-07-12T10:22:16.887Z"
+    }
+  ],
+  "drivers": [
+    {
+      "_id": {
+        "$oid": "6f549de7b1b8a97b4fe83259"
+      },
+      "name": "Driver 1",
+      "licenseNumber": "LIC10001",
+      "licenseCategory": "Heavy",
+      "licenseExpiryDate": "2027-09-17T21:51:44.041Z",
+      "contactNumber": "+1-555-0101",
+      "safetyScore": 99,
+      "status": "On Trip",
+      "createdAt": "2026-07-12T10:22:16.887Z",
+      "updatedAt": "2026-07-12T10:22:16.887Z"
+    },
+    {
+      "_id": {
+        "$oid": "e5427cd0bdce9c2505d399d1"
+      },
+      "name": "Driver 2",
+      "licenseNumber": "LIC10002",
+      "licenseCategory": "Light",
+      "licenseExpiryDate": "2026-10-27T00:59:32.815Z",
+      "contactNumber": "+1-555-0102",
+      "safetyScore": 92,
+      "status": "Off Duty",
+      "createdAt": "2026-07-12T10:22:16.887Z",
+      "updatedAt": "2026-07-12T10:22:16.887Z"
+    },
+    {
+      "_id": {
+        "$oid": "8c6c08d2269fc487dab0cd86"
+      },
+      "name": "Driver 3",
+      "licenseNumber": "LIC10003",
+      "licenseCategory": "Commercial",
+      "licenseExpiryDate": "2029-07-07T07:31:04.131Z",
+      "contactNumber": "+1-555-0103",
+      "safetyScore": 92,
+      "status": "Suspended",
+      "createdAt": "2026-07-12T10:22:16.887Z",
+      "updatedAt": "2026-07-12T10:22:16.887Z"
+    },
+    {
+      "_id": {
+        "$oid": "27dd564015598f0ebc250741"
+      },
+      "name": "Driver 4",
+      "licenseNumber": "LIC10004",
+      "licenseCategory": "Heavy",
+      "licenseExpiryDate": "2029-03-09T19:25:09.289Z",
+      "contactNumber": "+1-555-0104",
+      "safetyScore": 85,
+      "status": "Available",
+      "createdAt": "2026-07-12T10:22:16.887Z",
+      "updatedAt": "2026-07-12T10:22:16.887Z"
+    },
+    {
+      "_id": {
+        "$oid": "cb287c460cf0df82f188ee0c"
+      },
+      "name": "Driver 5",
+      "licenseNumber": "LIC10005",
+      "licenseCategory": "Light",
+      "licenseExpiryDate": "2029-05-24T10:13:03.177Z",
+      "contactNumber": "+1-555-0105",
+      "safetyScore": 83,
+      "status": "On Trip",
+      "createdAt": "2026-07-12T10:22:16.887Z",
+      "updatedAt": "2026-07-12T10:22:16.887Z"
+    },
+    {
+      "_id": {
+        "$oid": "adbdd025bc1b3aeabe626aef"
+      },
+      "name": "Driver 6",
+      "licenseNumber": "LIC10006",
+      "licenseCategory": "Commercial",
+      "licenseExpiryDate": "2026-12-28T09:30:48.834Z",
+      "contactNumber": "+1-555-0106",
+      "safetyScore": 87,
+      "status": "Off Duty",
+      "createdAt": "2026-07-12T10:22:16.887Z",
+      "updatedAt": "2026-07-12T10:22:16.887Z"
+    },
+    {
+      "_id": {
+        "$oid": "0fc4b1026dabf52f2c994c67"
+      },
+      "name": "Driver 7",
+      "licenseNumber": "LIC10007",
+      "licenseCategory": "Heavy",
+      "licenseExpiryDate": "2026-08-11T07:19:14.931Z",
+      "contactNumber": "+1-555-0107",
+      "safetyScore": 91,
+      "status": "Suspended",
+      "createdAt": "2026-07-12T10:22:16.887Z",
+      "updatedAt": "2026-07-12T10:22:16.887Z"
+    },
+    {
+      "_id": {
+        "$oid": "02dd23c4bb85b4def2f91c32"
+      },
+      "name": "Driver 8",
+      "licenseNumber": "LIC10008",
+      "licenseCategory": "Light",
+      "licenseExpiryDate": "2026-11-24T04:39:36.849Z",
+      "contactNumber": "+1-555-0108",
+      "safetyScore": 95,
+      "status": "Available",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "206f10110c7b41b6d7f0394a"
+      },
+      "name": "Driver 9",
+      "licenseNumber": "LIC10009",
+      "licenseCategory": "Commercial",
+      "licenseExpiryDate": "2028-01-21T12:47:20.417Z",
+      "contactNumber": "+1-555-0109",
+      "safetyScore": 88,
+      "status": "On Trip",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "85c3234dcc56d2a0ef7e2e68"
+      },
+      "name": "Driver 10",
+      "licenseNumber": "LIC10010",
+      "licenseCategory": "Heavy",
+      "licenseExpiryDate": "2027-06-27T17:38:02.967Z",
+      "contactNumber": "+1-555-0110",
+      "safetyScore": 91,
+      "status": "Off Duty",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "04f16b762c602300e2e50022"
+      },
+      "name": "Driver 11",
+      "licenseNumber": "LIC10011",
+      "licenseCategory": "Light",
+      "licenseExpiryDate": "2027-01-17T15:17:53.015Z",
+      "contactNumber": "+1-555-0111",
+      "safetyScore": 88,
+      "status": "Suspended",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "95d521af21bcaa85e3801211"
+      },
+      "name": "Driver 12",
+      "licenseNumber": "LIC10012",
+      "licenseCategory": "Commercial",
+      "licenseExpiryDate": "2027-06-25T20:14:27.175Z",
+      "contactNumber": "+1-555-0112",
+      "safetyScore": 83,
+      "status": "Available",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "c60c3f99663ccf477c559cea"
+      },
+      "name": "Driver 13",
+      "licenseNumber": "LIC10013",
+      "licenseCategory": "Heavy",
+      "licenseExpiryDate": "2027-10-17T07:50:30.828Z",
+      "contactNumber": "+1-555-0113",
+      "safetyScore": 94,
+      "status": "On Trip",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "68266f1098a4e14647d87ef5"
+      },
+      "name": "Driver 14",
+      "licenseNumber": "LIC10014",
+      "licenseCategory": "Light",
+      "licenseExpiryDate": "2028-11-03T19:10:28.487Z",
+      "contactNumber": "+1-555-0114",
+      "safetyScore": 86,
+      "status": "Off Duty",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "d8680ca74dfb209162e5a4f8"
+      },
+      "name": "Driver 15",
+      "licenseNumber": "LIC10015",
+      "licenseCategory": "Commercial",
+      "licenseExpiryDate": "2028-11-14T06:41:56.935Z",
+      "contactNumber": "+1-555-0115",
+      "safetyScore": 86,
+      "status": "Suspended",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "3fdfdb370305a08d88a57737"
+      },
+      "name": "Driver 16",
+      "licenseNumber": "LIC10016",
+      "licenseCategory": "Heavy",
+      "licenseExpiryDate": "2027-04-09T10:21:36.481Z",
+      "contactNumber": "+1-555-0116",
+      "safetyScore": 80,
+      "status": "Available",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "31911a830e93a96670bb9803"
+      },
+      "name": "Driver 17",
+      "licenseNumber": "LIC10017",
+      "licenseCategory": "Light",
+      "licenseExpiryDate": "2029-02-18T19:57:26.967Z",
+      "contactNumber": "+1-555-0117",
+      "safetyScore": 83,
+      "status": "On Trip",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "a610111ec813cfe541390697"
+      },
+      "name": "Driver 18",
+      "licenseNumber": "LIC10018",
+      "licenseCategory": "Commercial",
+      "licenseExpiryDate": "2027-03-23T19:49:24.146Z",
+      "contactNumber": "+1-555-0118",
+      "safetyScore": 87,
+      "status": "Off Duty",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "226e343123a9ce1291873baf"
+      },
+      "name": "Driver 19",
+      "licenseNumber": "LIC10019",
+      "licenseCategory": "Heavy",
+      "licenseExpiryDate": "2027-06-02T12:00:25.845Z",
+      "contactNumber": "+1-555-0119",
+      "safetyScore": 95,
+      "status": "Suspended",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "466b4f960ee237f5de5244cc"
+      },
+      "name": "Driver 20",
+      "licenseNumber": "LIC10020",
+      "licenseCategory": "Light",
+      "licenseExpiryDate": "2027-07-08T11:47:47.242Z",
+      "contactNumber": "+1-555-0120",
+      "safetyScore": 93,
+      "status": "Available",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "cdabd6d17f73fd224796615f"
+      },
+      "name": "Driver 21",
+      "licenseNumber": "LIC10021",
+      "licenseCategory": "Commercial",
+      "licenseExpiryDate": "2027-11-04T08:54:16.307Z",
+      "contactNumber": "+1-555-0121",
+      "safetyScore": 97,
+      "status": "On Trip",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "63056caafcd941f847c798a1"
+      },
+      "name": "Driver 22",
+      "licenseNumber": "LIC10022",
+      "licenseCategory": "Heavy",
+      "licenseExpiryDate": "2028-03-25T02:18:40.942Z",
+      "contactNumber": "+1-555-0122",
+      "safetyScore": 86,
+      "status": "Off Duty",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "826ccce361b23b0a1b918784"
+      },
+      "name": "Driver 23",
+      "licenseNumber": "LIC10023",
+      "licenseCategory": "Light",
+      "licenseExpiryDate": "2029-01-31T18:00:35.390Z",
+      "contactNumber": "+1-555-0123",
+      "safetyScore": 83,
+      "status": "Suspended",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "b33b60350c8796a62085de5a"
+      },
+      "name": "Driver 24",
+      "licenseNumber": "LIC10024",
+      "licenseCategory": "Commercial",
+      "licenseExpiryDate": "2029-01-21T17:12:02.809Z",
+      "contactNumber": "+1-555-0124",
+      "safetyScore": 94,
+      "status": "Available",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "e04ef10a008bebd04a468209"
+      },
+      "name": "Driver 25",
+      "licenseNumber": "LIC10025",
+      "licenseCategory": "Heavy",
+      "licenseExpiryDate": "2028-09-02T00:57:24.441Z",
+      "contactNumber": "+1-555-0125",
+      "safetyScore": 85,
+      "status": "On Trip",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "49193b469382ae1c81109c2e"
+      },
+      "name": "Driver 26",
+      "licenseNumber": "LIC10026",
+      "licenseCategory": "Light",
+      "licenseExpiryDate": "2027-04-11T07:49:42.939Z",
+      "contactNumber": "+1-555-0126",
+      "safetyScore": 96,
+      "status": "Off Duty",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "4ba9baffef780915648828bf"
+      },
+      "name": "Driver 27",
+      "licenseNumber": "LIC10027",
+      "licenseCategory": "Commercial",
+      "licenseExpiryDate": "2026-09-10T11:10:39.242Z",
+      "contactNumber": "+1-555-0127",
+      "safetyScore": 85,
+      "status": "Suspended",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "b6bb71cfba53142dc883211a"
+      },
+      "name": "Driver 28",
+      "licenseNumber": "LIC10028",
+      "licenseCategory": "Heavy",
+      "licenseExpiryDate": "2029-04-23T16:09:25.323Z",
+      "contactNumber": "+1-555-0128",
+      "safetyScore": 91,
+      "status": "Available",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "0f0de594e66746b788d5f48e"
+      },
+      "name": "Driver 29",
+      "licenseNumber": "LIC10029",
+      "licenseCategory": "Light",
+      "licenseExpiryDate": "2027-03-10T16:30:11.966Z",
+      "contactNumber": "+1-555-0129",
+      "safetyScore": 96,
+      "status": "On Trip",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "6074083280e1e18a29537713"
+      },
+      "name": "Driver 30",
+      "licenseNumber": "LIC10030",
+      "licenseCategory": "Commercial",
+      "licenseExpiryDate": "2029-04-12T16:31:50.396Z",
+      "contactNumber": "+1-555-0130",
+      "safetyScore": 88,
+      "status": "Off Duty",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    }
+  ],
+  "vehicles": [
+    {
+      "_id": {
+        "$oid": "cfa2949c32e5a56a294f2a15"
+      },
+      "regNo": "REG-1001",
+      "modelName": "Mercedes Actros",
+      "type": "Medium Truck",
+      "capacity": 5100,
+      "odometer": 173499,
+      "acquisitionCost": 81000,
+      "status": "On Trip",
+      "region": "Europe",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "612985c2810c992abb6f915b"
+      },
+      "regNo": "REG-1002",
+      "modelName": "Scania R-Series",
+      "type": "Light Van",
+      "capacity": 5200,
+      "odometer": 193352,
+      "acquisitionCost": 82000,
+      "status": "In Shop",
+      "region": "Asia",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "986d7e10db769800b643d982"
+      },
+      "regNo": "REG-1003",
+      "modelName": "MAN TGX",
+      "type": "Heavy Truck",
+      "capacity": 5300,
+      "odometer": 125258,
+      "acquisitionCost": 83000,
+      "status": "Retired",
+      "region": "South America",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "e3a278914e953c2b016d26c4"
+      },
+      "regNo": "REG-1004",
+      "modelName": "Volvo FH16",
+      "type": "Medium Truck",
+      "capacity": 5400,
+      "odometer": 73341,
+      "acquisitionCost": 84000,
+      "status": "Available",
+      "region": "North America",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "55ad803bc97a359a91684dd1"
+      },
+      "regNo": "REG-1005",
+      "modelName": "Mercedes Actros",
+      "type": "Light Van",
+      "capacity": 5500,
+      "odometer": 183031,
+      "acquisitionCost": 85000,
+      "status": "On Trip",
+      "region": "Europe",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "03270931e7876117ea372f4b"
+      },
+      "regNo": "REG-1006",
+      "modelName": "Scania R-Series",
+      "type": "Heavy Truck",
+      "capacity": 5600,
+      "odometer": 120012,
+      "acquisitionCost": 86000,
+      "status": "In Shop",
+      "region": "Asia",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "f46ea8fc6d429b0210ae6065"
+      },
+      "regNo": "REG-1007",
+      "modelName": "MAN TGX",
+      "type": "Medium Truck",
+      "capacity": 5700,
+      "odometer": 18793,
+      "acquisitionCost": 87000,
+      "status": "Retired",
+      "region": "South America",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "40b161eaa6ea4b6454bde23a"
+      },
+      "regNo": "REG-1008",
+      "modelName": "Volvo FH16",
+      "type": "Light Van",
+      "capacity": 5800,
+      "odometer": 103722,
+      "acquisitionCost": 88000,
+      "status": "Available",
+      "region": "North America",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "2fc4a5ca741f6169bb140cce"
+      },
+      "regNo": "REG-1009",
+      "modelName": "Mercedes Actros",
+      "type": "Heavy Truck",
+      "capacity": 5900,
+      "odometer": 82589,
+      "acquisitionCost": 89000,
+      "status": "On Trip",
+      "region": "Europe",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "1781a8f89e2bcd7a67753cda"
+      },
+      "regNo": "REG-1010",
+      "modelName": "Scania R-Series",
+      "type": "Medium Truck",
+      "capacity": 6000,
+      "odometer": 118879,
+      "acquisitionCost": 90000,
+      "status": "In Shop",
+      "region": "Asia",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "0225dacbc2b696f1e74017ee"
+      },
+      "regNo": "REG-1011",
+      "modelName": "MAN TGX",
+      "type": "Light Van",
+      "capacity": 6100,
+      "odometer": 98439,
+      "acquisitionCost": 91000,
+      "status": "Retired",
+      "region": "South America",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "54a0ece020406ef65ae33b42"
+      },
+      "regNo": "REG-1012",
+      "modelName": "Volvo FH16",
+      "type": "Heavy Truck",
+      "capacity": 6200,
+      "odometer": 62169,
+      "acquisitionCost": 92000,
+      "status": "Available",
+      "region": "North America",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "bc8f92382841b3a57f485d8d"
+      },
+      "regNo": "REG-1013",
+      "modelName": "Mercedes Actros",
+      "type": "Medium Truck",
+      "capacity": 6300,
+      "odometer": 152457,
+      "acquisitionCost": 93000,
+      "status": "On Trip",
+      "region": "Europe",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "47d3eeb9cefdbd6f731b9812"
+      },
+      "regNo": "REG-1014",
+      "modelName": "Scania R-Series",
+      "type": "Light Van",
+      "capacity": 6400,
+      "odometer": 128343,
+      "acquisitionCost": 94000,
+      "status": "In Shop",
+      "region": "Asia",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "4d49ab3056477114c048ff83"
+      },
+      "regNo": "REG-1015",
+      "modelName": "MAN TGX",
+      "type": "Heavy Truck",
+      "capacity": 6500,
+      "odometer": 167270,
+      "acquisitionCost": 95000,
+      "status": "Retired",
+      "region": "South America",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "2baee7a0965fc303b7c81ce6"
+      },
+      "regNo": "REG-1016",
+      "modelName": "Volvo FH16",
+      "type": "Medium Truck",
+      "capacity": 6600,
+      "odometer": 182717,
+      "acquisitionCost": 96000,
+      "status": "Available",
+      "region": "North America",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "1e50a4cafeb69c06d2121ff4"
+      },
+      "regNo": "REG-1017",
+      "modelName": "Mercedes Actros",
+      "type": "Light Van",
+      "capacity": 6700,
+      "odometer": 160882,
+      "acquisitionCost": 97000,
+      "status": "On Trip",
+      "region": "Europe",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "f3e7fbe1f83d9001e1255bbc"
+      },
+      "regNo": "REG-1018",
+      "modelName": "Scania R-Series",
+      "type": "Heavy Truck",
+      "capacity": 6800,
+      "odometer": 7342,
+      "acquisitionCost": 98000,
+      "status": "In Shop",
+      "region": "Asia",
+      "createdAt": "2026-07-12T10:22:16.888Z",
+      "updatedAt": "2026-07-12T10:22:16.888Z"
+    },
+    {
+      "_id": {
+        "$oid": "3eb1fea0d2b5d23882ed3ba1"
+      },
+      "regNo": "REG-1019",
+      "modelName": "MAN TGX",
+      "type": "Medium Truck",
+      "capacity": 6900,
+      "odometer": 157270,
+      "acquisitionCost": 99000,
+      "status": "Retired",
+      "region": "South America",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "098558e141f90460688ff791"
+      },
+      "regNo": "REG-1020",
+      "modelName": "Volvo FH16",
+      "type": "Light Van",
+      "capacity": 7000,
+      "odometer": 77307,
+      "acquisitionCost": 100000,
+      "status": "Available",
+      "region": "North America",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "715b7e2d57e7d127a84a5392"
+      },
+      "regNo": "REG-1021",
+      "modelName": "Mercedes Actros",
+      "type": "Heavy Truck",
+      "capacity": 7100,
+      "odometer": 97408,
+      "acquisitionCost": 101000,
+      "status": "On Trip",
+      "region": "Europe",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "341ec867183ab2c008ca1275"
+      },
+      "regNo": "REG-1022",
+      "modelName": "Scania R-Series",
+      "type": "Medium Truck",
+      "capacity": 7200,
+      "odometer": 103626,
+      "acquisitionCost": 102000,
+      "status": "In Shop",
+      "region": "Asia",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "96d98c738412c4f2f1e3c00a"
+      },
+      "regNo": "REG-1023",
+      "modelName": "MAN TGX",
+      "type": "Light Van",
+      "capacity": 7300,
+      "odometer": 184603,
+      "acquisitionCost": 103000,
+      "status": "Retired",
+      "region": "South America",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "572a1a16791bf800713a8eb3"
+      },
+      "regNo": "REG-1024",
+      "modelName": "Volvo FH16",
+      "type": "Heavy Truck",
+      "capacity": 7400,
+      "odometer": 197365,
+      "acquisitionCost": 104000,
+      "status": "Available",
+      "region": "North America",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "3ed1b67412a8a86e27492810"
+      },
+      "regNo": "REG-1025",
+      "modelName": "Mercedes Actros",
+      "type": "Medium Truck",
+      "capacity": 7500,
+      "odometer": 165850,
+      "acquisitionCost": 105000,
+      "status": "On Trip",
+      "region": "Europe",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "82faa13feff447ac73a0a1d6"
+      },
+      "regNo": "REG-1026",
+      "modelName": "Scania R-Series",
+      "type": "Light Van",
+      "capacity": 7600,
+      "odometer": 141198,
+      "acquisitionCost": 106000,
+      "status": "In Shop",
+      "region": "Asia",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "05d47189aaed4cd80969643c"
+      },
+      "regNo": "REG-1027",
+      "modelName": "MAN TGX",
+      "type": "Heavy Truck",
+      "capacity": 7700,
+      "odometer": 117813,
+      "acquisitionCost": 107000,
+      "status": "Retired",
+      "region": "South America",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "0ef0afc838aefe9eb074d524"
+      },
+      "regNo": "REG-1028",
+      "modelName": "Volvo FH16",
+      "type": "Medium Truck",
+      "capacity": 7800,
+      "odometer": 113948,
+      "acquisitionCost": 108000,
+      "status": "Available",
+      "region": "North America",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "1518cddd6520fe4ff208e8f7"
+      },
+      "regNo": "REG-1029",
+      "modelName": "Mercedes Actros",
+      "type": "Light Van",
+      "capacity": 7900,
+      "odometer": 85677,
+      "acquisitionCost": 109000,
+      "status": "On Trip",
+      "region": "Europe",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "f28784426823b3f835488450"
+      },
+      "regNo": "REG-1030",
+      "modelName": "Scania R-Series",
+      "type": "Heavy Truck",
+      "capacity": 8000,
+      "odometer": 37596,
+      "acquisitionCost": 110000,
+      "status": "In Shop",
+      "region": "Asia",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "f84c89f4dc86c75e32469ebc"
+      },
+      "regNo": "REG-1031",
+      "modelName": "MAN TGX",
+      "type": "Medium Truck",
+      "capacity": 8100,
+      "odometer": 71089,
+      "acquisitionCost": 111000,
+      "status": "Retired",
+      "region": "South America",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "b7e955a6d666727935654524"
+      },
+      "regNo": "REG-1032",
+      "modelName": "Volvo FH16",
+      "type": "Light Van",
+      "capacity": 8200,
+      "odometer": 122331,
+      "acquisitionCost": 112000,
+      "status": "Available",
+      "region": "North America",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "18231a29731bae99203b1912"
+      },
+      "regNo": "REG-1033",
+      "modelName": "Mercedes Actros",
+      "type": "Heavy Truck",
+      "capacity": 8300,
+      "odometer": 171405,
+      "acquisitionCost": 113000,
+      "status": "On Trip",
+      "region": "Europe",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "5c1235ba1c56acba7811c33a"
+      },
+      "regNo": "REG-1034",
+      "modelName": "Scania R-Series",
+      "type": "Medium Truck",
+      "capacity": 8400,
+      "odometer": 24465,
+      "acquisitionCost": 114000,
+      "status": "In Shop",
+      "region": "Asia",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "c85938a905098098ec866d22"
+      },
+      "regNo": "REG-1035",
+      "modelName": "MAN TGX",
+      "type": "Light Van",
+      "capacity": 8500,
+      "odometer": 85470,
+      "acquisitionCost": 115000,
+      "status": "Retired",
+      "region": "South America",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "ce5ff4dbd92c512b246e9b97"
+      },
+      "regNo": "REG-1036",
+      "modelName": "Volvo FH16",
+      "type": "Heavy Truck",
+      "capacity": 8600,
+      "odometer": 181520,
+      "acquisitionCost": 116000,
+      "status": "Available",
+      "region": "North America",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "145114ea1e8d3615b1d29616"
+      },
+      "regNo": "REG-1037",
+      "modelName": "Mercedes Actros",
+      "type": "Medium Truck",
+      "capacity": 8700,
+      "odometer": 110725,
+      "acquisitionCost": 117000,
+      "status": "On Trip",
+      "region": "Europe",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "8f11ebfcc87498066d335ea8"
+      },
+      "regNo": "REG-1038",
+      "modelName": "Scania R-Series",
+      "type": "Light Van",
+      "capacity": 8800,
+      "odometer": 109111,
+      "acquisitionCost": 118000,
+      "status": "In Shop",
+      "region": "Asia",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "284ffd32571f9815b69b1450"
+      },
+      "regNo": "REG-1039",
+      "modelName": "MAN TGX",
+      "type": "Heavy Truck",
+      "capacity": 8900,
+      "odometer": 136447,
+      "acquisitionCost": 119000,
+      "status": "Retired",
+      "region": "South America",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "65266c913cd907effafe8287"
+      },
+      "regNo": "REG-1040",
+      "modelName": "Volvo FH16",
+      "type": "Medium Truck",
+      "capacity": 9000,
+      "odometer": 132975,
+      "acquisitionCost": 120000,
+      "status": "Available",
+      "region": "North America",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "4c26c8b0d7718fcc6cddb955"
+      },
+      "regNo": "REG-1041",
+      "modelName": "Mercedes Actros",
+      "type": "Light Van",
+      "capacity": 9100,
+      "odometer": 88214,
+      "acquisitionCost": 121000,
+      "status": "On Trip",
+      "region": "Europe",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "b9fd9201e3671460eaaa2272"
+      },
+      "regNo": "REG-1042",
+      "modelName": "Scania R-Series",
+      "type": "Heavy Truck",
+      "capacity": 9200,
+      "odometer": 106879,
+      "acquisitionCost": 122000,
+      "status": "In Shop",
+      "region": "Asia",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "579ba8c7753bf541ab853ebb"
+      },
+      "regNo": "REG-1043",
+      "modelName": "MAN TGX",
+      "type": "Medium Truck",
+      "capacity": 9300,
+      "odometer": 126957,
+      "acquisitionCost": 123000,
+      "status": "Retired",
+      "region": "South America",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "b49b7c9830516024f93d3a4c"
+      },
+      "regNo": "REG-1044",
+      "modelName": "Volvo FH16",
+      "type": "Light Van",
+      "capacity": 9400,
+      "odometer": 117367,
+      "acquisitionCost": 124000,
+      "status": "Available",
+      "region": "North America",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "854e777da10539b3a4e2ce87"
+      },
+      "regNo": "REG-1045",
+      "modelName": "Mercedes Actros",
+      "type": "Heavy Truck",
+      "capacity": 9500,
+      "odometer": 189395,
+      "acquisitionCost": 125000,
+      "status": "On Trip",
+      "region": "Europe",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "1964fa75ee0f9b1bb182a061"
+      },
+      "regNo": "REG-1046",
+      "modelName": "Scania R-Series",
+      "type": "Medium Truck",
+      "capacity": 9600,
+      "odometer": 145579,
+      "acquisitionCost": 126000,
+      "status": "In Shop",
+      "region": "Asia",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "282a0cb03c3600b8bc4c9621"
+      },
+      "regNo": "REG-1047",
+      "modelName": "MAN TGX",
+      "type": "Light Van",
+      "capacity": 9700,
+      "odometer": 89638,
+      "acquisitionCost": 127000,
+      "status": "Retired",
+      "region": "South America",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "e2a634f0de68f27c9472df9c"
+      },
+      "regNo": "REG-1048",
+      "modelName": "Volvo FH16",
+      "type": "Heavy Truck",
+      "capacity": 9800,
+      "odometer": 33867,
+      "acquisitionCost": 128000,
+      "status": "Available",
+      "region": "North America",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "9c0e2d3c584ba04f727b3c54"
+      },
+      "regNo": "REG-1049",
+      "modelName": "Mercedes Actros",
+      "type": "Medium Truck",
+      "capacity": 9900,
+      "odometer": 60080,
+      "acquisitionCost": 129000,
+      "status": "On Trip",
+      "region": "Europe",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "126ac618f9715c58b98915c8"
+      },
+      "regNo": "REG-1050",
+      "modelName": "Scania R-Series",
+      "type": "Light Van",
+      "capacity": 10000,
+      "odometer": 12674,
+      "acquisitionCost": 130000,
+      "status": "In Shop",
+      "region": "Asia",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    }
+  ],
+  "trips": [
+    {
+      "_id": {
+        "$oid": "f45baf5b700adc60f84c66d6"
+      },
+      "vehicleId": {
+        "$oid": "612985c2810c992abb6f915b"
+      },
+      "driverId": {
+        "$oid": "e5427cd0bdce9c2505d399d1"
+      },
+      "lifecycleState": "Dispatched",
+      "cargoWeight": 3346,
+      "plannedDistance": 529,
+      "revenue": 3545,
+      "origin": "City B",
+      "destination": "City G",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "935d87db7676fd1bb7bbd93f"
+      },
+      "vehicleId": {
+        "$oid": "986d7e10db769800b643d982"
+      },
+      "driverId": {
+        "$oid": "8c6c08d2269fc487dab0cd86"
+      },
+      "lifecycleState": "Completed",
+      "cargoWeight": 3127,
+      "plannedDistance": 166,
+      "revenue": 3787,
+      "origin": "City C",
+      "destination": "City H",
+      "createdAt": "2026-07-12T10:22:16.889Z",
+      "updatedAt": "2026-07-12T10:22:16.889Z"
+    },
+    {
+      "_id": {
+        "$oid": "786c2323a22d743fb047296a"
+      },
+      "vehicleId": {
+        "$oid": "e3a278914e953c2b016d26c4"
+      },
+      "driverId": {
+        "$oid": "27dd564015598f0ebc250741"
+      },
+      "lifecycleState": "Cancelled",
+      "cargoWeight": 1474,
+      "plannedDistance": 820,
+      "revenue": 4369,
+      "origin": "City D",
+      "destination": "City I",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "635787de96df7f410c349215"
+      },
+      "vehicleId": {
+        "$oid": "55ad803bc97a359a91684dd1"
+      },
+      "driverId": {
+        "$oid": "cb287c460cf0df82f188ee0c"
+      },
+      "lifecycleState": "Draft",
+      "cargoWeight": 2000,
+      "plannedDistance": 760,
+      "revenue": 4714,
+      "origin": "City E",
+      "destination": "City J",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "5c665e6777bb6f91f481d1de"
+      },
+      "vehicleId": {
+        "$oid": "03270931e7876117ea372f4b"
+      },
+      "driverId": {
+        "$oid": "adbdd025bc1b3aeabe626aef"
+      },
+      "lifecycleState": "Dispatched",
+      "cargoWeight": 2976,
+      "plannedDistance": 517,
+      "revenue": 4435,
+      "origin": "City F",
+      "destination": "City A",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "63170138c90f0c4b7cf7120e"
+      },
+      "vehicleId": {
+        "$oid": "f46ea8fc6d429b0210ae6065"
+      },
+      "driverId": {
+        "$oid": "0fc4b1026dabf52f2c994c67"
+      },
+      "lifecycleState": "Completed",
+      "cargoWeight": 1375,
+      "plannedDistance": 468,
+      "revenue": 2377,
+      "origin": "City G",
+      "destination": "City B",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "99ea1fa5127c1518039be079"
+      },
+      "vehicleId": {
+        "$oid": "40b161eaa6ea4b6454bde23a"
+      },
+      "driverId": {
+        "$oid": "02dd23c4bb85b4def2f91c32"
+      },
+      "lifecycleState": "Cancelled",
+      "cargoWeight": 3602,
+      "plannedDistance": 385,
+      "revenue": 1573,
+      "origin": "City H",
+      "destination": "City C",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "6655a63c7daa0a2a23fc5ee9"
+      },
+      "vehicleId": {
+        "$oid": "2fc4a5ca741f6169bb140cce"
+      },
+      "driverId": {
+        "$oid": "206f10110c7b41b6d7f0394a"
+      },
+      "lifecycleState": "Draft",
+      "cargoWeight": 2154,
+      "plannedDistance": 348,
+      "revenue": 4379,
+      "origin": "City I",
+      "destination": "City D",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "943ac7ed7a53b893c1e841a8"
+      },
+      "vehicleId": {
+        "$oid": "1781a8f89e2bcd7a67753cda"
+      },
+      "driverId": {
+        "$oid": "85c3234dcc56d2a0ef7e2e68"
+      },
+      "lifecycleState": "Dispatched",
+      "cargoWeight": 2718,
+      "plannedDistance": 620,
+      "revenue": 2352,
+      "origin": "City J",
+      "destination": "City E",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "60f2372f7f7ca397dea2ef9c"
+      },
+      "vehicleId": {
+        "$oid": "0225dacbc2b696f1e74017ee"
+      },
+      "driverId": {
+        "$oid": "04f16b762c602300e2e50022"
+      },
+      "lifecycleState": "Completed",
+      "cargoWeight": 4408,
+      "plannedDistance": 502,
+      "revenue": 658,
+      "origin": "City A",
+      "destination": "City F",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "f4944233ded93777edbb2dfd"
+      },
+      "vehicleId": {
+        "$oid": "54a0ece020406ef65ae33b42"
+      },
+      "driverId": {
+        "$oid": "95d521af21bcaa85e3801211"
+      },
+      "lifecycleState": "Cancelled",
+      "cargoWeight": 3723,
+      "plannedDistance": 705,
+      "revenue": 1716,
+      "origin": "City B",
+      "destination": "City G",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "b7bee16110c872743fa82b34"
+      },
+      "vehicleId": {
+        "$oid": "bc8f92382841b3a57f485d8d"
+      },
+      "driverId": {
+        "$oid": "c60c3f99663ccf477c559cea"
+      },
+      "lifecycleState": "Draft",
+      "cargoWeight": 1937,
+      "plannedDistance": 714,
+      "revenue": 2798,
+      "origin": "City C",
+      "destination": "City H",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "6926c8f34ea01fcfaaf023de"
+      },
+      "vehicleId": {
+        "$oid": "47d3eeb9cefdbd6f731b9812"
+      },
+      "driverId": {
+        "$oid": "68266f1098a4e14647d87ef5"
+      },
+      "lifecycleState": "Dispatched",
+      "cargoWeight": 2667,
+      "plannedDistance": 858,
+      "revenue": 822,
+      "origin": "City D",
+      "destination": "City I",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "2991b33aff658c5a729344d9"
+      },
+      "vehicleId": {
+        "$oid": "4d49ab3056477114c048ff83"
+      },
+      "driverId": {
+        "$oid": "d8680ca74dfb209162e5a4f8"
+      },
+      "lifecycleState": "Completed",
+      "cargoWeight": 4377,
+      "plannedDistance": 454,
+      "revenue": 4359,
+      "origin": "City E",
+      "destination": "City J",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "523e91eacd1aa8a4eaa6f6f0"
+      },
+      "vehicleId": {
+        "$oid": "2baee7a0965fc303b7c81ce6"
+      },
+      "driverId": {
+        "$oid": "3fdfdb370305a08d88a57737"
+      },
+      "lifecycleState": "Cancelled",
+      "cargoWeight": 3671,
+      "plannedDistance": 401,
+      "revenue": 4023,
+      "origin": "City F",
+      "destination": "City A",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "2ef145fc72aca7da1b69eaa6"
+      },
+      "vehicleId": {
+        "$oid": "1e50a4cafeb69c06d2121ff4"
+      },
+      "driverId": {
+        "$oid": "31911a830e93a96670bb9803"
+      },
+      "lifecycleState": "Draft",
+      "cargoWeight": 3235,
+      "plannedDistance": 824,
+      "revenue": 2230,
+      "origin": "City G",
+      "destination": "City B",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "10bf95bbaba1a988db746b75"
+      },
+      "vehicleId": {
+        "$oid": "f3e7fbe1f83d9001e1255bbc"
+      },
+      "driverId": {
+        "$oid": "a610111ec813cfe541390697"
+      },
+      "lifecycleState": "Dispatched",
+      "cargoWeight": 3258,
+      "plannedDistance": 427,
+      "revenue": 1502,
+      "origin": "City H",
+      "destination": "City C",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "0c1243fe4b8ddf187ddc3187"
+      },
+      "vehicleId": {
+        "$oid": "3eb1fea0d2b5d23882ed3ba1"
+      },
+      "driverId": {
+        "$oid": "226e343123a9ce1291873baf"
+      },
+      "lifecycleState": "Completed",
+      "cargoWeight": 1055,
+      "plannedDistance": 684,
+      "revenue": 3057,
+      "origin": "City I",
+      "destination": "City D",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "b67fc979b7a4c7f53f23dc2b"
+      },
+      "vehicleId": {
+        "$oid": "098558e141f90460688ff791"
+      },
+      "driverId": {
+        "$oid": "466b4f960ee237f5de5244cc"
+      },
+      "lifecycleState": "Cancelled",
+      "cargoWeight": 4746,
+      "plannedDistance": 703,
+      "revenue": 3459,
+      "origin": "City J",
+      "destination": "City E",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "dc8ee5c6d1424b065a6b99ff"
+      },
+      "vehicleId": {
+        "$oid": "715b7e2d57e7d127a84a5392"
+      },
+      "driverId": {
+        "$oid": "cdabd6d17f73fd224796615f"
+      },
+      "lifecycleState": "Draft",
+      "cargoWeight": 1029,
+      "plannedDistance": 170,
+      "revenue": 5247,
+      "origin": "City A",
+      "destination": "City F",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "4762bd52340b3669b8ceeb6d"
+      },
+      "vehicleId": {
+        "$oid": "341ec867183ab2c008ca1275"
+      },
+      "driverId": {
+        "$oid": "63056caafcd941f847c798a1"
+      },
+      "lifecycleState": "Dispatched",
+      "cargoWeight": 3595,
+      "plannedDistance": 141,
+      "revenue": 2262,
+      "origin": "City B",
+      "destination": "City G",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "9a7405a487898d4f78f74b59"
+      },
+      "vehicleId": {
+        "$oid": "96d98c738412c4f2f1e3c00a"
+      },
+      "driverId": {
+        "$oid": "826ccce361b23b0a1b918784"
+      },
+      "lifecycleState": "Completed",
+      "cargoWeight": 2945,
+      "plannedDistance": 899,
+      "revenue": 4717,
+      "origin": "City C",
+      "destination": "City H",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "c96ffdfcafd831a0ea0b023b"
+      },
+      "vehicleId": {
+        "$oid": "572a1a16791bf800713a8eb3"
+      },
+      "driverId": {
+        "$oid": "b33b60350c8796a62085de5a"
+      },
+      "lifecycleState": "Cancelled",
+      "cargoWeight": 3856,
+      "plannedDistance": 370,
+      "revenue": 2062,
+      "origin": "City D",
+      "destination": "City I",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "7f1317e7cc6c0d0ec8b53558"
+      },
+      "vehicleId": {
+        "$oid": "3ed1b67412a8a86e27492810"
+      },
+      "driverId": {
+        "$oid": "e04ef10a008bebd04a468209"
+      },
+      "lifecycleState": "Draft",
+      "cargoWeight": 1580,
+      "plannedDistance": 611,
+      "revenue": 4358,
+      "origin": "City E",
+      "destination": "City J",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "47eca0155640518e9ec5409c"
+      },
+      "vehicleId": {
+        "$oid": "82faa13feff447ac73a0a1d6"
+      },
+      "driverId": {
+        "$oid": "49193b469382ae1c81109c2e"
+      },
+      "lifecycleState": "Dispatched",
+      "cargoWeight": 3378,
+      "plannedDistance": 350,
+      "revenue": 1593,
+      "origin": "City F",
+      "destination": "City A",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "1432340385d5b4d8413ee04f"
+      },
+      "vehicleId": {
+        "$oid": "05d47189aaed4cd80969643c"
+      },
+      "driverId": {
+        "$oid": "4ba9baffef780915648828bf"
+      },
+      "lifecycleState": "Completed",
+      "cargoWeight": 3937,
+      "plannedDistance": 888,
+      "revenue": 2546,
+      "origin": "City G",
+      "destination": "City B",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "6311ce0e171d6e0bc94c7f61"
+      },
+      "vehicleId": {
+        "$oid": "0ef0afc838aefe9eb074d524"
+      },
+      "driverId": {
+        "$oid": "b6bb71cfba53142dc883211a"
+      },
+      "lifecycleState": "Cancelled",
+      "cargoWeight": 2193,
+      "plannedDistance": 113,
+      "revenue": 3816,
+      "origin": "City H",
+      "destination": "City C",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "e67e8cd93fa10f0dc400d0ff"
+      },
+      "vehicleId": {
+        "$oid": "1518cddd6520fe4ff208e8f7"
+      },
+      "driverId": {
+        "$oid": "0f0de594e66746b788d5f48e"
+      },
+      "lifecycleState": "Draft",
+      "cargoWeight": 4549,
+      "plannedDistance": 409,
+      "revenue": 4097,
+      "origin": "City I",
+      "destination": "City D",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "78d4acd04d6940e8673af9fd"
+      },
+      "vehicleId": {
+        "$oid": "f28784426823b3f835488450"
+      },
+      "driverId": {
+        "$oid": "6074083280e1e18a29537713"
+      },
+      "lifecycleState": "Dispatched",
+      "cargoWeight": 2266,
+      "plannedDistance": 437,
+      "revenue": 513,
+      "origin": "City J",
+      "destination": "City E",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "3f8e081464b71328f3188190"
+      },
+      "vehicleId": {
+        "$oid": "f84c89f4dc86c75e32469ebc"
+      },
+      "driverId": {
+        "$oid": "6f549de7b1b8a97b4fe83259"
+      },
+      "lifecycleState": "Completed",
+      "cargoWeight": 1675,
+      "plannedDistance": 734,
+      "revenue": 2151,
+      "origin": "City A",
+      "destination": "City F",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "8896d0a941150b51707bf64a"
+      },
+      "vehicleId": {
+        "$oid": "b7e955a6d666727935654524"
+      },
+      "driverId": {
+        "$oid": "e5427cd0bdce9c2505d399d1"
+      },
+      "lifecycleState": "Cancelled",
+      "cargoWeight": 2143,
+      "plannedDistance": 380,
+      "revenue": 5420,
+      "origin": "City B",
+      "destination": "City G",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "580bcb6bac6466843a19200e"
+      },
+      "vehicleId": {
+        "$oid": "18231a29731bae99203b1912"
+      },
+      "driverId": {
+        "$oid": "8c6c08d2269fc487dab0cd86"
+      },
+      "lifecycleState": "Draft",
+      "cargoWeight": 1866,
+      "plannedDistance": 444,
+      "revenue": 2535,
+      "origin": "City C",
+      "destination": "City H",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "b93b8f0afd1691e15595d84f"
+      },
+      "vehicleId": {
+        "$oid": "5c1235ba1c56acba7811c33a"
+      },
+      "driverId": {
+        "$oid": "27dd564015598f0ebc250741"
+      },
+      "lifecycleState": "Dispatched",
+      "cargoWeight": 3657,
+      "plannedDistance": 841,
+      "revenue": 3689,
+      "origin": "City D",
+      "destination": "City I",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "5e86fa888a761ecca89f4cd9"
+      },
+      "vehicleId": {
+        "$oid": "c85938a905098098ec866d22"
+      },
+      "driverId": {
+        "$oid": "cb287c460cf0df82f188ee0c"
+      },
+      "lifecycleState": "Completed",
+      "cargoWeight": 4924,
+      "plannedDistance": 193,
+      "revenue": 4885,
+      "origin": "City E",
+      "destination": "City J",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "9ba4a75c3548776578c295e4"
+      },
+      "vehicleId": {
+        "$oid": "ce5ff4dbd92c512b246e9b97"
+      },
+      "driverId": {
+        "$oid": "adbdd025bc1b3aeabe626aef"
+      },
+      "lifecycleState": "Cancelled",
+      "cargoWeight": 3950,
+      "plannedDistance": 102,
+      "revenue": 1085,
+      "origin": "City F",
+      "destination": "City A",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "e7083604f9f76008a6b3d7a7"
+      },
+      "vehicleId": {
+        "$oid": "145114ea1e8d3615b1d29616"
+      },
+      "driverId": {
+        "$oid": "0fc4b1026dabf52f2c994c67"
+      },
+      "lifecycleState": "Draft",
+      "cargoWeight": 3738,
+      "plannedDistance": 242,
+      "revenue": 1455,
+      "origin": "City G",
+      "destination": "City B",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "83fd33c5a56cb329ec02dec1"
+      },
+      "vehicleId": {
+        "$oid": "8f11ebfcc87498066d335ea8"
+      },
+      "driverId": {
+        "$oid": "02dd23c4bb85b4def2f91c32"
+      },
+      "lifecycleState": "Dispatched",
+      "cargoWeight": 1980,
+      "plannedDistance": 364,
+      "revenue": 3933,
+      "origin": "City H",
+      "destination": "City C",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "9ad23daf332456125427296b"
+      },
+      "vehicleId": {
+        "$oid": "284ffd32571f9815b69b1450"
+      },
+      "driverId": {
+        "$oid": "206f10110c7b41b6d7f0394a"
+      },
+      "lifecycleState": "Completed",
+      "cargoWeight": 3776,
+      "plannedDistance": 718,
+      "revenue": 1762,
+      "origin": "City I",
+      "destination": "City D",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "c3ec79ff4b344dfda34fc336"
+      },
+      "vehicleId": {
+        "$oid": "65266c913cd907effafe8287"
+      },
+      "driverId": {
+        "$oid": "85c3234dcc56d2a0ef7e2e68"
+      },
+      "lifecycleState": "Cancelled",
+      "cargoWeight": 3259,
+      "plannedDistance": 530,
+      "revenue": 1016,
+      "origin": "City J",
+      "destination": "City E",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "7c2b9a3267ce0f6b150c6a89"
+      },
+      "vehicleId": {
+        "$oid": "4c26c8b0d7718fcc6cddb955"
+      },
+      "driverId": {
+        "$oid": "04f16b762c602300e2e50022"
+      },
+      "lifecycleState": "Draft",
+      "cargoWeight": 3053,
+      "plannedDistance": 120,
+      "revenue": 1722,
+      "origin": "City A",
+      "destination": "City F",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "35c3d0b13b2ae6ad2d3e6b4d"
+      },
+      "vehicleId": {
+        "$oid": "b9fd9201e3671460eaaa2272"
+      },
+      "driverId": {
+        "$oid": "95d521af21bcaa85e3801211"
+      },
+      "lifecycleState": "Dispatched",
+      "cargoWeight": 3990,
+      "plannedDistance": 800,
+      "revenue": 1671,
+      "origin": "City B",
+      "destination": "City G",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "827ba79612206b3578109f3f"
+      },
+      "vehicleId": {
+        "$oid": "579ba8c7753bf541ab853ebb"
+      },
+      "driverId": {
+        "$oid": "c60c3f99663ccf477c559cea"
+      },
+      "lifecycleState": "Completed",
+      "cargoWeight": 2536,
+      "plannedDistance": 357,
+      "revenue": 2258,
+      "origin": "City C",
+      "destination": "City H",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "01ec3b85a9b4664d52828993"
+      },
+      "vehicleId": {
+        "$oid": "b49b7c9830516024f93d3a4c"
+      },
+      "driverId": {
+        "$oid": "68266f1098a4e14647d87ef5"
+      },
+      "lifecycleState": "Cancelled",
+      "cargoWeight": 1752,
+      "plannedDistance": 741,
+      "revenue": 5265,
+      "origin": "City D",
+      "destination": "City I",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "b8740f372d9de2ffbead3262"
+      },
+      "vehicleId": {
+        "$oid": "854e777da10539b3a4e2ce87"
+      },
+      "driverId": {
+        "$oid": "d8680ca74dfb209162e5a4f8"
+      },
+      "lifecycleState": "Draft",
+      "cargoWeight": 1673,
+      "plannedDistance": 404,
+      "revenue": 2542,
+      "origin": "City E",
+      "destination": "City J",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "7bb12127776bd6a8c1ad6827"
+      },
+      "vehicleId": {
+        "$oid": "1964fa75ee0f9b1bb182a061"
+      },
+      "driverId": {
+        "$oid": "3fdfdb370305a08d88a57737"
+      },
+      "lifecycleState": "Dispatched",
+      "cargoWeight": 4498,
+      "plannedDistance": 508,
+      "revenue": 2122,
+      "origin": "City F",
+      "destination": "City A",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "1f986a85eb3e6eb5b0148944"
+      },
+      "vehicleId": {
+        "$oid": "282a0cb03c3600b8bc4c9621"
+      },
+      "driverId": {
+        "$oid": "31911a830e93a96670bb9803"
+      },
+      "lifecycleState": "Completed",
+      "cargoWeight": 3806,
+      "plannedDistance": 537,
+      "revenue": 2598,
+      "origin": "City G",
+      "destination": "City B",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "60151a1688870ad8eb91a0fa"
+      },
+      "vehicleId": {
+        "$oid": "e2a634f0de68f27c9472df9c"
+      },
+      "driverId": {
+        "$oid": "a610111ec813cfe541390697"
+      },
+      "lifecycleState": "Cancelled",
+      "cargoWeight": 1288,
+      "plannedDistance": 772,
+      "revenue": 1784,
+      "origin": "City H",
+      "destination": "City C",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "b3e6954ad949b0b95fc53339"
+      },
+      "vehicleId": {
+        "$oid": "9c0e2d3c584ba04f727b3c54"
+      },
+      "driverId": {
+        "$oid": "226e343123a9ce1291873baf"
+      },
+      "lifecycleState": "Draft",
+      "cargoWeight": 2650,
+      "plannedDistance": 854,
+      "revenue": 3893,
+      "origin": "City I",
+      "destination": "City D",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "5b04bc40b0149f44710f8378"
+      },
+      "vehicleId": {
+        "$oid": "126ac618f9715c58b98915c8"
+      },
+      "driverId": {
+        "$oid": "466b4f960ee237f5de5244cc"
+      },
+      "lifecycleState": "Dispatched",
+      "cargoWeight": 3198,
+      "plannedDistance": 168,
+      "revenue": 3905,
+      "origin": "City J",
+      "destination": "City E",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "9d23d2231f1d749d13b79215"
+      },
+      "vehicleId": {
+        "$oid": "cfa2949c32e5a56a294f2a15"
+      },
+      "driverId": {
+        "$oid": "cdabd6d17f73fd224796615f"
+      },
+      "lifecycleState": "Completed",
+      "cargoWeight": 4505,
+      "plannedDistance": 868,
+      "revenue": 2309,
+      "origin": "City A",
+      "destination": "City F",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "5cb06cf028fba8ad7d57ad72"
+      },
+      "vehicleId": {
+        "$oid": "612985c2810c992abb6f915b"
+      },
+      "driverId": {
+        "$oid": "63056caafcd941f847c798a1"
+      },
+      "lifecycleState": "Cancelled",
+      "cargoWeight": 4256,
+      "plannedDistance": 271,
+      "revenue": 3514,
+      "origin": "City B",
+      "destination": "City G",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "a18dd225433177f6b35ab7c9"
+      },
+      "vehicleId": {
+        "$oid": "986d7e10db769800b643d982"
+      },
+      "driverId": {
+        "$oid": "826ccce361b23b0a1b918784"
+      },
+      "lifecycleState": "Draft",
+      "cargoWeight": 3757,
+      "plannedDistance": 645,
+      "revenue": 3791,
+      "origin": "City C",
+      "destination": "City H",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "703a3b45f84d661576995d03"
+      },
+      "vehicleId": {
+        "$oid": "e3a278914e953c2b016d26c4"
+      },
+      "driverId": {
+        "$oid": "b33b60350c8796a62085de5a"
+      },
+      "lifecycleState": "Dispatched",
+      "cargoWeight": 1237,
+      "plannedDistance": 293,
+      "revenue": 3957,
+      "origin": "City D",
+      "destination": "City I",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "ce52a71ec1b1dd9d916422b8"
+      },
+      "vehicleId": {
+        "$oid": "55ad803bc97a359a91684dd1"
+      },
+      "driverId": {
+        "$oid": "e04ef10a008bebd04a468209"
+      },
+      "lifecycleState": "Completed",
+      "cargoWeight": 3275,
+      "plannedDistance": 416,
+      "revenue": 2273,
+      "origin": "City E",
+      "destination": "City J",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "fe3033c992b9d7c0cf4e39eb"
+      },
+      "vehicleId": {
+        "$oid": "03270931e7876117ea372f4b"
+      },
+      "driverId": {
+        "$oid": "49193b469382ae1c81109c2e"
+      },
+      "lifecycleState": "Cancelled",
+      "cargoWeight": 1510,
+      "plannedDistance": 363,
+      "revenue": 1626,
+      "origin": "City F",
+      "destination": "City A",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "b9f440be3860ef63f9249c07"
+      },
+      "vehicleId": {
+        "$oid": "f46ea8fc6d429b0210ae6065"
+      },
+      "driverId": {
+        "$oid": "4ba9baffef780915648828bf"
+      },
+      "lifecycleState": "Draft",
+      "cargoWeight": 2848,
+      "plannedDistance": 106,
+      "revenue": 1054,
+      "origin": "City G",
+      "destination": "City B",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "6166334d69623cafcebb6272"
+      },
+      "vehicleId": {
+        "$oid": "40b161eaa6ea4b6454bde23a"
+      },
+      "driverId": {
+        "$oid": "b6bb71cfba53142dc883211a"
+      },
+      "lifecycleState": "Dispatched",
+      "cargoWeight": 3093,
+      "plannedDistance": 489,
+      "revenue": 4141,
+      "origin": "City H",
+      "destination": "City C",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "eb513c1f028efe17e0b58c00"
+      },
+      "vehicleId": {
+        "$oid": "2fc4a5ca741f6169bb140cce"
+      },
+      "driverId": {
+        "$oid": "0f0de594e66746b788d5f48e"
+      },
+      "lifecycleState": "Completed",
+      "cargoWeight": 4806,
+      "plannedDistance": 523,
+      "revenue": 2748,
+      "origin": "City I",
+      "destination": "City D",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "3a1d68c34ca0902797a0b9f7"
+      },
+      "vehicleId": {
+        "$oid": "1781a8f89e2bcd7a67753cda"
+      },
+      "driverId": {
+        "$oid": "6074083280e1e18a29537713"
+      },
+      "lifecycleState": "Cancelled",
+      "cargoWeight": 4682,
+      "plannedDistance": 853,
+      "revenue": 2109,
+      "origin": "City J",
+      "destination": "City E",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "49c235070d401e0d7bdf1476"
+      },
+      "vehicleId": {
+        "$oid": "0225dacbc2b696f1e74017ee"
+      },
+      "driverId": {
+        "$oid": "6f549de7b1b8a97b4fe83259"
+      },
+      "lifecycleState": "Draft",
+      "cargoWeight": 2882,
+      "plannedDistance": 352,
+      "revenue": 2931,
+      "origin": "City A",
+      "destination": "City F",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "ba60ea7ede7e6542cbdd9118"
+      },
+      "vehicleId": {
+        "$oid": "54a0ece020406ef65ae33b42"
+      },
+      "driverId": {
+        "$oid": "e5427cd0bdce9c2505d399d1"
+      },
+      "lifecycleState": "Dispatched",
+      "cargoWeight": 4055,
+      "plannedDistance": 348,
+      "revenue": 3617,
+      "origin": "City B",
+      "destination": "City G",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "a92116a375d18653b04695d2"
+      },
+      "vehicleId": {
+        "$oid": "bc8f92382841b3a57f485d8d"
+      },
+      "driverId": {
+        "$oid": "8c6c08d2269fc487dab0cd86"
+      },
+      "lifecycleState": "Completed",
+      "cargoWeight": 3235,
+      "plannedDistance": 180,
+      "revenue": 3266,
+      "origin": "City C",
+      "destination": "City H",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "47ed23f4fb688a2cbd0dd8ce"
+      },
+      "vehicleId": {
+        "$oid": "47d3eeb9cefdbd6f731b9812"
+      },
+      "driverId": {
+        "$oid": "27dd564015598f0ebc250741"
+      },
+      "lifecycleState": "Cancelled",
+      "cargoWeight": 1435,
+      "plannedDistance": 652,
+      "revenue": 2801,
+      "origin": "City D",
+      "destination": "City I",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "a1131fc5070cbf31f7994c6f"
+      },
+      "vehicleId": {
+        "$oid": "4d49ab3056477114c048ff83"
+      },
+      "driverId": {
+        "$oid": "cb287c460cf0df82f188ee0c"
+      },
+      "lifecycleState": "Draft",
+      "cargoWeight": 1735,
+      "plannedDistance": 651,
+      "revenue": 3869,
+      "origin": "City E",
+      "destination": "City J",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "ce5bb60efdeaa02dcc0d7589"
+      },
+      "vehicleId": {
+        "$oid": "2baee7a0965fc303b7c81ce6"
+      },
+      "driverId": {
+        "$oid": "adbdd025bc1b3aeabe626aef"
+      },
+      "lifecycleState": "Dispatched",
+      "cargoWeight": 1428,
+      "plannedDistance": 845,
+      "revenue": 1584,
+      "origin": "City F",
+      "destination": "City A",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "acd09f9088dfb937c993d76f"
+      },
+      "vehicleId": {
+        "$oid": "1e50a4cafeb69c06d2121ff4"
+      },
+      "driverId": {
+        "$oid": "0fc4b1026dabf52f2c994c67"
+      },
+      "lifecycleState": "Completed",
+      "cargoWeight": 3462,
+      "plannedDistance": 616,
+      "revenue": 4500,
+      "origin": "City G",
+      "destination": "City B",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "70c6e92affafe00ad289db4f"
+      },
+      "vehicleId": {
+        "$oid": "f3e7fbe1f83d9001e1255bbc"
+      },
+      "driverId": {
+        "$oid": "02dd23c4bb85b4def2f91c32"
+      },
+      "lifecycleState": "Cancelled",
+      "cargoWeight": 1251,
+      "plannedDistance": 249,
+      "revenue": 4216,
+      "origin": "City H",
+      "destination": "City C",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "e3073c6b7008e86aa4f81326"
+      },
+      "vehicleId": {
+        "$oid": "3eb1fea0d2b5d23882ed3ba1"
+      },
+      "driverId": {
+        "$oid": "206f10110c7b41b6d7f0394a"
+      },
+      "lifecycleState": "Draft",
+      "cargoWeight": 1740,
+      "plannedDistance": 822,
+      "revenue": 3238,
+      "origin": "City I",
+      "destination": "City D",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "cac963fa5ff8902d19844560"
+      },
+      "vehicleId": {
+        "$oid": "098558e141f90460688ff791"
+      },
+      "driverId": {
+        "$oid": "85c3234dcc56d2a0ef7e2e68"
+      },
+      "lifecycleState": "Dispatched",
+      "cargoWeight": 4282,
+      "plannedDistance": 198,
+      "revenue": 2381,
+      "origin": "City J",
+      "destination": "City E",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "f7419dd4bd3bd1c3bf4937ae"
+      },
+      "vehicleId": {
+        "$oid": "715b7e2d57e7d127a84a5392"
+      },
+      "driverId": {
+        "$oid": "04f16b762c602300e2e50022"
+      },
+      "lifecycleState": "Completed",
+      "cargoWeight": 1849,
+      "plannedDistance": 302,
+      "revenue": 3586,
+      "origin": "City A",
+      "destination": "City F",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "93d71a3bc4381b0377f45754"
+      },
+      "vehicleId": {
+        "$oid": "341ec867183ab2c008ca1275"
+      },
+      "driverId": {
+        "$oid": "95d521af21bcaa85e3801211"
+      },
+      "lifecycleState": "Cancelled",
+      "cargoWeight": 1957,
+      "plannedDistance": 345,
+      "revenue": 4477,
+      "origin": "City B",
+      "destination": "City G",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "5b091ff4584ca9e93dcdf0af"
+      },
+      "vehicleId": {
+        "$oid": "96d98c738412c4f2f1e3c00a"
+      },
+      "driverId": {
+        "$oid": "c60c3f99663ccf477c559cea"
+      },
+      "lifecycleState": "Draft",
+      "cargoWeight": 4780,
+      "plannedDistance": 185,
+      "revenue": 5171,
+      "origin": "City C",
+      "destination": "City H",
+      "createdAt": "2026-07-12T10:22:16.890Z",
+      "updatedAt": "2026-07-12T10:22:16.890Z"
+    },
+    {
+      "_id": {
+        "$oid": "ffb8f09f504d7cce226f9779"
+      },
+      "vehicleId": {
+        "$oid": "572a1a16791bf800713a8eb3"
+      },
+      "driverId": {
+        "$oid": "68266f1098a4e14647d87ef5"
+      },
+      "lifecycleState": "Dispatched",
+      "cargoWeight": 2786,
+      "plannedDistance": 483,
+      "revenue": 1438,
+      "origin": "City D",
+      "destination": "City I",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "7560ce342d54e7e83c87c59e"
+      },
+      "vehicleId": {
+        "$oid": "3ed1b67412a8a86e27492810"
+      },
+      "driverId": {
+        "$oid": "d8680ca74dfb209162e5a4f8"
+      },
+      "lifecycleState": "Completed",
+      "cargoWeight": 1764,
+      "plannedDistance": 681,
+      "revenue": 5119,
+      "origin": "City E",
+      "destination": "City J",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "f1fbb755befc2840f5c48154"
+      },
+      "vehicleId": {
+        "$oid": "82faa13feff447ac73a0a1d6"
+      },
+      "driverId": {
+        "$oid": "3fdfdb370305a08d88a57737"
+      },
+      "lifecycleState": "Cancelled",
+      "cargoWeight": 3335,
+      "plannedDistance": 766,
+      "revenue": 4406,
+      "origin": "City F",
+      "destination": "City A",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "24948e29fc51f3d3833de745"
+      },
+      "vehicleId": {
+        "$oid": "05d47189aaed4cd80969643c"
+      },
+      "driverId": {
+        "$oid": "31911a830e93a96670bb9803"
+      },
+      "lifecycleState": "Draft",
+      "cargoWeight": 1654,
+      "plannedDistance": 128,
+      "revenue": 1510,
+      "origin": "City G",
+      "destination": "City B",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "a85b25741c0060369081dc29"
+      },
+      "vehicleId": {
+        "$oid": "0ef0afc838aefe9eb074d524"
+      },
+      "driverId": {
+        "$oid": "a610111ec813cfe541390697"
+      },
+      "lifecycleState": "Dispatched",
+      "cargoWeight": 2774,
+      "plannedDistance": 468,
+      "revenue": 4288,
+      "origin": "City H",
+      "destination": "City C",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "18da27ca1564f9b4d7e70952"
+      },
+      "vehicleId": {
+        "$oid": "1518cddd6520fe4ff208e8f7"
+      },
+      "driverId": {
+        "$oid": "226e343123a9ce1291873baf"
+      },
+      "lifecycleState": "Completed",
+      "cargoWeight": 2555,
+      "plannedDistance": 159,
+      "revenue": 991,
+      "origin": "City I",
+      "destination": "City D",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "b68179fe3bb8a6b283fd2441"
+      },
+      "vehicleId": {
+        "$oid": "f28784426823b3f835488450"
+      },
+      "driverId": {
+        "$oid": "466b4f960ee237f5de5244cc"
+      },
+      "lifecycleState": "Cancelled",
+      "cargoWeight": 4861,
+      "plannedDistance": 315,
+      "revenue": 1719,
+      "origin": "City J",
+      "destination": "City E",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "80a771d20fbd3bf03bab8c90"
+      },
+      "vehicleId": {
+        "$oid": "f84c89f4dc86c75e32469ebc"
+      },
+      "driverId": {
+        "$oid": "cdabd6d17f73fd224796615f"
+      },
+      "lifecycleState": "Draft",
+      "cargoWeight": 2353,
+      "plannedDistance": 326,
+      "revenue": 4317,
+      "origin": "City A",
+      "destination": "City F",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "4258f1df7256695fc90724b8"
+      },
+      "vehicleId": {
+        "$oid": "b7e955a6d666727935654524"
+      },
+      "driverId": {
+        "$oid": "63056caafcd941f847c798a1"
+      },
+      "lifecycleState": "Dispatched",
+      "cargoWeight": 3050,
+      "plannedDistance": 241,
+      "revenue": 4336,
+      "origin": "City B",
+      "destination": "City G",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "72b899a14a814a00dda8bafc"
+      },
+      "vehicleId": {
+        "$oid": "18231a29731bae99203b1912"
+      },
+      "driverId": {
+        "$oid": "826ccce361b23b0a1b918784"
+      },
+      "lifecycleState": "Completed",
+      "cargoWeight": 2435,
+      "plannedDistance": 390,
+      "revenue": 3521,
+      "origin": "City C",
+      "destination": "City H",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "9361734a559b52be03c6d068"
+      },
+      "vehicleId": {
+        "$oid": "5c1235ba1c56acba7811c33a"
+      },
+      "driverId": {
+        "$oid": "b33b60350c8796a62085de5a"
+      },
+      "lifecycleState": "Cancelled",
+      "cargoWeight": 1173,
+      "plannedDistance": 607,
+      "revenue": 4936,
+      "origin": "City D",
+      "destination": "City I",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "62b16263acda83a45194a534"
+      },
+      "vehicleId": {
+        "$oid": "c85938a905098098ec866d22"
+      },
+      "driverId": {
+        "$oid": "e04ef10a008bebd04a468209"
+      },
+      "lifecycleState": "Draft",
+      "cargoWeight": 4404,
+      "plannedDistance": 180,
+      "revenue": 4895,
+      "origin": "City E",
+      "destination": "City J",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "043801a3339f318d71b2fe57"
+      },
+      "vehicleId": {
+        "$oid": "ce5ff4dbd92c512b246e9b97"
+      },
+      "driverId": {
+        "$oid": "49193b469382ae1c81109c2e"
+      },
+      "lifecycleState": "Dispatched",
+      "cargoWeight": 1781,
+      "plannedDistance": 307,
+      "revenue": 3160,
+      "origin": "City F",
+      "destination": "City A",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "bc366c16b16022fdb1e973e8"
+      },
+      "vehicleId": {
+        "$oid": "145114ea1e8d3615b1d29616"
+      },
+      "driverId": {
+        "$oid": "4ba9baffef780915648828bf"
+      },
+      "lifecycleState": "Completed",
+      "cargoWeight": 3627,
+      "plannedDistance": 387,
+      "revenue": 2293,
+      "origin": "City G",
+      "destination": "City B",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "a26b38a3fd217e42e24f0810"
+      },
+      "vehicleId": {
+        "$oid": "8f11ebfcc87498066d335ea8"
+      },
+      "driverId": {
+        "$oid": "b6bb71cfba53142dc883211a"
+      },
+      "lifecycleState": "Cancelled",
+      "cargoWeight": 2061,
+      "plannedDistance": 868,
+      "revenue": 1899,
+      "origin": "City H",
+      "destination": "City C",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "bf374fd12e9df33020a1f068"
+      },
+      "vehicleId": {
+        "$oid": "284ffd32571f9815b69b1450"
+      },
+      "driverId": {
+        "$oid": "0f0de594e66746b788d5f48e"
+      },
+      "lifecycleState": "Draft",
+      "cargoWeight": 2351,
+      "plannedDistance": 194,
+      "revenue": 2489,
+      "origin": "City I",
+      "destination": "City D",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "83fd2a12c16c98ea23fdff00"
+      },
+      "vehicleId": {
+        "$oid": "65266c913cd907effafe8287"
+      },
+      "driverId": {
+        "$oid": "6074083280e1e18a29537713"
+      },
+      "lifecycleState": "Dispatched",
+      "cargoWeight": 2055,
+      "plannedDistance": 341,
+      "revenue": 1489,
+      "origin": "City J",
+      "destination": "City E",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "a130485ed3f83e965c1c1f8b"
+      },
+      "vehicleId": {
+        "$oid": "4c26c8b0d7718fcc6cddb955"
+      },
+      "driverId": {
+        "$oid": "6f549de7b1b8a97b4fe83259"
+      },
+      "lifecycleState": "Completed",
+      "cargoWeight": 2602,
+      "plannedDistance": 614,
+      "revenue": 4909,
+      "origin": "City A",
+      "destination": "City F",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "899a91c83ad255700f63afba"
+      },
+      "vehicleId": {
+        "$oid": "b9fd9201e3671460eaaa2272"
+      },
+      "driverId": {
+        "$oid": "e5427cd0bdce9c2505d399d1"
+      },
+      "lifecycleState": "Cancelled",
+      "cargoWeight": 3371,
+      "plannedDistance": 529,
+      "revenue": 2665,
+      "origin": "City B",
+      "destination": "City G",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "48dd3c892f7787b739963f9f"
+      },
+      "vehicleId": {
+        "$oid": "579ba8c7753bf541ab853ebb"
+      },
+      "driverId": {
+        "$oid": "8c6c08d2269fc487dab0cd86"
+      },
+      "lifecycleState": "Draft",
+      "cargoWeight": 4383,
+      "plannedDistance": 332,
+      "revenue": 3271,
+      "origin": "City C",
+      "destination": "City H",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "b42664f42b4cce46109aba4f"
+      },
+      "vehicleId": {
+        "$oid": "b49b7c9830516024f93d3a4c"
+      },
+      "driverId": {
+        "$oid": "27dd564015598f0ebc250741"
+      },
+      "lifecycleState": "Dispatched",
+      "cargoWeight": 2184,
+      "plannedDistance": 581,
+      "revenue": 5452,
+      "origin": "City D",
+      "destination": "City I",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "31797f8018e1dabb1b25f54b"
+      },
+      "vehicleId": {
+        "$oid": "854e777da10539b3a4e2ce87"
+      },
+      "driverId": {
+        "$oid": "cb287c460cf0df82f188ee0c"
+      },
+      "lifecycleState": "Completed",
+      "cargoWeight": 2279,
+      "plannedDistance": 760,
+      "revenue": 2731,
+      "origin": "City E",
+      "destination": "City J",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "9e9fae223c69ed34a8aee0b9"
+      },
+      "vehicleId": {
+        "$oid": "1964fa75ee0f9b1bb182a061"
+      },
+      "driverId": {
+        "$oid": "adbdd025bc1b3aeabe626aef"
+      },
+      "lifecycleState": "Cancelled",
+      "cargoWeight": 4047,
+      "plannedDistance": 791,
+      "revenue": 987,
+      "origin": "City F",
+      "destination": "City A",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "deb4ddd5a85845b15940b1bc"
+      },
+      "vehicleId": {
+        "$oid": "282a0cb03c3600b8bc4c9621"
+      },
+      "driverId": {
+        "$oid": "0fc4b1026dabf52f2c994c67"
+      },
+      "lifecycleState": "Draft",
+      "cargoWeight": 4739,
+      "plannedDistance": 651,
+      "revenue": 1136,
+      "origin": "City G",
+      "destination": "City B",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "ccbf8b414705c4183958dfc6"
+      },
+      "vehicleId": {
+        "$oid": "e2a634f0de68f27c9472df9c"
+      },
+      "driverId": {
+        "$oid": "02dd23c4bb85b4def2f91c32"
+      },
+      "lifecycleState": "Dispatched",
+      "cargoWeight": 4167,
+      "plannedDistance": 705,
+      "revenue": 3626,
+      "origin": "City H",
+      "destination": "City C",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "82b50d6697b7f87c876da292"
+      },
+      "vehicleId": {
+        "$oid": "9c0e2d3c584ba04f727b3c54"
+      },
+      "driverId": {
+        "$oid": "206f10110c7b41b6d7f0394a"
+      },
+      "lifecycleState": "Completed",
+      "cargoWeight": 2386,
+      "plannedDistance": 724,
+      "revenue": 3359,
+      "origin": "City I",
+      "destination": "City D",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "aa17488079243bfbedd3ab10"
+      },
+      "vehicleId": {
+        "$oid": "126ac618f9715c58b98915c8"
+      },
+      "driverId": {
+        "$oid": "85c3234dcc56d2a0ef7e2e68"
+      },
+      "lifecycleState": "Cancelled",
+      "cargoWeight": 3065,
+      "plannedDistance": 772,
+      "revenue": 4558,
+      "origin": "City J",
+      "destination": "City E",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "470cd82ef12c08785aa6f7f0"
+      },
+      "vehicleId": {
+        "$oid": "cfa2949c32e5a56a294f2a15"
+      },
+      "driverId": {
+        "$oid": "04f16b762c602300e2e50022"
+      },
+      "lifecycleState": "Draft",
+      "cargoWeight": 2387,
+      "plannedDistance": 674,
+      "revenue": 3678,
+      "origin": "City A",
+      "destination": "City F",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    }
+  ],
+  "expenses": [
+    {
+      "_id": {
+        "$oid": "c62842a820d9fcbc3f958de1"
+      },
+      "tripId": {
+        "$oid": "935d87db7676fd1bb7bbd93f"
+      },
+      "vehicleId": {
+        "$oid": "612985c2810c992abb6f915b"
+      },
+      "type": "Maintenance",
+      "amount": 244,
+      "description": "Expense 1 generated",
+      "date": "2026-03-19T16:31:30.782Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "30d5064f37766b3aa3bad6da"
+      },
+      "tripId": {
+        "$oid": "786c2323a22d743fb047296a"
+      },
+      "vehicleId": {
+        "$oid": "986d7e10db769800b643d982"
+      },
+      "type": "Misc",
+      "amount": 106,
+      "description": "Expense 2 generated",
+      "date": "2026-05-28T15:36:03.564Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "358ccb7dfe3260482bb24186"
+      },
+      "tripId": {
+        "$oid": "635787de96df7f410c349215"
+      },
+      "vehicleId": {
+        "$oid": "e3a278914e953c2b016d26c4"
+      },
+      "type": "Toll",
+      "amount": 312,
+      "description": "Expense 3 generated",
+      "date": "2026-04-08T21:25:24.363Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "6ce2a2bff1eef40e33003c02"
+      },
+      "tripId": {
+        "$oid": "5c665e6777bb6f91f481d1de"
+      },
+      "vehicleId": {
+        "$oid": "55ad803bc97a359a91684dd1"
+      },
+      "type": "Maintenance",
+      "amount": 223,
+      "description": "Expense 4 generated",
+      "date": "2026-07-02T18:00:16.203Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "95dd01c82cc0e191ace7350b"
+      },
+      "tripId": {
+        "$oid": "63170138c90f0c4b7cf7120e"
+      },
+      "vehicleId": {
+        "$oid": "03270931e7876117ea372f4b"
+      },
+      "type": "Misc",
+      "amount": 296,
+      "description": "Expense 5 generated",
+      "date": "2026-03-31T22:28:48.057Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "2e40cece92b60ad6991b9e5c"
+      },
+      "tripId": {
+        "$oid": "99ea1fa5127c1518039be079"
+      },
+      "vehicleId": {
+        "$oid": "f46ea8fc6d429b0210ae6065"
+      },
+      "type": "Toll",
+      "amount": 298,
+      "description": "Expense 6 generated",
+      "date": "2026-04-11T01:22:36.040Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "5b2ff30faa756f6e7a0b0c4b"
+      },
+      "tripId": {
+        "$oid": "6655a63c7daa0a2a23fc5ee9"
+      },
+      "vehicleId": {
+        "$oid": "40b161eaa6ea4b6454bde23a"
+      },
+      "type": "Maintenance",
+      "amount": 177,
+      "description": "Expense 7 generated",
+      "date": "2026-06-26T16:33:23.708Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "3e72a47ff3f70abaf0ac675c"
+      },
+      "tripId": {
+        "$oid": "943ac7ed7a53b893c1e841a8"
+      },
+      "vehicleId": {
+        "$oid": "2fc4a5ca741f6169bb140cce"
+      },
+      "type": "Misc",
+      "amount": 164,
+      "description": "Expense 8 generated",
+      "date": "2026-04-12T07:23:06.109Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "782eb5f1414c9929618140e8"
+      },
+      "tripId": {
+        "$oid": "60f2372f7f7ca397dea2ef9c"
+      },
+      "vehicleId": {
+        "$oid": "1781a8f89e2bcd7a67753cda"
+      },
+      "type": "Toll",
+      "amount": 106,
+      "description": "Expense 9 generated",
+      "date": "2026-03-27T02:40:56.363Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "a1c70c5af2f1c667f4da36ac"
+      },
+      "tripId": {
+        "$oid": "f4944233ded93777edbb2dfd"
+      },
+      "vehicleId": {
+        "$oid": "0225dacbc2b696f1e74017ee"
+      },
+      "type": "Maintenance",
+      "amount": 87,
+      "description": "Expense 10 generated",
+      "date": "2026-04-02T02:40:16.771Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "d2a42e9208fa61b3a65f7b06"
+      },
+      "tripId": {
+        "$oid": "b7bee16110c872743fa82b34"
+      },
+      "vehicleId": {
+        "$oid": "54a0ece020406ef65ae33b42"
+      },
+      "type": "Misc",
+      "amount": 295,
+      "description": "Expense 11 generated",
+      "date": "2026-07-05T00:24:43.393Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "cbd0adfa533b6138cc4c28ea"
+      },
+      "tripId": {
+        "$oid": "6926c8f34ea01fcfaaf023de"
+      },
+      "vehicleId": {
+        "$oid": "bc8f92382841b3a57f485d8d"
+      },
+      "type": "Toll",
+      "amount": 189,
+      "description": "Expense 12 generated",
+      "date": "2026-06-23T02:56:13.478Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "fdefcf4c04d5b42d4bd0c8f2"
+      },
+      "tripId": {
+        "$oid": "2991b33aff658c5a729344d9"
+      },
+      "vehicleId": {
+        "$oid": "47d3eeb9cefdbd6f731b9812"
+      },
+      "type": "Maintenance",
+      "amount": 25,
+      "description": "Expense 13 generated",
+      "date": "2026-07-03T07:42:20.460Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "f5fb8334abda9acb83e8b275"
+      },
+      "tripId": {
+        "$oid": "523e91eacd1aa8a4eaa6f6f0"
+      },
+      "vehicleId": {
+        "$oid": "4d49ab3056477114c048ff83"
+      },
+      "type": "Misc",
+      "amount": 198,
+      "description": "Expense 14 generated",
+      "date": "2026-05-02T08:38:40.870Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "591323e7ca2bebf709e76f35"
+      },
+      "tripId": {
+        "$oid": "2ef145fc72aca7da1b69eaa6"
+      },
+      "vehicleId": {
+        "$oid": "2baee7a0965fc303b7c81ce6"
+      },
+      "type": "Toll",
+      "amount": 207,
+      "description": "Expense 15 generated",
+      "date": "2026-05-01T21:39:39.662Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "e9cdfdcb88367bcf0f7aa420"
+      },
+      "tripId": {
+        "$oid": "10bf95bbaba1a988db746b75"
+      },
+      "vehicleId": {
+        "$oid": "1e50a4cafeb69c06d2121ff4"
+      },
+      "type": "Maintenance",
+      "amount": 240,
+      "description": "Expense 16 generated",
+      "date": "2026-03-25T19:15:06.020Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "a87be77d5cb837cb8c17dc44"
+      },
+      "tripId": {
+        "$oid": "0c1243fe4b8ddf187ddc3187"
+      },
+      "vehicleId": {
+        "$oid": "f3e7fbe1f83d9001e1255bbc"
+      },
+      "type": "Misc",
+      "amount": 121,
+      "description": "Expense 17 generated",
+      "date": "2026-06-25T15:41:40.059Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "9cae7e25ad90f7382813dde9"
+      },
+      "tripId": {
+        "$oid": "b67fc979b7a4c7f53f23dc2b"
+      },
+      "vehicleId": {
+        "$oid": "3eb1fea0d2b5d23882ed3ba1"
+      },
+      "type": "Toll",
+      "amount": 238,
+      "description": "Expense 18 generated",
+      "date": "2026-05-28T02:48:05.418Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "3cbf34f0ee6f0cccb8ceb66a"
+      },
+      "tripId": {
+        "$oid": "dc8ee5c6d1424b065a6b99ff"
+      },
+      "vehicleId": {
+        "$oid": "098558e141f90460688ff791"
+      },
+      "type": "Maintenance",
+      "amount": 239,
+      "description": "Expense 19 generated",
+      "date": "2026-05-19T09:57:08.046Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "2497c582386f7a19c0fa3233"
+      },
+      "tripId": {
+        "$oid": "4762bd52340b3669b8ceeb6d"
+      },
+      "vehicleId": {
+        "$oid": "715b7e2d57e7d127a84a5392"
+      },
+      "type": "Misc",
+      "amount": 104,
+      "description": "Expense 20 generated",
+      "date": "2026-05-26T14:31:56.915Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "798fa306df43c49c1562bca2"
+      },
+      "tripId": {
+        "$oid": "9a7405a487898d4f78f74b59"
+      },
+      "vehicleId": {
+        "$oid": "341ec867183ab2c008ca1275"
+      },
+      "type": "Toll",
+      "amount": 220,
+      "description": "Expense 21 generated",
+      "date": "2026-04-03T07:16:19.197Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "85ff85373e9594c7e59724e1"
+      },
+      "tripId": {
+        "$oid": "c96ffdfcafd831a0ea0b023b"
+      },
+      "vehicleId": {
+        "$oid": "96d98c738412c4f2f1e3c00a"
+      },
+      "type": "Maintenance",
+      "amount": 251,
+      "description": "Expense 22 generated",
+      "date": "2026-05-14T21:07:12.483Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "4801cb8ef7174177a02cf334"
+      },
+      "tripId": {
+        "$oid": "7f1317e7cc6c0d0ec8b53558"
+      },
+      "vehicleId": {
+        "$oid": "572a1a16791bf800713a8eb3"
+      },
+      "type": "Misc",
+      "amount": 280,
+      "description": "Expense 23 generated",
+      "date": "2026-04-26T08:36:00.587Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "76d770484b5bd61ac1f92bcd"
+      },
+      "tripId": {
+        "$oid": "47eca0155640518e9ec5409c"
+      },
+      "vehicleId": {
+        "$oid": "3ed1b67412a8a86e27492810"
+      },
+      "type": "Toll",
+      "amount": 277,
+      "description": "Expense 24 generated",
+      "date": "2026-06-23T22:20:20.965Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "32f1b182f939280fe140566e"
+      },
+      "tripId": {
+        "$oid": "1432340385d5b4d8413ee04f"
+      },
+      "vehicleId": {
+        "$oid": "82faa13feff447ac73a0a1d6"
+      },
+      "type": "Maintenance",
+      "amount": 307,
+      "description": "Expense 25 generated",
+      "date": "2026-03-25T22:35:24.245Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "00700bca2c952e9dbf897f14"
+      },
+      "tripId": {
+        "$oid": "6311ce0e171d6e0bc94c7f61"
+      },
+      "vehicleId": {
+        "$oid": "05d47189aaed4cd80969643c"
+      },
+      "type": "Misc",
+      "amount": 316,
+      "description": "Expense 26 generated",
+      "date": "2026-06-05T12:53:03.618Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "a536e3ec9df0b2f18155a678"
+      },
+      "tripId": {
+        "$oid": "e67e8cd93fa10f0dc400d0ff"
+      },
+      "vehicleId": {
+        "$oid": "0ef0afc838aefe9eb074d524"
+      },
+      "type": "Toll",
+      "amount": 193,
+      "description": "Expense 27 generated",
+      "date": "2026-05-25T10:05:58.005Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "634b1944132a8894d432be87"
+      },
+      "tripId": {
+        "$oid": "78d4acd04d6940e8673af9fd"
+      },
+      "vehicleId": {
+        "$oid": "1518cddd6520fe4ff208e8f7"
+      },
+      "type": "Maintenance",
+      "amount": 164,
+      "description": "Expense 28 generated",
+      "date": "2026-03-25T02:33:00.362Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "eca3d4c75fa1149200efa176"
+      },
+      "tripId": {
+        "$oid": "3f8e081464b71328f3188190"
+      },
+      "vehicleId": {
+        "$oid": "f28784426823b3f835488450"
+      },
+      "type": "Misc",
+      "amount": 298,
+      "description": "Expense 29 generated",
+      "date": "2026-03-26T14:37:18.536Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "9a39a896db02fffa5e91a532"
+      },
+      "tripId": {
+        "$oid": "8896d0a941150b51707bf64a"
+      },
+      "vehicleId": {
+        "$oid": "f84c89f4dc86c75e32469ebc"
+      },
+      "type": "Toll",
+      "amount": 79,
+      "description": "Expense 30 generated",
+      "date": "2026-04-20T01:19:32.697Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "bc36e7a3db50f177af578553"
+      },
+      "tripId": {
+        "$oid": "580bcb6bac6466843a19200e"
+      },
+      "vehicleId": {
+        "$oid": "b7e955a6d666727935654524"
+      },
+      "type": "Maintenance",
+      "amount": 131,
+      "description": "Expense 31 generated",
+      "date": "2026-06-24T08:46:26.907Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "4fbe9f8e4bb88e6328a6043d"
+      },
+      "tripId": {
+        "$oid": "b93b8f0afd1691e15595d84f"
+      },
+      "vehicleId": {
+        "$oid": "18231a29731bae99203b1912"
+      },
+      "type": "Misc",
+      "amount": 167,
+      "description": "Expense 32 generated",
+      "date": "2026-03-22T23:47:31.840Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "34d43066cc65005774b896b0"
+      },
+      "tripId": {
+        "$oid": "5e86fa888a761ecca89f4cd9"
+      },
+      "vehicleId": {
+        "$oid": "5c1235ba1c56acba7811c33a"
+      },
+      "type": "Toll",
+      "amount": 100,
+      "description": "Expense 33 generated",
+      "date": "2026-06-18T09:14:50.006Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "daf438bb68614828b2951d61"
+      },
+      "tripId": {
+        "$oid": "9ba4a75c3548776578c295e4"
+      },
+      "vehicleId": {
+        "$oid": "c85938a905098098ec866d22"
+      },
+      "type": "Maintenance",
+      "amount": 223,
+      "description": "Expense 34 generated",
+      "date": "2026-05-19T19:42:35.126Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "3661f5fd4a1180b7b8456375"
+      },
+      "tripId": {
+        "$oid": "e7083604f9f76008a6b3d7a7"
+      },
+      "vehicleId": {
+        "$oid": "ce5ff4dbd92c512b246e9b97"
+      },
+      "type": "Misc",
+      "amount": 295,
+      "description": "Expense 35 generated",
+      "date": "2026-03-22T10:12:30.111Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "9c2cc62f0aa5f366cef73ccd"
+      },
+      "tripId": {
+        "$oid": "83fd33c5a56cb329ec02dec1"
+      },
+      "vehicleId": {
+        "$oid": "145114ea1e8d3615b1d29616"
+      },
+      "type": "Toll",
+      "amount": 219,
+      "description": "Expense 36 generated",
+      "date": "2026-05-11T20:32:32.856Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "fd64fc9bb8ee47b105b76889"
+      },
+      "tripId": {
+        "$oid": "9ad23daf332456125427296b"
+      },
+      "vehicleId": {
+        "$oid": "8f11ebfcc87498066d335ea8"
+      },
+      "type": "Maintenance",
+      "amount": 127,
+      "description": "Expense 37 generated",
+      "date": "2026-05-13T17:33:46.816Z",
+      "createdAt": "2026-07-12T10:22:16.891Z",
+      "updatedAt": "2026-07-12T10:22:16.891Z"
+    },
+    {
+      "_id": {
+        "$oid": "78c97899ab09f5dc7f888737"
+      },
+      "tripId": {
+        "$oid": "c3ec79ff4b344dfda34fc336"
+      },
+      "vehicleId": {
+        "$oid": "284ffd32571f9815b69b1450"
+      },
+      "type": "Misc",
+      "amount": 96,
+      "description": "Expense 38 generated",
+      "date": "2026-06-19T06:50:24.668Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "10b6964cc9b8343e6b7002a3"
+      },
+      "tripId": {
+        "$oid": "7c2b9a3267ce0f6b150c6a89"
+      },
+      "vehicleId": {
+        "$oid": "65266c913cd907effafe8287"
+      },
+      "type": "Toll",
+      "amount": 153,
+      "description": "Expense 39 generated",
+      "date": "2026-07-10T05:50:08.642Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "d7c28a109687a47ad06a7800"
+      },
+      "tripId": {
+        "$oid": "35c3d0b13b2ae6ad2d3e6b4d"
+      },
+      "vehicleId": {
+        "$oid": "4c26c8b0d7718fcc6cddb955"
+      },
+      "type": "Maintenance",
+      "amount": 126,
+      "description": "Expense 40 generated",
+      "date": "2026-07-06T07:08:15.045Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "91a9d0e19238a4c754f66b57"
+      },
+      "tripId": {
+        "$oid": "827ba79612206b3578109f3f"
+      },
+      "vehicleId": {
+        "$oid": "b9fd9201e3671460eaaa2272"
+      },
+      "type": "Misc",
+      "amount": 223,
+      "description": "Expense 41 generated",
+      "date": "2026-05-18T06:15:37.853Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "69a733598fddeb02f8c255f6"
+      },
+      "tripId": {
+        "$oid": "01ec3b85a9b4664d52828993"
+      },
+      "vehicleId": {
+        "$oid": "579ba8c7753bf541ab853ebb"
+      },
+      "type": "Toll",
+      "amount": 119,
+      "description": "Expense 42 generated",
+      "date": "2026-05-29T05:03:57.071Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "40e2d2b6d6e2be9b01a79fac"
+      },
+      "tripId": {
+        "$oid": "b8740f372d9de2ffbead3262"
+      },
+      "vehicleId": {
+        "$oid": "b49b7c9830516024f93d3a4c"
+      },
+      "type": "Maintenance",
+      "amount": 60,
+      "description": "Expense 43 generated",
+      "date": "2026-05-20T09:10:18.135Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "f97ea5be5c3eb0ed7026511a"
+      },
+      "tripId": {
+        "$oid": "7bb12127776bd6a8c1ad6827"
+      },
+      "vehicleId": {
+        "$oid": "854e777da10539b3a4e2ce87"
+      },
+      "type": "Misc",
+      "amount": 60,
+      "description": "Expense 44 generated",
+      "date": "2026-04-18T11:21:54.115Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "9f1ed86698e40abd581e1621"
+      },
+      "tripId": {
+        "$oid": "1f986a85eb3e6eb5b0148944"
+      },
+      "vehicleId": {
+        "$oid": "1964fa75ee0f9b1bb182a061"
+      },
+      "type": "Toll",
+      "amount": 256,
+      "description": "Expense 45 generated",
+      "date": "2026-05-30T06:46:58.734Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "5041b185358b8b3d2b24f3ad"
+      },
+      "tripId": {
+        "$oid": "60151a1688870ad8eb91a0fa"
+      },
+      "vehicleId": {
+        "$oid": "282a0cb03c3600b8bc4c9621"
+      },
+      "type": "Maintenance",
+      "amount": 200,
+      "description": "Expense 46 generated",
+      "date": "2026-04-14T20:03:01.752Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "84b1a91165a39541efd18ebc"
+      },
+      "tripId": {
+        "$oid": "b3e6954ad949b0b95fc53339"
+      },
+      "vehicleId": {
+        "$oid": "e2a634f0de68f27c9472df9c"
+      },
+      "type": "Misc",
+      "amount": 204,
+      "description": "Expense 47 generated",
+      "date": "2026-07-03T20:01:51.260Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "754bd2c164c50c552d7b46b9"
+      },
+      "tripId": {
+        "$oid": "5b04bc40b0149f44710f8378"
+      },
+      "vehicleId": {
+        "$oid": "9c0e2d3c584ba04f727b3c54"
+      },
+      "type": "Toll",
+      "amount": 121,
+      "description": "Expense 48 generated",
+      "date": "2026-07-02T13:48:32.505Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "55defdc4730bf750257c3ac8"
+      },
+      "tripId": {
+        "$oid": "9d23d2231f1d749d13b79215"
+      },
+      "vehicleId": {
+        "$oid": "126ac618f9715c58b98915c8"
+      },
+      "type": "Maintenance",
+      "amount": 75,
+      "description": "Expense 49 generated",
+      "date": "2026-04-04T05:53:50.355Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "f09b12ea5237e10ce1154486"
+      },
+      "tripId": {
+        "$oid": "5cb06cf028fba8ad7d57ad72"
+      },
+      "vehicleId": {
+        "$oid": "cfa2949c32e5a56a294f2a15"
+      },
+      "type": "Misc",
+      "amount": 184,
+      "description": "Expense 50 generated",
+      "date": "2026-06-14T13:30:57.756Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "a63bd9fe448c1e0e369b8173"
+      },
+      "tripId": {
+        "$oid": "a18dd225433177f6b35ab7c9"
+      },
+      "vehicleId": {
+        "$oid": "612985c2810c992abb6f915b"
+      },
+      "type": "Toll",
+      "amount": 85,
+      "description": "Expense 51 generated",
+      "date": "2026-04-13T15:48:21.259Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "94b1f34dac7953e932e55795"
+      },
+      "tripId": {
+        "$oid": "703a3b45f84d661576995d03"
+      },
+      "vehicleId": {
+        "$oid": "986d7e10db769800b643d982"
+      },
+      "type": "Maintenance",
+      "amount": 283,
+      "description": "Expense 52 generated",
+      "date": "2026-07-08T06:43:48.469Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "9405bf49652e6b655eb5fae5"
+      },
+      "tripId": {
+        "$oid": "ce52a71ec1b1dd9d916422b8"
+      },
+      "vehicleId": {
+        "$oid": "e3a278914e953c2b016d26c4"
+      },
+      "type": "Misc",
+      "amount": 54,
+      "description": "Expense 53 generated",
+      "date": "2026-06-25T14:55:18.094Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "a5bb2b74e5de72acd9d316bb"
+      },
+      "tripId": {
+        "$oid": "fe3033c992b9d7c0cf4e39eb"
+      },
+      "vehicleId": {
+        "$oid": "55ad803bc97a359a91684dd1"
+      },
+      "type": "Toll",
+      "amount": 245,
+      "description": "Expense 54 generated",
+      "date": "2026-06-29T03:42:31.364Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "607c4143a6a8e0077483fed1"
+      },
+      "tripId": {
+        "$oid": "b9f440be3860ef63f9249c07"
+      },
+      "vehicleId": {
+        "$oid": "03270931e7876117ea372f4b"
+      },
+      "type": "Maintenance",
+      "amount": 269,
+      "description": "Expense 55 generated",
+      "date": "2026-05-02T18:34:44.538Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "8c92215fc1ad532797e88daa"
+      },
+      "tripId": {
+        "$oid": "6166334d69623cafcebb6272"
+      },
+      "vehicleId": {
+        "$oid": "f46ea8fc6d429b0210ae6065"
+      },
+      "type": "Misc",
+      "amount": 250,
+      "description": "Expense 56 generated",
+      "date": "2026-04-11T00:15:32.934Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "b521ebf97a4424c04f8a81fe"
+      },
+      "tripId": {
+        "$oid": "eb513c1f028efe17e0b58c00"
+      },
+      "vehicleId": {
+        "$oid": "40b161eaa6ea4b6454bde23a"
+      },
+      "type": "Toll",
+      "amount": 290,
+      "description": "Expense 57 generated",
+      "date": "2026-04-08T19:59:57.551Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "44a29c52c377ad565c3d4084"
+      },
+      "tripId": {
+        "$oid": "3a1d68c34ca0902797a0b9f7"
+      },
+      "vehicleId": {
+        "$oid": "2fc4a5ca741f6169bb140cce"
+      },
+      "type": "Maintenance",
+      "amount": 186,
+      "description": "Expense 58 generated",
+      "date": "2026-04-29T22:13:34.317Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "3d93eefff33ee82636946615"
+      },
+      "tripId": {
+        "$oid": "49c235070d401e0d7bdf1476"
+      },
+      "vehicleId": {
+        "$oid": "1781a8f89e2bcd7a67753cda"
+      },
+      "type": "Misc",
+      "amount": 197,
+      "description": "Expense 59 generated",
+      "date": "2026-05-09T11:23:42.795Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "f86f608728ace6bdf85ec1a9"
+      },
+      "tripId": {
+        "$oid": "ba60ea7ede7e6542cbdd9118"
+      },
+      "vehicleId": {
+        "$oid": "0225dacbc2b696f1e74017ee"
+      },
+      "type": "Toll",
+      "amount": 298,
+      "description": "Expense 60 generated",
+      "date": "2026-06-25T05:12:54.183Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "0b899e0d04904c80392d9c44"
+      },
+      "tripId": {
+        "$oid": "a92116a375d18653b04695d2"
+      },
+      "vehicleId": {
+        "$oid": "54a0ece020406ef65ae33b42"
+      },
+      "type": "Maintenance",
+      "amount": 41,
+      "description": "Expense 61 generated",
+      "date": "2026-04-10T12:47:24.321Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "0774aa0d1f2f8cbdea8ccbd5"
+      },
+      "tripId": {
+        "$oid": "47ed23f4fb688a2cbd0dd8ce"
+      },
+      "vehicleId": {
+        "$oid": "bc8f92382841b3a57f485d8d"
+      },
+      "type": "Misc",
+      "amount": 144,
+      "description": "Expense 62 generated",
+      "date": "2026-03-20T13:19:58.939Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "483d530e483d1deb3881344d"
+      },
+      "tripId": {
+        "$oid": "a1131fc5070cbf31f7994c6f"
+      },
+      "vehicleId": {
+        "$oid": "47d3eeb9cefdbd6f731b9812"
+      },
+      "type": "Toll",
+      "amount": 304,
+      "description": "Expense 63 generated",
+      "date": "2026-05-31T07:57:59.605Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "cf81402b2eb337ef5b6d0e1c"
+      },
+      "tripId": {
+        "$oid": "ce5bb60efdeaa02dcc0d7589"
+      },
+      "vehicleId": {
+        "$oid": "4d49ab3056477114c048ff83"
+      },
+      "type": "Maintenance",
+      "amount": 80,
+      "description": "Expense 64 generated",
+      "date": "2026-04-03T21:43:48.793Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "b0dc73552e7c5b6c5030d66f"
+      },
+      "tripId": {
+        "$oid": "acd09f9088dfb937c993d76f"
+      },
+      "vehicleId": {
+        "$oid": "2baee7a0965fc303b7c81ce6"
+      },
+      "type": "Misc",
+      "amount": 104,
+      "description": "Expense 65 generated",
+      "date": "2026-05-21T22:28:43.250Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "61af9ebeaad4965599348dc2"
+      },
+      "tripId": {
+        "$oid": "70c6e92affafe00ad289db4f"
+      },
+      "vehicleId": {
+        "$oid": "1e50a4cafeb69c06d2121ff4"
+      },
+      "type": "Toll",
+      "amount": 188,
+      "description": "Expense 66 generated",
+      "date": "2026-05-20T07:18:17.909Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "0f488b5a6f994feb8a7f0f77"
+      },
+      "tripId": {
+        "$oid": "e3073c6b7008e86aa4f81326"
+      },
+      "vehicleId": {
+        "$oid": "f3e7fbe1f83d9001e1255bbc"
+      },
+      "type": "Maintenance",
+      "amount": 66,
+      "description": "Expense 67 generated",
+      "date": "2026-07-09T00:46:43.610Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "e302a35442ffca18d2ec2683"
+      },
+      "tripId": {
+        "$oid": "cac963fa5ff8902d19844560"
+      },
+      "vehicleId": {
+        "$oid": "3eb1fea0d2b5d23882ed3ba1"
+      },
+      "type": "Misc",
+      "amount": 255,
+      "description": "Expense 68 generated",
+      "date": "2026-04-12T09:23:29.643Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "c95ada7587d5e5cdb7eb3393"
+      },
+      "tripId": {
+        "$oid": "f7419dd4bd3bd1c3bf4937ae"
+      },
+      "vehicleId": {
+        "$oid": "098558e141f90460688ff791"
+      },
+      "type": "Toll",
+      "amount": 195,
+      "description": "Expense 69 generated",
+      "date": "2026-05-19T00:05:29.327Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "9c49b1d15d16907ec17f5eec"
+      },
+      "tripId": {
+        "$oid": "93d71a3bc4381b0377f45754"
+      },
+      "vehicleId": {
+        "$oid": "715b7e2d57e7d127a84a5392"
+      },
+      "type": "Maintenance",
+      "amount": 280,
+      "description": "Expense 70 generated",
+      "date": "2026-06-05T00:47:23.983Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "872964524d3ffe1e6ed2e68e"
+      },
+      "tripId": {
+        "$oid": "5b091ff4584ca9e93dcdf0af"
+      },
+      "vehicleId": {
+        "$oid": "341ec867183ab2c008ca1275"
+      },
+      "type": "Misc",
+      "amount": 63,
+      "description": "Expense 71 generated",
+      "date": "2026-03-26T04:01:39.132Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "470909337a3a40f5a24b8c65"
+      },
+      "tripId": {
+        "$oid": "ffb8f09f504d7cce226f9779"
+      },
+      "vehicleId": {
+        "$oid": "96d98c738412c4f2f1e3c00a"
+      },
+      "type": "Toll",
+      "amount": 133,
+      "description": "Expense 72 generated",
+      "date": "2026-04-17T12:06:53.379Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "0d072e3b2b9c116718924d14"
+      },
+      "tripId": {
+        "$oid": "7560ce342d54e7e83c87c59e"
+      },
+      "vehicleId": {
+        "$oid": "572a1a16791bf800713a8eb3"
+      },
+      "type": "Maintenance",
+      "amount": 48,
+      "description": "Expense 73 generated",
+      "date": "2026-06-21T12:52:38.059Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "a6dfc2ed04c922b25d5c34d3"
+      },
+      "tripId": {
+        "$oid": "f1fbb755befc2840f5c48154"
+      },
+      "vehicleId": {
+        "$oid": "3ed1b67412a8a86e27492810"
+      },
+      "type": "Misc",
+      "amount": 56,
+      "description": "Expense 74 generated",
+      "date": "2026-04-23T04:04:05.814Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "10a61291eb058997b8cca44a"
+      },
+      "tripId": {
+        "$oid": "24948e29fc51f3d3833de745"
+      },
+      "vehicleId": {
+        "$oid": "82faa13feff447ac73a0a1d6"
+      },
+      "type": "Toll",
+      "amount": 225,
+      "description": "Expense 75 generated",
+      "date": "2026-04-07T02:36:33.308Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "3b59561c932a7827a20cabd7"
+      },
+      "tripId": {
+        "$oid": "a85b25741c0060369081dc29"
+      },
+      "vehicleId": {
+        "$oid": "05d47189aaed4cd80969643c"
+      },
+      "type": "Maintenance",
+      "amount": 65,
+      "description": "Expense 76 generated",
+      "date": "2026-03-21T14:06:53.170Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "d6edcefba4ac8dee4276e394"
+      },
+      "tripId": {
+        "$oid": "18da27ca1564f9b4d7e70952"
+      },
+      "vehicleId": {
+        "$oid": "0ef0afc838aefe9eb074d524"
+      },
+      "type": "Misc",
+      "amount": 152,
+      "description": "Expense 77 generated",
+      "date": "2026-04-12T16:29:14.731Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "aad2ed6861058d872ee6332f"
+      },
+      "tripId": {
+        "$oid": "b68179fe3bb8a6b283fd2441"
+      },
+      "vehicleId": {
+        "$oid": "1518cddd6520fe4ff208e8f7"
+      },
+      "type": "Toll",
+      "amount": 154,
+      "description": "Expense 78 generated",
+      "date": "2026-04-30T07:58:59.196Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "504c5da4797b8fa6c24ad261"
+      },
+      "tripId": {
+        "$oid": "80a771d20fbd3bf03bab8c90"
+      },
+      "vehicleId": {
+        "$oid": "f28784426823b3f835488450"
+      },
+      "type": "Maintenance",
+      "amount": 60,
+      "description": "Expense 79 generated",
+      "date": "2026-05-29T02:08:32.590Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "4edf4e4da535189594ae16c0"
+      },
+      "tripId": {
+        "$oid": "4258f1df7256695fc90724b8"
+      },
+      "vehicleId": {
+        "$oid": "f84c89f4dc86c75e32469ebc"
+      },
+      "type": "Misc",
+      "amount": 192,
+      "description": "Expense 80 generated",
+      "date": "2026-04-15T06:58:32.255Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    }
+  ],
+  "fuelLogs": [
+    {
+      "_id": {
+        "$oid": "996d81585b7e33ca5c94e201"
+      },
+      "vehicleId": {
+        "$oid": "612985c2810c992abb6f915b"
+      },
+      "liters": 214,
+      "cost": 321,
+      "date": "2026-07-09T19:26:05.230Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "b85b7ade05fa85468cef8c94"
+      },
+      "vehicleId": {
+        "$oid": "986d7e10db769800b643d982"
+      },
+      "liters": 216,
+      "cost": 324,
+      "date": "2026-06-15T21:47:14.960Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "d9862e1e3fdb7d370f8505c9"
+      },
+      "vehicleId": {
+        "$oid": "e3a278914e953c2b016d26c4"
+      },
+      "liters": 198,
+      "cost": 297,
+      "date": "2026-03-29T09:37:51.065Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "c7948883c6f6f60a153a6c2e"
+      },
+      "vehicleId": {
+        "$oid": "55ad803bc97a359a91684dd1"
+      },
+      "liters": 144,
+      "cost": 216,
+      "date": "2026-05-24T11:09:22.475Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "4a12699183a52a8bced0af30"
+      },
+      "vehicleId": {
+        "$oid": "03270931e7876117ea372f4b"
+      },
+      "liters": 183,
+      "cost": 274.5,
+      "date": "2026-05-06T17:13:44.025Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "601276e820db0bebf1f7edd4"
+      },
+      "vehicleId": {
+        "$oid": "f46ea8fc6d429b0210ae6065"
+      },
+      "liters": 138,
+      "cost": 207,
+      "date": "2026-07-02T09:49:23.707Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "3b800a894db8730b86c6387d"
+      },
+      "vehicleId": {
+        "$oid": "40b161eaa6ea4b6454bde23a"
+      },
+      "liters": 79,
+      "cost": 118.5,
+      "date": "2026-07-03T19:55:50.265Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "55289bc164c7b6d4763682ec"
+      },
+      "vehicleId": {
+        "$oid": "2fc4a5ca741f6169bb140cce"
+      },
+      "liters": 187,
+      "cost": 280.5,
+      "date": "2026-06-06T14:32:24.996Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "09686b7c7489279df76e17de"
+      },
+      "vehicleId": {
+        "$oid": "1781a8f89e2bcd7a67753cda"
+      },
+      "liters": 86,
+      "cost": 129,
+      "date": "2026-06-16T08:13:57.827Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "5b8b373c39fc3f7efb8a7db2"
+      },
+      "vehicleId": {
+        "$oid": "0225dacbc2b696f1e74017ee"
+      },
+      "liters": 167,
+      "cost": 250.5,
+      "date": "2026-05-03T08:33:07.426Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "d2637cfd99ed167d9d1bbc35"
+      },
+      "vehicleId": {
+        "$oid": "54a0ece020406ef65ae33b42"
+      },
+      "liters": 82,
+      "cost": 123,
+      "date": "2026-05-06T00:43:51.789Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "6a8f8a4bd21340fc11ee9fd4"
+      },
+      "vehicleId": {
+        "$oid": "bc8f92382841b3a57f485d8d"
+      },
+      "liters": 59,
+      "cost": 88.5,
+      "date": "2026-03-30T23:11:22.958Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "7eb42c4dcc5ba2c6636c56c0"
+      },
+      "vehicleId": {
+        "$oid": "47d3eeb9cefdbd6f731b9812"
+      },
+      "liters": 245,
+      "cost": 367.5,
+      "date": "2026-05-10T08:28:05.364Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "d6fbacba7a3559877feac8aa"
+      },
+      "vehicleId": {
+        "$oid": "4d49ab3056477114c048ff83"
+      },
+      "liters": 147,
+      "cost": 220.5,
+      "date": "2026-05-12T20:25:58.050Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "f4b180dc11d1153dab754caf"
+      },
+      "vehicleId": {
+        "$oid": "2baee7a0965fc303b7c81ce6"
+      },
+      "liters": 80,
+      "cost": 120,
+      "date": "2026-06-05T20:55:57.812Z",
+      "createdAt": "2026-07-12T10:22:16.892Z",
+      "updatedAt": "2026-07-12T10:22:16.892Z"
+    },
+    {
+      "_id": {
+        "$oid": "1fc8eaf95f98474c320337de"
+      },
+      "vehicleId": {
+        "$oid": "1e50a4cafeb69c06d2121ff4"
+      },
+      "liters": 193,
+      "cost": 289.5,
+      "date": "2026-05-16T02:47:08.509Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "def321bbfe494e5da812d470"
+      },
+      "vehicleId": {
+        "$oid": "f3e7fbe1f83d9001e1255bbc"
+      },
+      "liters": 65,
+      "cost": 97.5,
+      "date": "2026-04-03T07:24:16.484Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "9cbf93dbcecfad4db2bd1c92"
+      },
+      "vehicleId": {
+        "$oid": "3eb1fea0d2b5d23882ed3ba1"
+      },
+      "liters": 111,
+      "cost": 166.5,
+      "date": "2026-04-08T22:25:26.910Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "f72360b5600e8e69999e79a8"
+      },
+      "vehicleId": {
+        "$oid": "098558e141f90460688ff791"
+      },
+      "liters": 220,
+      "cost": 330,
+      "date": "2026-06-27T14:25:41.730Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "92249ad31c48ab0ee7fc450b"
+      },
+      "vehicleId": {
+        "$oid": "715b7e2d57e7d127a84a5392"
+      },
+      "liters": 64,
+      "cost": 96,
+      "date": "2026-03-29T05:07:36.913Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "a27cd772334207cdecedb47b"
+      },
+      "vehicleId": {
+        "$oid": "341ec867183ab2c008ca1275"
+      },
+      "liters": 242,
+      "cost": 363,
+      "date": "2026-07-04T17:26:28.699Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "164d1e84ba50813fd11f431d"
+      },
+      "vehicleId": {
+        "$oid": "96d98c738412c4f2f1e3c00a"
+      },
+      "liters": 136,
+      "cost": 204,
+      "date": "2026-06-04T16:26:06.024Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "7bc36b38ff660ee2338f9d5c"
+      },
+      "vehicleId": {
+        "$oid": "572a1a16791bf800713a8eb3"
+      },
+      "liters": 156,
+      "cost": 234,
+      "date": "2026-06-18T12:25:56.334Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "9b216c77bc0a97e75e2441f6"
+      },
+      "vehicleId": {
+        "$oid": "3ed1b67412a8a86e27492810"
+      },
+      "liters": 159,
+      "cost": 238.5,
+      "date": "2026-04-06T12:06:10.540Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "f2ea9bf77a4574ed3ec81556"
+      },
+      "vehicleId": {
+        "$oid": "82faa13feff447ac73a0a1d6"
+      },
+      "liters": 96,
+      "cost": 144,
+      "date": "2026-07-07T23:14:13.244Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "5a5c73abaf2244e4a0a3d1df"
+      },
+      "vehicleId": {
+        "$oid": "05d47189aaed4cd80969643c"
+      },
+      "liters": 216,
+      "cost": 324,
+      "date": "2026-05-29T00:17:58.759Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "1c31c43bfc9dca13410b49a2"
+      },
+      "vehicleId": {
+        "$oid": "0ef0afc838aefe9eb074d524"
+      },
+      "liters": 144,
+      "cost": 216,
+      "date": "2026-07-07T02:46:01.434Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "6c38189d9345b014ad7200d1"
+      },
+      "vehicleId": {
+        "$oid": "1518cddd6520fe4ff208e8f7"
+      },
+      "liters": 66,
+      "cost": 99,
+      "date": "2026-06-12T01:03:57.686Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "de2680354b63f64ebc0f93db"
+      },
+      "vehicleId": {
+        "$oid": "f28784426823b3f835488450"
+      },
+      "liters": 216,
+      "cost": 324,
+      "date": "2026-05-18T07:39:08.130Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "cf6b87a6ab0252aa90f1e4d2"
+      },
+      "vehicleId": {
+        "$oid": "f84c89f4dc86c75e32469ebc"
+      },
+      "liters": 133,
+      "cost": 199.5,
+      "date": "2026-06-23T13:46:39.544Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "784a4d816a8852b6bf1256d6"
+      },
+      "vehicleId": {
+        "$oid": "b7e955a6d666727935654524"
+      },
+      "liters": 67,
+      "cost": 100.5,
+      "date": "2026-06-23T08:59:13.708Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "99a053d30cba5b28ce5203b0"
+      },
+      "vehicleId": {
+        "$oid": "18231a29731bae99203b1912"
+      },
+      "liters": 202,
+      "cost": 303,
+      "date": "2026-04-30T16:18:00.779Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "54aa01bc634334f89d9cfde3"
+      },
+      "vehicleId": {
+        "$oid": "5c1235ba1c56acba7811c33a"
+      },
+      "liters": 133,
+      "cost": 199.5,
+      "date": "2026-05-05T09:36:34.610Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "142da6685aaa8eab06db956f"
+      },
+      "vehicleId": {
+        "$oid": "c85938a905098098ec866d22"
+      },
+      "liters": 66,
+      "cost": 99,
+      "date": "2026-05-06T17:01:37.163Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "5c5394569a98c106d081a61a"
+      },
+      "vehicleId": {
+        "$oid": "ce5ff4dbd92c512b246e9b97"
+      },
+      "liters": 80,
+      "cost": 120,
+      "date": "2026-05-12T06:00:27.205Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "92ae7c6583fe590dfb9e555c"
+      },
+      "vehicleId": {
+        "$oid": "145114ea1e8d3615b1d29616"
+      },
+      "liters": 76,
+      "cost": 114,
+      "date": "2026-04-05T12:09:58.354Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "28e428d8302a4fb87c47657a"
+      },
+      "vehicleId": {
+        "$oid": "8f11ebfcc87498066d335ea8"
+      },
+      "liters": 67,
+      "cost": 100.5,
+      "date": "2026-07-05T17:33:26.795Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "a463f7e335f23ab7ad99b802"
+      },
+      "vehicleId": {
+        "$oid": "284ffd32571f9815b69b1450"
+      },
+      "liters": 247,
+      "cost": 370.5,
+      "date": "2026-05-07T20:44:44.495Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "397f69023a49a2fcfbec0032"
+      },
+      "vehicleId": {
+        "$oid": "65266c913cd907effafe8287"
+      },
+      "liters": 202,
+      "cost": 303,
+      "date": "2026-06-04T20:05:59.118Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "f1b20ed905aba653c03a0842"
+      },
+      "vehicleId": {
+        "$oid": "4c26c8b0d7718fcc6cddb955"
+      },
+      "liters": 157,
+      "cost": 235.5,
+      "date": "2026-04-24T13:56:33.401Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "ff984716ae658b3d3034c7b2"
+      },
+      "vehicleId": {
+        "$oid": "b9fd9201e3671460eaaa2272"
+      },
+      "liters": 193,
+      "cost": 289.5,
+      "date": "2026-06-03T01:01:44.431Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "22272df509ef114b0b0a2836"
+      },
+      "vehicleId": {
+        "$oid": "579ba8c7753bf541ab853ebb"
+      },
+      "liters": 173,
+      "cost": 259.5,
+      "date": "2026-07-05T05:36:22.957Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "3475971ec597acda868325eb"
+      },
+      "vehicleId": {
+        "$oid": "b49b7c9830516024f93d3a4c"
+      },
+      "liters": 221,
+      "cost": 331.5,
+      "date": "2026-05-01T14:01:57.833Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "2daf22c03a0f6c125a746295"
+      },
+      "vehicleId": {
+        "$oid": "854e777da10539b3a4e2ce87"
+      },
+      "liters": 99,
+      "cost": 148.5,
+      "date": "2026-06-22T02:32:22.599Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "90edab06f2bd901b8a5778f7"
+      },
+      "vehicleId": {
+        "$oid": "1964fa75ee0f9b1bb182a061"
+      },
+      "liters": 228,
+      "cost": 342,
+      "date": "2026-05-29T14:56:37.979Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "524acf1375ccbad4f9489fa4"
+      },
+      "vehicleId": {
+        "$oid": "282a0cb03c3600b8bc4c9621"
+      },
+      "liters": 88,
+      "cost": 132,
+      "date": "2026-03-31T04:34:28.504Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "c9ee54a188fea95b91b272f4"
+      },
+      "vehicleId": {
+        "$oid": "e2a634f0de68f27c9472df9c"
+      },
+      "liters": 158,
+      "cost": 237,
+      "date": "2026-06-07T03:32:27.507Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "7afcf9b168c2451236a0e1c8"
+      },
+      "vehicleId": {
+        "$oid": "9c0e2d3c584ba04f727b3c54"
+      },
+      "liters": 153,
+      "cost": 229.5,
+      "date": "2026-06-21T03:41:25.392Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "b57249db6d3aa3bc216401c8"
+      },
+      "vehicleId": {
+        "$oid": "126ac618f9715c58b98915c8"
+      },
+      "liters": 157,
+      "cost": 235.5,
+      "date": "2026-05-04T02:48:53.687Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "72e860d0139e1e97d852d998"
+      },
+      "vehicleId": {
+        "$oid": "cfa2949c32e5a56a294f2a15"
+      },
+      "liters": 210,
+      "cost": 315,
+      "date": "2026-06-17T22:44:22.685Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "ced145411f453128de93b6a7"
+      },
+      "vehicleId": {
+        "$oid": "612985c2810c992abb6f915b"
+      },
+      "liters": 95,
+      "cost": 142.5,
+      "date": "2026-03-27T08:32:29.908Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "f202512d63777402d6b16852"
+      },
+      "vehicleId": {
+        "$oid": "986d7e10db769800b643d982"
+      },
+      "liters": 221,
+      "cost": 331.5,
+      "date": "2026-04-13T23:18:33.910Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "bb2cf675ce06cf24ef1259a2"
+      },
+      "vehicleId": {
+        "$oid": "e3a278914e953c2b016d26c4"
+      },
+      "liters": 214,
+      "cost": 321,
+      "date": "2026-03-25T19:35:15.897Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "ef0bac640563f70fdb9e21b0"
+      },
+      "vehicleId": {
+        "$oid": "55ad803bc97a359a91684dd1"
+      },
+      "liters": 175,
+      "cost": 262.5,
+      "date": "2026-06-17T08:36:15.792Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "a90e388a034a7560712b0365"
+      },
+      "vehicleId": {
+        "$oid": "03270931e7876117ea372f4b"
+      },
+      "liters": 174,
+      "cost": 261,
+      "date": "2026-07-06T13:49:21.830Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "ab86b03c6ed1a5e740ca63ed"
+      },
+      "vehicleId": {
+        "$oid": "f46ea8fc6d429b0210ae6065"
+      },
+      "liters": 178,
+      "cost": 267,
+      "date": "2026-05-25T11:06:34.961Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "a4c201b2c9f3f0ed3cc9eb1c"
+      },
+      "vehicleId": {
+        "$oid": "40b161eaa6ea4b6454bde23a"
+      },
+      "liters": 128,
+      "cost": 192,
+      "date": "2026-06-10T07:37:38.080Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "479eb0f2744f99377bb75187"
+      },
+      "vehicleId": {
+        "$oid": "2fc4a5ca741f6169bb140cce"
+      },
+      "liters": 168,
+      "cost": 252,
+      "date": "2026-04-19T14:08:29.743Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "eeb2d0ab5426b97c342fa96f"
+      },
+      "vehicleId": {
+        "$oid": "1781a8f89e2bcd7a67753cda"
+      },
+      "liters": 125,
+      "cost": 187.5,
+      "date": "2026-04-26T04:44:07.090Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "557b264c20c64972ba5bd329"
+      },
+      "vehicleId": {
+        "$oid": "0225dacbc2b696f1e74017ee"
+      },
+      "liters": 95,
+      "cost": 142.5,
+      "date": "2026-06-25T00:31:16.933Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "2ea59fd4b2118f466049f6a1"
+      },
+      "vehicleId": {
+        "$oid": "54a0ece020406ef65ae33b42"
+      },
+      "liters": 125,
+      "cost": 187.5,
+      "date": "2026-06-26T06:15:34.412Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "81c88f670ee8b88d6172b3f5"
+      },
+      "vehicleId": {
+        "$oid": "bc8f92382841b3a57f485d8d"
+      },
+      "liters": 216,
+      "cost": 324,
+      "date": "2026-06-02T13:59:21.987Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "8444a254b094a0573bb22ee6"
+      },
+      "vehicleId": {
+        "$oid": "47d3eeb9cefdbd6f731b9812"
+      },
+      "liters": 83,
+      "cost": 124.5,
+      "date": "2026-06-28T06:35:41.783Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "1510addcb36f8ea2e5b610c5"
+      },
+      "vehicleId": {
+        "$oid": "4d49ab3056477114c048ff83"
+      },
+      "liters": 218,
+      "cost": 327,
+      "date": "2026-04-26T17:23:51.611Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "c71180d058a8f92e0695707b"
+      },
+      "vehicleId": {
+        "$oid": "2baee7a0965fc303b7c81ce6"
+      },
+      "liters": 235,
+      "cost": 352.5,
+      "date": "2026-06-01T06:10:41.869Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "e31949e63ad3136437b6f018"
+      },
+      "vehicleId": {
+        "$oid": "1e50a4cafeb69c06d2121ff4"
+      },
+      "liters": 225,
+      "cost": 337.5,
+      "date": "2026-03-31T15:40:55.304Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "aeeaf2c9bb635f306fb55e48"
+      },
+      "vehicleId": {
+        "$oid": "f3e7fbe1f83d9001e1255bbc"
+      },
+      "liters": 137,
+      "cost": 205.5,
+      "date": "2026-04-04T07:54:52.104Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "21d63e575add5d0837e39343"
+      },
+      "vehicleId": {
+        "$oid": "3eb1fea0d2b5d23882ed3ba1"
+      },
+      "liters": 122,
+      "cost": 183,
+      "date": "2026-06-24T20:47:16.792Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "b3d0c964453d4c8255252652"
+      },
+      "vehicleId": {
+        "$oid": "098558e141f90460688ff791"
+      },
+      "liters": 192,
+      "cost": 288,
+      "date": "2026-06-08T04:29:58.257Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "80f6648a31512738cbb1768f"
+      },
+      "vehicleId": {
+        "$oid": "715b7e2d57e7d127a84a5392"
+      },
+      "liters": 146,
+      "cost": 219,
+      "date": "2026-07-06T02:44:34.886Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "7ad73e8c1a77272c4cfb7591"
+      },
+      "vehicleId": {
+        "$oid": "341ec867183ab2c008ca1275"
+      },
+      "liters": 52,
+      "cost": 78,
+      "date": "2026-04-16T13:51:54.728Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "6dc1e4291465bf1da56e74bf"
+      },
+      "vehicleId": {
+        "$oid": "96d98c738412c4f2f1e3c00a"
+      },
+      "liters": 107,
+      "cost": 160.5,
+      "date": "2026-04-05T13:55:43.366Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "bd720951ae63b0871a9b73f4"
+      },
+      "vehicleId": {
+        "$oid": "572a1a16791bf800713a8eb3"
+      },
+      "liters": 216,
+      "cost": 324,
+      "date": "2026-04-03T19:55:52.014Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "7bf00dbf5eaa3a5f210d0a5b"
+      },
+      "vehicleId": {
+        "$oid": "3ed1b67412a8a86e27492810"
+      },
+      "liters": 197,
+      "cost": 295.5,
+      "date": "2026-03-19T22:50:39.811Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "550617039ad466df14f3796b"
+      },
+      "vehicleId": {
+        "$oid": "82faa13feff447ac73a0a1d6"
+      },
+      "liters": 215,
+      "cost": 322.5,
+      "date": "2026-05-10T17:09:37.733Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "28279ba7ddf89c3b21edc6d2"
+      },
+      "vehicleId": {
+        "$oid": "05d47189aaed4cd80969643c"
+      },
+      "liters": 245,
+      "cost": 367.5,
+      "date": "2026-03-26T19:42:41.395Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "06ecd0a453d581f5f29dfba5"
+      },
+      "vehicleId": {
+        "$oid": "0ef0afc838aefe9eb074d524"
+      },
+      "liters": 236,
+      "cost": 354,
+      "date": "2026-07-07T04:17:22.699Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "dadde438ebac6ed6172e1527"
+      },
+      "vehicleId": {
+        "$oid": "1518cddd6520fe4ff208e8f7"
+      },
+      "liters": 155,
+      "cost": 232.5,
+      "date": "2026-05-25T05:03:30.489Z",
+      "createdAt": "2026-07-12T10:22:16.893Z",
+      "updatedAt": "2026-07-12T10:22:16.893Z"
+    },
+    {
+      "_id": {
+        "$oid": "11ff93f98152ff690777c731"
+      },
+      "vehicleId": {
+        "$oid": "f28784426823b3f835488450"
+      },
+      "liters": 180,
+      "cost": 270,
+      "date": "2026-04-10T00:25:22.000Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "bcf483bf3707b53779f12d17"
+      },
+      "vehicleId": {
+        "$oid": "f84c89f4dc86c75e32469ebc"
+      },
+      "liters": 87,
+      "cost": 130.5,
+      "date": "2026-04-11T13:44:48.566Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "3d1228b6b984a5b21f9ee859"
+      },
+      "vehicleId": {
+        "$oid": "b7e955a6d666727935654524"
+      },
+      "liters": 195,
+      "cost": 292.5,
+      "date": "2026-06-06T19:56:10.957Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "78d4384d2a45b0f84bf63a25"
+      },
+      "vehicleId": {
+        "$oid": "18231a29731bae99203b1912"
+      },
+      "liters": 209,
+      "cost": 313.5,
+      "date": "2026-04-15T16:55:09.554Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "af64e09acaff5ca43907ff8f"
+      },
+      "vehicleId": {
+        "$oid": "5c1235ba1c56acba7811c33a"
+      },
+      "liters": 146,
+      "cost": 219,
+      "date": "2026-04-06T08:15:10.102Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "28176192d13da028067ac598"
+      },
+      "vehicleId": {
+        "$oid": "c85938a905098098ec866d22"
+      },
+      "liters": 144,
+      "cost": 216,
+      "date": "2026-04-20T10:20:30.168Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "11a38fdc046cdbcc045eeb8a"
+      },
+      "vehicleId": {
+        "$oid": "ce5ff4dbd92c512b246e9b97"
+      },
+      "liters": 241,
+      "cost": 361.5,
+      "date": "2026-04-15T13:35:52.564Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "be76bc38567a2a4b5f17869c"
+      },
+      "vehicleId": {
+        "$oid": "145114ea1e8d3615b1d29616"
+      },
+      "liters": 228,
+      "cost": 342,
+      "date": "2026-03-19T20:56:48.825Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "39020ad31120f0db206ac549"
+      },
+      "vehicleId": {
+        "$oid": "8f11ebfcc87498066d335ea8"
+      },
+      "liters": 61,
+      "cost": 91.5,
+      "date": "2026-04-25T00:43:24.470Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "224b50411966ed8380002d4b"
+      },
+      "vehicleId": {
+        "$oid": "284ffd32571f9815b69b1450"
+      },
+      "liters": 94,
+      "cost": 141,
+      "date": "2026-05-23T10:14:54.241Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "0f4fb219ec31869036bc9eb9"
+      },
+      "vehicleId": {
+        "$oid": "65266c913cd907effafe8287"
+      },
+      "liters": 227,
+      "cost": 340.5,
+      "date": "2026-05-26T13:48:45.142Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "3d84c8e6d6e34377baa4a243"
+      },
+      "vehicleId": {
+        "$oid": "4c26c8b0d7718fcc6cddb955"
+      },
+      "liters": 113,
+      "cost": 169.5,
+      "date": "2026-05-03T07:47:20.285Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "075b2292854640d39861d026"
+      },
+      "vehicleId": {
+        "$oid": "b9fd9201e3671460eaaa2272"
+      },
+      "liters": 232,
+      "cost": 348,
+      "date": "2026-06-10T10:04:30.131Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "a4e1594922561108865aaa56"
+      },
+      "vehicleId": {
+        "$oid": "579ba8c7753bf541ab853ebb"
+      },
+      "liters": 55,
+      "cost": 82.5,
+      "date": "2026-07-09T13:15:37.235Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "94ad5906e740199153f508ae"
+      },
+      "vehicleId": {
+        "$oid": "b49b7c9830516024f93d3a4c"
+      },
+      "liters": 213,
+      "cost": 319.5,
+      "date": "2026-06-11T21:52:11.345Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "b0af3509447c86f95d95ec19"
+      },
+      "vehicleId": {
+        "$oid": "854e777da10539b3a4e2ce87"
+      },
+      "liters": 226,
+      "cost": 339,
+      "date": "2026-05-23T20:01:14.297Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "d4e1242600fb78676c4a2714"
+      },
+      "vehicleId": {
+        "$oid": "1964fa75ee0f9b1bb182a061"
+      },
+      "liters": 116,
+      "cost": 174,
+      "date": "2026-06-09T17:53:14.388Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "b09175f13bb0188ebfab1858"
+      },
+      "vehicleId": {
+        "$oid": "282a0cb03c3600b8bc4c9621"
+      },
+      "liters": 202,
+      "cost": 303,
+      "date": "2026-05-23T04:19:54.029Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "dd54900b8e879fca3106c6cd"
+      },
+      "vehicleId": {
+        "$oid": "e2a634f0de68f27c9472df9c"
+      },
+      "liters": 241,
+      "cost": 361.5,
+      "date": "2026-03-21T01:48:51.288Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "f742df2f5469f8e1c3c8a62f"
+      },
+      "vehicleId": {
+        "$oid": "9c0e2d3c584ba04f727b3c54"
+      },
+      "liters": 245,
+      "cost": 367.5,
+      "date": "2026-06-04T00:31:36.505Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "fef6779ee25ed92cb6c86115"
+      },
+      "vehicleId": {
+        "$oid": "126ac618f9715c58b98915c8"
+      },
+      "liters": 84,
+      "cost": 126,
+      "date": "2026-06-28T01:05:34.028Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "a84fb3a7f36cf716f798bf23"
+      },
+      "vehicleId": {
+        "$oid": "cfa2949c32e5a56a294f2a15"
+      },
+      "liters": 120,
+      "cost": 180,
+      "date": "2026-05-04T22:39:23.782Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "735e82f104eeb7b2423c9490"
+      },
+      "vehicleId": {
+        "$oid": "612985c2810c992abb6f915b"
+      },
+      "liters": 190,
+      "cost": 285,
+      "date": "2026-05-15T11:01:12.922Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "1a747e5375c59ea863c14254"
+      },
+      "vehicleId": {
+        "$oid": "986d7e10db769800b643d982"
+      },
+      "liters": 152,
+      "cost": 228,
+      "date": "2026-07-06T18:00:28.200Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "b645072e5f598c87eefc3c3b"
+      },
+      "vehicleId": {
+        "$oid": "e3a278914e953c2b016d26c4"
+      },
+      "liters": 241,
+      "cost": 361.5,
+      "date": "2026-05-28T04:22:34.262Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "edc87a07ee831f7383d25bc2"
+      },
+      "vehicleId": {
+        "$oid": "55ad803bc97a359a91684dd1"
+      },
+      "liters": 160,
+      "cost": 240,
+      "date": "2026-05-22T21:55:09.590Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "e608439e3c06b4ef58eab6fe"
+      },
+      "vehicleId": {
+        "$oid": "03270931e7876117ea372f4b"
+      },
+      "liters": 181,
+      "cost": 271.5,
+      "date": "2026-04-23T14:42:40.917Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "083d810e1b7288cf68a30f96"
+      },
+      "vehicleId": {
+        "$oid": "f46ea8fc6d429b0210ae6065"
+      },
+      "liters": 239,
+      "cost": 358.5,
+      "date": "2026-05-11T23:15:22.137Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "7eb638ee3e383780bf0eee69"
+      },
+      "vehicleId": {
+        "$oid": "40b161eaa6ea4b6454bde23a"
+      },
+      "liters": 108,
+      "cost": 162,
+      "date": "2026-03-26T21:21:06.420Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "4c1177a4fe79d4aceb3fe36f"
+      },
+      "vehicleId": {
+        "$oid": "2fc4a5ca741f6169bb140cce"
+      },
+      "liters": 77,
+      "cost": 115.5,
+      "date": "2026-05-25T17:44:31.519Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "0bae0dacdc80345eebe96fa4"
+      },
+      "vehicleId": {
+        "$oid": "1781a8f89e2bcd7a67753cda"
+      },
+      "liters": 210,
+      "cost": 315,
+      "date": "2026-04-25T18:53:52.866Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "5f661ae9a63b3e838de4f6a6"
+      },
+      "vehicleId": {
+        "$oid": "0225dacbc2b696f1e74017ee"
+      },
+      "liters": 161,
+      "cost": 241.5,
+      "date": "2026-07-11T13:58:32.146Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "db889e34f659320d0bcdef99"
+      },
+      "vehicleId": {
+        "$oid": "54a0ece020406ef65ae33b42"
+      },
+      "liters": 156,
+      "cost": 234,
+      "date": "2026-03-29T12:14:53.435Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "0dfc0da87c8efcb2bdcbbe91"
+      },
+      "vehicleId": {
+        "$oid": "bc8f92382841b3a57f485d8d"
+      },
+      "liters": 84,
+      "cost": 126,
+      "date": "2026-07-05T23:43:49.746Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "0fab2cb85cdc2c9db949ab4b"
+      },
+      "vehicleId": {
+        "$oid": "47d3eeb9cefdbd6f731b9812"
+      },
+      "liters": 139,
+      "cost": 208.5,
+      "date": "2026-05-27T10:54:36.746Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "a05568516835681b048c5ea9"
+      },
+      "vehicleId": {
+        "$oid": "4d49ab3056477114c048ff83"
+      },
+      "liters": 138,
+      "cost": 207,
+      "date": "2026-05-28T15:25:17.887Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "438ccc319f07029e07d46598"
+      },
+      "vehicleId": {
+        "$oid": "2baee7a0965fc303b7c81ce6"
+      },
+      "liters": 172,
+      "cost": 258,
+      "date": "2026-04-13T13:27:39.545Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "1e29f7b8b2b7ebc6dfaf3be3"
+      },
+      "vehicleId": {
+        "$oid": "1e50a4cafeb69c06d2121ff4"
+      },
+      "liters": 173,
+      "cost": 259.5,
+      "date": "2026-07-12T04:11:46.335Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "f447f230e83bceea859739fe"
+      },
+      "vehicleId": {
+        "$oid": "f3e7fbe1f83d9001e1255bbc"
+      },
+      "liters": 142,
+      "cost": 213,
+      "date": "2026-05-28T12:54:31.555Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "098c3c7ca2dd5a9036aeda30"
+      },
+      "vehicleId": {
+        "$oid": "3eb1fea0d2b5d23882ed3ba1"
+      },
+      "liters": 248,
+      "cost": 372,
+      "date": "2026-05-26T06:17:02.863Z",
+      "createdAt": "2026-07-12T10:22:16.894Z",
+      "updatedAt": "2026-07-12T10:22:16.894Z"
+    },
+    {
+      "_id": {
+        "$oid": "c72a44a61e532b3b724f5893"
+      },
+      "vehicleId": {
+        "$oid": "098558e141f90460688ff791"
+      },
+      "liters": 56,
+      "cost": 84,
+      "date": "2026-03-30T15:41:36.289Z",
+      "createdAt": "2026-07-12T10:22:16.895Z",
+      "updatedAt": "2026-07-12T10:22:16.895Z"
+    },
+    {
+      "_id": {
+        "$oid": "65989ebd886145c249fe713e"
+      },
+      "vehicleId": {
+        "$oid": "715b7e2d57e7d127a84a5392"
+      },
+      "liters": 168,
+      "cost": 252,
+      "date": "2026-05-09T13:02:23.592Z",
+      "createdAt": "2026-07-12T10:22:16.895Z",
+      "updatedAt": "2026-07-12T10:22:16.895Z"
+    }
+  ],
+  "maintenanceLogs": [
+    {
+      "_id": {
+        "$oid": "35eaf14a6ab932d812fedc01"
+      },
+      "vehicleId": {
+        "$oid": "612985c2810c992abb6f915b"
+      },
+      "description": "Routine Service 1",
+      "date": "2026-06-17T09:35:26.119Z",
+      "cost": 814,
+      "status": "Completed",
+      "createdAt": "2026-07-12T10:22:16.895Z",
+      "updatedAt": "2026-07-12T10:22:16.895Z"
+    },
+    {
+      "_id": {
+        "$oid": "7ff98ac3790fa11bb75a7182"
+      },
+      "vehicleId": {
+        "$oid": "986d7e10db769800b643d982"
+      },
+      "description": "Routine Service 2",
+      "date": "2026-05-20T01:22:47.177Z",
+      "cost": 1498,
+      "status": "In Progress",
+      "createdAt": "2026-07-12T10:22:16.895Z",
+      "updatedAt": "2026-07-12T10:22:16.895Z"
+    },
+    {
+      "_id": {
+        "$oid": "18285add7911ba0e29f38b00"
+      },
+      "vehicleId": {
+        "$oid": "e3a278914e953c2b016d26c4"
+      },
+      "description": "Routine Service 3",
+      "date": "2026-04-01T13:38:39.857Z",
+      "cost": 968,
+      "status": "Completed",
+      "createdAt": "2026-07-12T10:22:16.895Z",
+      "updatedAt": "2026-07-12T10:22:16.895Z"
+    },
+    {
+      "_id": {
+        "$oid": "3ae6a74e0c5e22c9783e0d2d"
+      },
+      "vehicleId": {
+        "$oid": "55ad803bc97a359a91684dd1"
+      },
+      "description": "Routine Service 4",
+      "date": "2026-06-07T09:28:48.082Z",
+      "cost": 1556,
+      "status": "In Progress",
+      "createdAt": "2026-07-12T10:22:16.895Z",
+      "updatedAt": "2026-07-12T10:22:16.895Z"
+    },
+    {
+      "_id": {
+        "$oid": "7098226c5efc9b0f762d4ecc"
+      },
+      "vehicleId": {
+        "$oid": "03270931e7876117ea372f4b"
+      },
+      "description": "Routine Service 5",
+      "date": "2026-04-10T21:44:23.979Z",
+      "cost": 419,
+      "status": "Completed",
+      "createdAt": "2026-07-12T10:22:16.895Z",
+      "updatedAt": "2026-07-12T10:22:16.895Z"
+    },
+    {
+      "_id": {
+        "$oid": "c85eb6ac76ebaaca9bcec19b"
+      },
+      "vehicleId": {
+        "$oid": "f46ea8fc6d429b0210ae6065"
+      },
+      "description": "Routine Service 6",
+      "date": "2026-05-10T15:38:09.685Z",
+      "cost": 1608,
+      "status": "In Progress",
+      "createdAt": "2026-07-12T10:22:16.895Z",
+      "updatedAt": "2026-07-12T10:22:16.895Z"
+    },
+    {
+      "_id": {
+        "$oid": "2633827e19127a0be26d2a70"
+      },
+      "vehicleId": {
+        "$oid": "40b161eaa6ea4b6454bde23a"
+      },
+      "description": "Routine Service 7",
+      "date": "2026-04-25T01:33:19.956Z",
+      "cost": 820,
+      "status": "Completed",
+      "createdAt": "2026-07-12T10:22:16.895Z",
+      "updatedAt": "2026-07-12T10:22:16.895Z"
+    },
+    {
+      "_id": {
+        "$oid": "057128a25dfc54b6e739dfca"
+      },
+      "vehicleId": {
+        "$oid": "2fc4a5ca741f6169bb140cce"
+      },
+      "description": "Routine Service 8",
+      "date": "2026-06-02T14:07:15.198Z",
+      "cost": 962,
+      "status": "In Progress",
+      "createdAt": "2026-07-12T10:22:16.895Z",
+      "updatedAt": "2026-07-12T10:22:16.895Z"
+    },
+    {
+      "_id": {
+        "$oid": "108208547dd2fbe3c30bd31b"
+      },
+      "vehicleId": {
+        "$oid": "1781a8f89e2bcd7a67753cda"
+      },
+      "description": "Routine Service 9",
+      "date": "2026-05-21T00:56:35.043Z",
+      "cost": 1271,
+      "status": "Completed",
+      "createdAt": "2026-07-12T10:22:16.895Z",
+      "updatedAt": "2026-07-12T10:22:16.895Z"
+    },
+    {
+      "_id": {
+        "$oid": "dbc4210c8cd61309b7a5e0bb"
+      },
+      "vehicleId": {
+        "$oid": "0225dacbc2b696f1e74017ee"
+      },
+      "description": "Routine Service 10",
+      "date": "2026-04-22T09:17:20.104Z",
+      "cost": 893,
+      "status": "In Progress",
+      "createdAt": "2026-07-12T10:22:16.895Z",
+      "updatedAt": "2026-07-12T10:22:16.895Z"
+    },
+    {
+      "_id": {
+        "$oid": "d461b06176f22736b72ff51d"
+      },
+      "vehicleId": {
+        "$oid": "54a0ece020406ef65ae33b42"
+      },
+      "description": "Routine Service 11",
+      "date": "2026-06-08T17:44:55.362Z",
+      "cost": 988,
+      "status": "Completed",
+      "createdAt": "2026-07-12T10:22:16.895Z",
+      "updatedAt": "2026-07-12T10:22:16.895Z"
+    },
+    {
+      "_id": {
+        "$oid": "381471f828294e59371d6002"
+      },
+      "vehicleId": {
+        "$oid": "bc8f92382841b3a57f485d8d"
+      },
+      "description": "Routine Service 12",
+      "date": "2026-04-22T07:11:47.886Z",
+      "cost": 211,
+      "status": "In Progress",
+      "createdAt": "2026-07-12T10:22:16.895Z",
+      "updatedAt": "2026-07-12T10:22:16.895Z"
+    },
+    {
+      "_id": {
+        "$oid": "14d80785ab5734700a05164f"
+      },
+      "vehicleId": {
+        "$oid": "47d3eeb9cefdbd6f731b9812"
+      },
+      "description": "Routine Service 13",
+      "date": "2026-06-17T17:22:29.432Z",
+      "cost": 1976,
+      "status": "Completed",
+      "createdAt": "2026-07-12T10:22:16.895Z",
+      "updatedAt": "2026-07-12T10:22:16.895Z"
+    },
+    {
+      "_id": {
+        "$oid": "6e06e9ba80ba49ee5cec0738"
+      },
+      "vehicleId": {
+        "$oid": "4d49ab3056477114c048ff83"
+      },
+      "description": "Routine Service 14",
+      "date": "2026-05-20T04:17:51.229Z",
+      "cost": 2037,
+      "status": "In Progress",
+      "createdAt": "2026-07-12T10:22:16.895Z",
+      "updatedAt": "2026-07-12T10:22:16.895Z"
+    },
+    {
+      "_id": {
+        "$oid": "ff95497986e9eefbc27e736f"
+      },
+      "vehicleId": {
+        "$oid": "2baee7a0965fc303b7c81ce6"
+      },
+      "description": "Routine Service 15",
+      "date": "2026-03-22T01:15:31.439Z",
+      "cost": 1107,
+      "status": "Completed",
+      "createdAt": "2026-07-12T10:22:16.895Z",
+      "updatedAt": "2026-07-12T10:22:16.895Z"
+    },
+    {
+      "_id": {
+        "$oid": "4e38b587a1476b968d609994"
+      },
+      "vehicleId": {
+        "$oid": "1e50a4cafeb69c06d2121ff4"
+      },
+      "description": "Routine Service 16",
+      "date": "2026-06-04T11:33:12.554Z",
+      "cost": 927,
+      "status": "In Progress",
+      "createdAt": "2026-07-12T10:22:16.895Z",
+      "updatedAt": "2026-07-12T10:22:16.895Z"
+    },
+    {
+      "_id": {
+        "$oid": "7b62ca76e63e1e54df8e2d75"
+      },
+      "vehicleId": {
+        "$oid": "f3e7fbe1f83d9001e1255bbc"
+      },
+      "description": "Routine Service 17",
+      "date": "2026-04-21T08:15:12.583Z",
+      "cost": 1120,
+      "status": "Completed",
+      "createdAt": "2026-07-12T10:22:16.895Z",
+      "updatedAt": "2026-07-12T10:22:16.895Z"
+    },
+    {
+      "_id": {
+        "$oid": "aee8c52e3be8a3e4c6a23be6"
+      },
+      "vehicleId": {
+        "$oid": "3eb1fea0d2b5d23882ed3ba1"
+      },
+      "description": "Routine Service 18",
+      "date": "2026-05-03T02:25:59.757Z",
+      "cost": 1923,
+      "status": "In Progress",
+      "createdAt": "2026-07-12T10:22:16.895Z",
+      "updatedAt": "2026-07-12T10:22:16.895Z"
+    },
+    {
+      "_id": {
+        "$oid": "45afa9db7b7282e61fd2c7d6"
+      },
+      "vehicleId": {
+        "$oid": "098558e141f90460688ff791"
+      },
+      "description": "Routine Service 19",
+      "date": "2026-03-20T05:36:38.894Z",
+      "cost": 1534,
+      "status": "Completed",
+      "createdAt": "2026-07-12T10:22:16.895Z",
+      "updatedAt": "2026-07-12T10:22:16.895Z"
+    },
+    {
+      "_id": {
+        "$oid": "19ecf3bcb93390dafe2aa5eb"
+      },
+      "vehicleId": {
+        "$oid": "715b7e2d57e7d127a84a5392"
+      },
+      "description": "Routine Service 20",
+      "date": "2026-05-11T22:46:51.428Z",
+      "cost": 1926,
+      "status": "In Progress",
+      "createdAt": "2026-07-12T10:22:16.895Z",
+      "updatedAt": "2026-07-12T10:22:16.895Z"
+    },
+    {
+      "_id": {
+        "$oid": "444ab8f295f105934344cc41"
+      },
+      "vehicleId": {
+        "$oid": "341ec867183ab2c008ca1275"
+      },
+      "description": "Routine Service 21",
+      "date": "2026-05-30T05:23:15.447Z",
+      "cost": 493,
+      "status": "Completed",
+      "createdAt": "2026-07-12T10:22:16.897Z",
+      "updatedAt": "2026-07-12T10:22:16.897Z"
+    },
+    {
+      "_id": {
+        "$oid": "7d7413eaf8d5942b867833b2"
+      },
+      "vehicleId": {
+        "$oid": "96d98c738412c4f2f1e3c00a"
+      },
+      "description": "Routine Service 22",
+      "date": "2026-04-10T21:58:02.305Z",
+      "cost": 1632,
+      "status": "In Progress",
+      "createdAt": "2026-07-12T10:22:16.897Z",
+      "updatedAt": "2026-07-12T10:22:16.897Z"
+    },
+    {
+      "_id": {
+        "$oid": "6de232efb4b625cfd0408e24"
+      },
+      "vehicleId": {
+        "$oid": "572a1a16791bf800713a8eb3"
+      },
+      "description": "Routine Service 23",
+      "date": "2026-07-02T09:39:28.296Z",
+      "cost": 506,
+      "status": "Completed",
+      "createdAt": "2026-07-12T10:22:16.897Z",
+      "updatedAt": "2026-07-12T10:22:16.897Z"
+    },
+    {
+      "_id": {
+        "$oid": "77ff0f513a948dc8b343a605"
+      },
+      "vehicleId": {
+        "$oid": "3ed1b67412a8a86e27492810"
+      },
+      "description": "Routine Service 24",
+      "date": "2026-06-13T05:17:54.244Z",
+      "cost": 1938,
+      "status": "In Progress",
+      "createdAt": "2026-07-12T10:22:16.897Z",
+      "updatedAt": "2026-07-12T10:22:16.897Z"
+    },
+    {
+      "_id": {
+        "$oid": "1d39c94e5ff5cfcd622203ec"
+      },
+      "vehicleId": {
+        "$oid": "82faa13feff447ac73a0a1d6"
+      },
+      "description": "Routine Service 25",
+      "date": "2026-05-17T21:49:11.363Z",
+      "cost": 285,
+      "status": "Completed",
+      "createdAt": "2026-07-12T10:22:16.897Z",
+      "updatedAt": "2026-07-12T10:22:16.897Z"
+    },
+    {
+      "_id": {
+        "$oid": "b30e872d77b33566dd38e46e"
+      },
+      "vehicleId": {
+        "$oid": "05d47189aaed4cd80969643c"
+      },
+      "description": "Routine Service 26",
+      "date": "2026-04-06T18:13:47.587Z",
+      "cost": 882,
+      "status": "In Progress",
+      "createdAt": "2026-07-12T10:22:16.897Z",
+      "updatedAt": "2026-07-12T10:22:16.897Z"
+    },
+    {
+      "_id": {
+        "$oid": "1834c635839c1aae8936ce7a"
+      },
+      "vehicleId": {
+        "$oid": "0ef0afc838aefe9eb074d524"
+      },
+      "description": "Routine Service 27",
+      "date": "2026-05-28T17:02:14.816Z",
+      "cost": 1658,
+      "status": "Completed",
+      "createdAt": "2026-07-12T10:22:16.897Z",
+      "updatedAt": "2026-07-12T10:22:16.897Z"
+    },
+    {
+      "_id": {
+        "$oid": "cb4a941b73b10057863ab243"
+      },
+      "vehicleId": {
+        "$oid": "1518cddd6520fe4ff208e8f7"
+      },
+      "description": "Routine Service 28",
+      "date": "2026-04-15T12:35:38.620Z",
+      "cost": 1551,
+      "status": "In Progress",
+      "createdAt": "2026-07-12T10:22:16.897Z",
+      "updatedAt": "2026-07-12T10:22:16.897Z"
+    },
+    {
+      "_id": {
+        "$oid": "c511ae32f60fd012555556ed"
+      },
+      "vehicleId": {
+        "$oid": "f28784426823b3f835488450"
+      },
+      "description": "Routine Service 29",
+      "date": "2026-07-05T22:02:13.892Z",
+      "cost": 526,
+      "status": "Completed",
+      "createdAt": "2026-07-12T10:22:16.897Z",
+      "updatedAt": "2026-07-12T10:22:16.897Z"
+    },
+    {
+      "_id": {
+        "$oid": "45250dd9c1f16f0eb1fbfb97"
+      },
+      "vehicleId": {
+        "$oid": "f84c89f4dc86c75e32469ebc"
+      },
+      "description": "Routine Service 30",
+      "date": "2026-06-11T00:36:20.147Z",
+      "cost": 354,
+      "status": "In Progress",
+      "createdAt": "2026-07-12T10:22:16.897Z",
+      "updatedAt": "2026-07-12T10:22:16.897Z"
+    },
+    {
+      "_id": {
+        "$oid": "6ba2a658d47e4993f9dd2ea0"
+      },
+      "vehicleId": {
+        "$oid": "b7e955a6d666727935654524"
+      },
+      "description": "Routine Service 31",
+      "date": "2026-04-12T11:05:55.363Z",
+      "cost": 261,
+      "status": "Completed",
+      "createdAt": "2026-07-12T10:22:16.897Z",
+      "updatedAt": "2026-07-12T10:22:16.897Z"
+    },
+    {
+      "_id": {
+        "$oid": "b6ca82e094e9e256033f1931"
+      },
+      "vehicleId": {
+        "$oid": "18231a29731bae99203b1912"
+      },
+      "description": "Routine Service 32",
+      "date": "2026-06-01T05:22:36.455Z",
+      "cost": 1933,
+      "status": "In Progress",
+      "createdAt": "2026-07-12T10:22:16.897Z",
+      "updatedAt": "2026-07-12T10:22:16.897Z"
+    },
+    {
+      "_id": {
+        "$oid": "28e65f7eae46bea85a565dae"
+      },
+      "vehicleId": {
+        "$oid": "5c1235ba1c56acba7811c33a"
+      },
+      "description": "Routine Service 33",
+      "date": "2026-06-07T00:48:27.198Z",
+      "cost": 1186,
+      "status": "Completed",
+      "createdAt": "2026-07-12T10:22:16.897Z",
+      "updatedAt": "2026-07-12T10:22:16.897Z"
+    },
+    {
+      "_id": {
+        "$oid": "919f7917a4ba3abc4a5cac3c"
+      },
+      "vehicleId": {
+        "$oid": "c85938a905098098ec866d22"
+      },
+      "description": "Routine Service 34",
+      "date": "2026-06-28T20:15:55.252Z",
+      "cost": 667,
+      "status": "In Progress",
+      "createdAt": "2026-07-12T10:22:16.897Z",
+      "updatedAt": "2026-07-12T10:22:16.897Z"
+    },
+    {
+      "_id": {
+        "$oid": "450688c2cbe1a41bad700731"
+      },
+      "vehicleId": {
+        "$oid": "ce5ff4dbd92c512b246e9b97"
+      },
+      "description": "Routine Service 35",
+      "date": "2026-04-27T15:35:13.609Z",
+      "cost": 682,
+      "status": "Completed",
+      "createdAt": "2026-07-12T10:22:16.897Z",
+      "updatedAt": "2026-07-12T10:22:16.897Z"
+    },
+    {
+      "_id": {
+        "$oid": "f7f930f40543195b07489622"
+      },
+      "vehicleId": {
+        "$oid": "145114ea1e8d3615b1d29616"
+      },
+      "description": "Routine Service 36",
+      "date": "2026-04-14T05:31:26.606Z",
+      "cost": 1354,
+      "status": "In Progress",
+      "createdAt": "2026-07-12T10:22:16.897Z",
+      "updatedAt": "2026-07-12T10:22:16.897Z"
+    },
+    {
+      "_id": {
+        "$oid": "4f1132aabcd4902cf716655a"
+      },
+      "vehicleId": {
+        "$oid": "8f11ebfcc87498066d335ea8"
+      },
+      "description": "Routine Service 37",
+      "date": "2026-03-29T04:24:07.556Z",
+      "cost": 357,
+      "status": "Completed",
+      "createdAt": "2026-07-12T10:22:16.897Z",
+      "updatedAt": "2026-07-12T10:22:16.897Z"
+    },
+    {
+      "_id": {
+        "$oid": "7f701d814a0670dc484a6e83"
+      },
+      "vehicleId": {
+        "$oid": "284ffd32571f9815b69b1450"
+      },
+      "description": "Routine Service 38",
+      "date": "2026-04-23T06:37:37.361Z",
+      "cost": 1393,
+      "status": "In Progress",
+      "createdAt": "2026-07-12T10:22:16.897Z",
+      "updatedAt": "2026-07-12T10:22:16.897Z"
+    },
+    {
+      "_id": {
+        "$oid": "54635e63a85d7cc0b528ce28"
+      },
+      "vehicleId": {
+        "$oid": "65266c913cd907effafe8287"
+      },
+      "description": "Routine Service 39",
+      "date": "2026-06-10T10:17:56.907Z",
+      "cost": 643,
+      "status": "Completed",
+      "createdAt": "2026-07-12T10:22:16.897Z",
+      "updatedAt": "2026-07-12T10:22:16.897Z"
+    },
+    {
+      "_id": {
+        "$oid": "6eb5f0a89cbcb977c5794946"
+      },
+      "vehicleId": {
+        "$oid": "4c26c8b0d7718fcc6cddb955"
+      },
+      "description": "Routine Service 40",
+      "date": "2026-05-26T03:48:17.514Z",
+      "cost": 1584,
+      "status": "In Progress",
+      "createdAt": "2026-07-12T10:22:16.897Z",
+      "updatedAt": "2026-07-12T10:22:16.897Z"
+    }
+  ]
+}

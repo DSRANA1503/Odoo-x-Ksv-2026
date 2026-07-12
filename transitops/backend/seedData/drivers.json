@@ -1,0 +1,2522 @@
+[
+  {
+    "_id": {
+      "$oid": "6a5375326b2c67249d51762e"
+    },
+    "name": "Driver 1",
+    "licenseNumber": "LIC1001",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.204Z"
+    },
+    "contactNumber": "+18005550001",
+    "status": "Available",
+    "safetyScore": 82,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753211e01f03de7f096e"
+    },
+    "name": "Driver 2",
+    "licenseNumber": "LIC1002",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.204Z"
+    },
+    "contactNumber": "+18005550002",
+    "status": "Available",
+    "safetyScore": 99,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375327c2e785b2c3714b6"
+    },
+    "name": "Driver 3",
+    "licenseNumber": "LIC1003",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.204Z"
+    },
+    "contactNumber": "+18005550003",
+    "status": "On Trip",
+    "safetyScore": 95,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375321a55d8cedeebd87d"
+    },
+    "name": "Driver 4",
+    "licenseNumber": "LIC1004",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.204Z"
+    },
+    "contactNumber": "+18005550004",
+    "status": "Available",
+    "safetyScore": 90,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b739b28bcadb87bd"
+    },
+    "name": "Driver 5",
+    "licenseNumber": "LIC1005",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.204Z"
+    },
+    "contactNumber": "+18005550005",
+    "status": "Available",
+    "safetyScore": 93,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375321b06f10f42e55a81"
+    },
+    "name": "Driver 6",
+    "licenseNumber": "LIC1006",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.204Z"
+    },
+    "contactNumber": "+18005550006",
+    "status": "On Trip",
+    "safetyScore": 90,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375320f3e10121007f0e8"
+    },
+    "name": "Driver 7",
+    "licenseNumber": "LIC1007",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.204Z"
+    },
+    "contactNumber": "+18005550007",
+    "status": "Available",
+    "safetyScore": 86,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532fed15d1edf37cdb3"
+    },
+    "name": "Driver 8",
+    "licenseNumber": "LIC1008",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.204Z"
+    },
+    "contactNumber": "+18005550008",
+    "status": "Available",
+    "safetyScore": 98,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c350524839eac047"
+    },
+    "name": "Driver 9",
+    "licenseNumber": "LIC1009",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.204Z"
+    },
+    "contactNumber": "+18005550009",
+    "status": "On Trip",
+    "safetyScore": 93,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753215ada1489af14f77"
+    },
+    "name": "Driver 10",
+    "licenseNumber": "LIC1010",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.204Z"
+    },
+    "contactNumber": "+18005550010",
+    "status": "Available",
+    "safetyScore": 96,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328811cf9ecc851e6a"
+    },
+    "name": "Driver 11",
+    "licenseNumber": "LIC1011",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.204Z"
+    },
+    "contactNumber": "+18005550011",
+    "status": "Available",
+    "safetyScore": 82,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375322f0155f806fbd3f7"
+    },
+    "name": "Driver 12",
+    "licenseNumber": "LIC1012",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.204Z"
+    },
+    "contactNumber": "+18005550012",
+    "status": "On Trip",
+    "safetyScore": 95,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d62d74671a87b04b"
+    },
+    "name": "Driver 13",
+    "licenseNumber": "LIC1013",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.204Z"
+    },
+    "contactNumber": "+18005550013",
+    "status": "Available",
+    "safetyScore": 80,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c770d30673a32c4a"
+    },
+    "name": "Driver 14",
+    "licenseNumber": "LIC1014",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.204Z"
+    },
+    "contactNumber": "+18005550014",
+    "status": "Available",
+    "safetyScore": 86,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375326388da79ddd68e08"
+    },
+    "name": "Driver 15",
+    "licenseNumber": "LIC1015",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.204Z"
+    },
+    "contactNumber": "+18005550015",
+    "status": "On Trip",
+    "safetyScore": 86,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375326d8d9f5e3de3b5f2"
+    },
+    "name": "Driver 16",
+    "licenseNumber": "LIC1016",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.204Z"
+    },
+    "contactNumber": "+18005550016",
+    "status": "Available",
+    "safetyScore": 82,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375323d054c27c0ff4047"
+    },
+    "name": "Driver 17",
+    "licenseNumber": "LIC1017",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.204Z"
+    },
+    "contactNumber": "+18005550017",
+    "status": "Available",
+    "safetyScore": 89,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e2abdab48400fe74"
+    },
+    "name": "Driver 18",
+    "licenseNumber": "LIC1018",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.204Z"
+    },
+    "contactNumber": "+18005550018",
+    "status": "On Trip",
+    "safetyScore": 91,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532370ae1844ada8876"
+    },
+    "name": "Driver 19",
+    "licenseNumber": "LIC1019",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.204Z"
+    },
+    "contactNumber": "+18005550019",
+    "status": "Available",
+    "safetyScore": 96,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753239aa87826605fbb5"
+    },
+    "name": "Driver 20",
+    "licenseNumber": "LIC1020",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.204Z"
+    },
+    "contactNumber": "+18005550020",
+    "status": "Available",
+    "safetyScore": 85,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532942271db3c0bbdfe"
+    },
+    "name": "Driver 21",
+    "licenseNumber": "LIC1021",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.204Z"
+    },
+    "contactNumber": "+18005550021",
+    "status": "On Trip",
+    "safetyScore": 97,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375326708fe0a66697efb"
+    },
+    "name": "Driver 22",
+    "licenseNumber": "LIC1022",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.204Z"
+    },
+    "contactNumber": "+18005550022",
+    "status": "Available",
+    "safetyScore": 87,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e9129f9f60c9a2af"
+    },
+    "name": "Driver 23",
+    "licenseNumber": "LIC1023",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.204Z"
+    },
+    "contactNumber": "+18005550023",
+    "status": "Available",
+    "safetyScore": 86,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b015d3e301ba4311"
+    },
+    "name": "Driver 24",
+    "licenseNumber": "LIC1024",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.204Z"
+    },
+    "contactNumber": "+18005550024",
+    "status": "On Trip",
+    "safetyScore": 93,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532cb07dc8f40aa25ba"
+    },
+    "name": "Driver 25",
+    "licenseNumber": "LIC1025",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.204Z"
+    },
+    "contactNumber": "+18005550025",
+    "status": "Available",
+    "safetyScore": 92,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375321ee59528d50ee01c"
+    },
+    "name": "Driver 26",
+    "licenseNumber": "LIC1026",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550026",
+    "status": "Available",
+    "safetyScore": 88,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e5c0456a06d922c8"
+    },
+    "name": "Driver 27",
+    "licenseNumber": "LIC1027",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550027",
+    "status": "On Trip",
+    "safetyScore": 80,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375323baf19e904f83600"
+    },
+    "name": "Driver 28",
+    "licenseNumber": "LIC1028",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550028",
+    "status": "Available",
+    "safetyScore": 95,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753251c97b11e839cefc"
+    },
+    "name": "Driver 29",
+    "licenseNumber": "LIC1029",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550029",
+    "status": "Available",
+    "safetyScore": 92,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532fcec0582cd6b6607"
+    },
+    "name": "Driver 30",
+    "licenseNumber": "LIC1030",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550030",
+    "status": "On Trip",
+    "safetyScore": 88,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c230098ef33f1e76"
+    },
+    "name": "Driver 31",
+    "licenseNumber": "LIC1031",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550031",
+    "status": "Available",
+    "safetyScore": 92,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532a488b270f57252ea"
+    },
+    "name": "Driver 32",
+    "licenseNumber": "LIC1032",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550032",
+    "status": "Available",
+    "safetyScore": 99,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b6e16a0d700b8554"
+    },
+    "name": "Driver 33",
+    "licenseNumber": "LIC1033",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550033",
+    "status": "On Trip",
+    "safetyScore": 88,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b55f4968adce27ee"
+    },
+    "name": "Driver 34",
+    "licenseNumber": "LIC1034",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550034",
+    "status": "Available",
+    "safetyScore": 85,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532955ea5d38df2d333"
+    },
+    "name": "Driver 35",
+    "licenseNumber": "LIC1035",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550035",
+    "status": "Available",
+    "safetyScore": 83,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532afb08d5e0ebfd3c6"
+    },
+    "name": "Driver 36",
+    "licenseNumber": "LIC1036",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550036",
+    "status": "On Trip",
+    "safetyScore": 89,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532bd7bc1cbe5aa6814"
+    },
+    "name": "Driver 37",
+    "licenseNumber": "LIC1037",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550037",
+    "status": "Available",
+    "safetyScore": 80,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753262d3da73f2b0b9b4"
+    },
+    "name": "Driver 38",
+    "licenseNumber": "LIC1038",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550038",
+    "status": "Available",
+    "safetyScore": 87,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375322c859c995a53378c"
+    },
+    "name": "Driver 39",
+    "licenseNumber": "LIC1039",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550039",
+    "status": "On Trip",
+    "safetyScore": 98,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375324ffc9d5e8ecb2d7d"
+    },
+    "name": "Driver 40",
+    "licenseNumber": "LIC1040",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550040",
+    "status": "Available",
+    "safetyScore": 99,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532efbd19c2ce75bf6d"
+    },
+    "name": "Driver 41",
+    "licenseNumber": "LIC1041",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550041",
+    "status": "Available",
+    "safetyScore": 97,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375329c373ec923039d8c"
+    },
+    "name": "Driver 42",
+    "licenseNumber": "LIC1042",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550042",
+    "status": "On Trip",
+    "safetyScore": 94,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e099d4fb44bf20d6"
+    },
+    "name": "Driver 43",
+    "licenseNumber": "LIC1043",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550043",
+    "status": "Available",
+    "safetyScore": 95,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ceca81edc2a5b0a3"
+    },
+    "name": "Driver 44",
+    "licenseNumber": "LIC1044",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550044",
+    "status": "Available",
+    "safetyScore": 81,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532a1c04d345afc1841"
+    },
+    "name": "Driver 45",
+    "licenseNumber": "LIC1045",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550045",
+    "status": "On Trip",
+    "safetyScore": 98,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b1489271a92db032"
+    },
+    "name": "Driver 46",
+    "licenseNumber": "LIC1046",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550046",
+    "status": "Available",
+    "safetyScore": 86,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375324174cbc07bf9ccef"
+    },
+    "name": "Driver 47",
+    "licenseNumber": "LIC1047",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550047",
+    "status": "Available",
+    "safetyScore": 80,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532248e80cd9c46f095"
+    },
+    "name": "Driver 48",
+    "licenseNumber": "LIC1048",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550048",
+    "status": "On Trip",
+    "safetyScore": 96,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b4ce6720b136fbc6"
+    },
+    "name": "Driver 49",
+    "licenseNumber": "LIC1049",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550049",
+    "status": "Available",
+    "safetyScore": 88,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375327f77a36a9202a345"
+    },
+    "name": "Driver 50",
+    "licenseNumber": "LIC1050",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550050",
+    "status": "Available",
+    "safetyScore": 85,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328f0a54270de5052d"
+    },
+    "name": "Driver 51",
+    "licenseNumber": "LIC1051",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550051",
+    "status": "On Trip",
+    "safetyScore": 93,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753213eff26660507485"
+    },
+    "name": "Driver 52",
+    "licenseNumber": "LIC1052",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550052",
+    "status": "Available",
+    "safetyScore": 85,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753268adc5dc3e6878ef"
+    },
+    "name": "Driver 53",
+    "licenseNumber": "LIC1053",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550053",
+    "status": "Available",
+    "safetyScore": 95,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d101025fe0ccf2a5"
+    },
+    "name": "Driver 54",
+    "licenseNumber": "LIC1054",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550054",
+    "status": "On Trip",
+    "safetyScore": 98,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375327d62e9c038b8a060"
+    },
+    "name": "Driver 55",
+    "licenseNumber": "LIC1055",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550055",
+    "status": "Available",
+    "safetyScore": 93,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753238dc8b71ad3a18c0"
+    },
+    "name": "Driver 56",
+    "licenseNumber": "LIC1056",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550056",
+    "status": "Available",
+    "safetyScore": 84,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532dd80bdd23ce11c3b"
+    },
+    "name": "Driver 57",
+    "licenseNumber": "LIC1057",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550057",
+    "status": "On Trip",
+    "safetyScore": 97,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375321fa3906a9d850b10"
+    },
+    "name": "Driver 58",
+    "licenseNumber": "LIC1058",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550058",
+    "status": "Available",
+    "safetyScore": 92,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375326c91151d278b98e0"
+    },
+    "name": "Driver 59",
+    "licenseNumber": "LIC1059",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550059",
+    "status": "Available",
+    "safetyScore": 83,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e4c3d8776fdb28ec"
+    },
+    "name": "Driver 60",
+    "licenseNumber": "LIC1060",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550060",
+    "status": "On Trip",
+    "safetyScore": 80,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753285cef20b55835a19"
+    },
+    "name": "Driver 61",
+    "licenseNumber": "LIC1061",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550061",
+    "status": "Available",
+    "safetyScore": 98,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753271fb4af94f32cb25"
+    },
+    "name": "Driver 62",
+    "licenseNumber": "LIC1062",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550062",
+    "status": "Available",
+    "safetyScore": 89,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532de605ff8f98e63dd"
+    },
+    "name": "Driver 63",
+    "licenseNumber": "LIC1063",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550063",
+    "status": "On Trip",
+    "safetyScore": 84,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532bec49d36204ecf76"
+    },
+    "name": "Driver 64",
+    "licenseNumber": "LIC1064",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.205Z"
+    },
+    "contactNumber": "+18005550064",
+    "status": "Available",
+    "safetyScore": 88,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375322b7b3a2f93bb9a65"
+    },
+    "name": "Driver 65",
+    "licenseNumber": "LIC1065",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550065",
+    "status": "Available",
+    "safetyScore": 93,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532caa92518144c319d"
+    },
+    "name": "Driver 66",
+    "licenseNumber": "LIC1066",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550066",
+    "status": "On Trip",
+    "safetyScore": 80,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328044d7924abc8909"
+    },
+    "name": "Driver 67",
+    "licenseNumber": "LIC1067",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550067",
+    "status": "Available",
+    "safetyScore": 82,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532248c9e5e6684b28a"
+    },
+    "name": "Driver 68",
+    "licenseNumber": "LIC1068",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550068",
+    "status": "Available",
+    "safetyScore": 82,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753218cbac27b74f2740"
+    },
+    "name": "Driver 69",
+    "licenseNumber": "LIC1069",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550069",
+    "status": "On Trip",
+    "safetyScore": 90,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b9a35a87f898df17"
+    },
+    "name": "Driver 70",
+    "licenseNumber": "LIC1070",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550070",
+    "status": "Available",
+    "safetyScore": 90,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753239b1c0119411c0cd"
+    },
+    "name": "Driver 71",
+    "licenseNumber": "LIC1071",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550071",
+    "status": "Available",
+    "safetyScore": 94,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532a35dfbed1c5acafb"
+    },
+    "name": "Driver 72",
+    "licenseNumber": "LIC1072",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550072",
+    "status": "On Trip",
+    "safetyScore": 87,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753223594ebd2708f83d"
+    },
+    "name": "Driver 73",
+    "licenseNumber": "LIC1073",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550073",
+    "status": "Available",
+    "safetyScore": 85,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375324bd62a01cd0a3e27"
+    },
+    "name": "Driver 74",
+    "licenseNumber": "LIC1074",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550074",
+    "status": "Available",
+    "safetyScore": 81,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532859ace59f8fe7fd5"
+    },
+    "name": "Driver 75",
+    "licenseNumber": "LIC1075",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550075",
+    "status": "On Trip",
+    "safetyScore": 86,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532f8c1c87f46f73305"
+    },
+    "name": "Driver 76",
+    "licenseNumber": "LIC1076",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550076",
+    "status": "Available",
+    "safetyScore": 99,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532aeba2204c08b8f56"
+    },
+    "name": "Driver 77",
+    "licenseNumber": "LIC1077",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550077",
+    "status": "Available",
+    "safetyScore": 99,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753250a13029b1e9db49"
+    },
+    "name": "Driver 78",
+    "licenseNumber": "LIC1078",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550078",
+    "status": "On Trip",
+    "safetyScore": 99,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375329f6575a951d679ee"
+    },
+    "name": "Driver 79",
+    "licenseNumber": "LIC1079",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550079",
+    "status": "Available",
+    "safetyScore": 87,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753288f543669dc6a6aa"
+    },
+    "name": "Driver 80",
+    "licenseNumber": "LIC1080",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550080",
+    "status": "Available",
+    "safetyScore": 85,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ab073de7452595dc"
+    },
+    "name": "Driver 81",
+    "licenseNumber": "LIC1081",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550081",
+    "status": "On Trip",
+    "safetyScore": 95,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532596fa1c6f2312832"
+    },
+    "name": "Driver 82",
+    "licenseNumber": "LIC1082",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550082",
+    "status": "Available",
+    "safetyScore": 85,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e212bb7762ec4bfe"
+    },
+    "name": "Driver 83",
+    "licenseNumber": "LIC1083",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550083",
+    "status": "Available",
+    "safetyScore": 88,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375320f74ffbefeb7bef6"
+    },
+    "name": "Driver 84",
+    "licenseNumber": "LIC1084",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550084",
+    "status": "On Trip",
+    "safetyScore": 89,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d8f570cfe654fd79"
+    },
+    "name": "Driver 85",
+    "licenseNumber": "LIC1085",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550085",
+    "status": "Available",
+    "safetyScore": 86,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532da2213a559bb2b76"
+    },
+    "name": "Driver 86",
+    "licenseNumber": "LIC1086",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550086",
+    "status": "Available",
+    "safetyScore": 90,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753231716b41e39724e6"
+    },
+    "name": "Driver 87",
+    "licenseNumber": "LIC1087",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550087",
+    "status": "On Trip",
+    "safetyScore": 88,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375325ad2d13e093e61fe"
+    },
+    "name": "Driver 88",
+    "licenseNumber": "LIC1088",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550088",
+    "status": "Available",
+    "safetyScore": 86,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753210208402b83bcde2"
+    },
+    "name": "Driver 89",
+    "licenseNumber": "LIC1089",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550089",
+    "status": "Available",
+    "safetyScore": 99,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328f9039f6bdd9f489"
+    },
+    "name": "Driver 90",
+    "licenseNumber": "LIC1090",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550090",
+    "status": "On Trip",
+    "safetyScore": 98,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532f3e80e500bc734ab"
+    },
+    "name": "Driver 91",
+    "licenseNumber": "LIC1091",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550091",
+    "status": "Available",
+    "safetyScore": 84,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ca4b4e0ef7c3a478"
+    },
+    "name": "Driver 92",
+    "licenseNumber": "LIC1092",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550092",
+    "status": "Available",
+    "safetyScore": 93,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c8d971b8356bbc4d"
+    },
+    "name": "Driver 93",
+    "licenseNumber": "LIC1093",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550093",
+    "status": "On Trip",
+    "safetyScore": 82,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375324c360e1699ca17b0"
+    },
+    "name": "Driver 94",
+    "licenseNumber": "LIC1094",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550094",
+    "status": "Available",
+    "safetyScore": 84,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532706784ad373f5419"
+    },
+    "name": "Driver 95",
+    "licenseNumber": "LIC1095",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550095",
+    "status": "Available",
+    "safetyScore": 94,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753223400f082b09ed72"
+    },
+    "name": "Driver 96",
+    "licenseNumber": "LIC1096",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550096",
+    "status": "On Trip",
+    "safetyScore": 89,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375323dff05a541969db1"
+    },
+    "name": "Driver 97",
+    "licenseNumber": "LIC1097",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550097",
+    "status": "Available",
+    "safetyScore": 90,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532dfacb55207f44c1c"
+    },
+    "name": "Driver 98",
+    "licenseNumber": "LIC1098",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550098",
+    "status": "Available",
+    "safetyScore": 97,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532338fe5b75eda0d29"
+    },
+    "name": "Driver 99",
+    "licenseNumber": "LIC1099",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550099",
+    "status": "On Trip",
+    "safetyScore": 81,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532de0c740906ede5df"
+    },
+    "name": "Driver 100",
+    "licenseNumber": "LIC1100",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550100",
+    "status": "Available",
+    "safetyScore": 96,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532429a4b7ab6187b2d"
+    },
+    "name": "Driver 101",
+    "licenseNumber": "LIC1101",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550101",
+    "status": "Available",
+    "safetyScore": 85,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ce666cc52280c2be"
+    },
+    "name": "Driver 102",
+    "licenseNumber": "LIC1102",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550102",
+    "status": "On Trip",
+    "safetyScore": 90,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ab60ec65e010bc04"
+    },
+    "name": "Driver 103",
+    "licenseNumber": "LIC1103",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.206Z"
+    },
+    "contactNumber": "+18005550103",
+    "status": "Available",
+    "safetyScore": 94,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.206Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e7718643166504ca"
+    },
+    "name": "Driver 104",
+    "licenseNumber": "LIC1104",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.207Z"
+    },
+    "contactNumber": "+18005550104",
+    "status": "Available",
+    "safetyScore": 86,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532266c4d49aae87821"
+    },
+    "name": "Driver 105",
+    "licenseNumber": "LIC1105",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.207Z"
+    },
+    "contactNumber": "+18005550105",
+    "status": "On Trip",
+    "safetyScore": 84,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753254f623199f7f61e2"
+    },
+    "name": "Driver 106",
+    "licenseNumber": "LIC1106",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.207Z"
+    },
+    "contactNumber": "+18005550106",
+    "status": "Available",
+    "safetyScore": 81,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532634345c40ea3ddae"
+    },
+    "name": "Driver 107",
+    "licenseNumber": "LIC1107",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.207Z"
+    },
+    "contactNumber": "+18005550107",
+    "status": "Available",
+    "safetyScore": 86,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532dfdfd2b7e9e5073a"
+    },
+    "name": "Driver 108",
+    "licenseNumber": "LIC1108",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.207Z"
+    },
+    "contactNumber": "+18005550108",
+    "status": "On Trip",
+    "safetyScore": 99,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375323f358474d0199299"
+    },
+    "name": "Driver 109",
+    "licenseNumber": "LIC1109",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.207Z"
+    },
+    "contactNumber": "+18005550109",
+    "status": "Available",
+    "safetyScore": 87,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532071178a53c045aac"
+    },
+    "name": "Driver 110",
+    "licenseNumber": "LIC1110",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.207Z"
+    },
+    "contactNumber": "+18005550110",
+    "status": "Available",
+    "safetyScore": 88,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375322f80a8bd067db5fe"
+    },
+    "name": "Driver 111",
+    "licenseNumber": "LIC1111",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.207Z"
+    },
+    "contactNumber": "+18005550111",
+    "status": "On Trip",
+    "safetyScore": 86,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375324a665490e72ca1eb"
+    },
+    "name": "Driver 112",
+    "licenseNumber": "LIC1112",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.207Z"
+    },
+    "contactNumber": "+18005550112",
+    "status": "Available",
+    "safetyScore": 82,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c47e598372df387a"
+    },
+    "name": "Driver 113",
+    "licenseNumber": "LIC1113",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.207Z"
+    },
+    "contactNumber": "+18005550113",
+    "status": "Available",
+    "safetyScore": 88,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753243e5c7ac308a8e9c"
+    },
+    "name": "Driver 114",
+    "licenseNumber": "LIC1114",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.207Z"
+    },
+    "contactNumber": "+18005550114",
+    "status": "On Trip",
+    "safetyScore": 94,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532fc09695b29d71b15"
+    },
+    "name": "Driver 115",
+    "licenseNumber": "LIC1115",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.207Z"
+    },
+    "contactNumber": "+18005550115",
+    "status": "Available",
+    "safetyScore": 84,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375323bfe3dd8bc07da66"
+    },
+    "name": "Driver 116",
+    "licenseNumber": "LIC1116",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.207Z"
+    },
+    "contactNumber": "+18005550116",
+    "status": "Available",
+    "safetyScore": 97,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375326b20c0c3d59cb0f6"
+    },
+    "name": "Driver 117",
+    "licenseNumber": "LIC1117",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.207Z"
+    },
+    "contactNumber": "+18005550117",
+    "status": "On Trip",
+    "safetyScore": 94,
+    "incidents": 1,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753299cb786a2c4ff2b8"
+    },
+    "name": "Driver 118",
+    "licenseNumber": "LIC1118",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.207Z"
+    },
+    "contactNumber": "+18005550118",
+    "status": "Available",
+    "safetyScore": 86,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ddd87c9bcc6fa55a"
+    },
+    "name": "Driver 119",
+    "licenseNumber": "LIC1119",
+    "licenseCategory": "Medium",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.207Z"
+    },
+    "contactNumber": "+18005550119",
+    "status": "Available",
+    "safetyScore": 80,
+    "incidents": 2,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375324893e72d8fe45c53"
+    },
+    "name": "Driver 120",
+    "licenseNumber": "LIC1120",
+    "licenseCategory": "Heavy",
+    "licenseExpiryDate": {
+      "$date": "2028-07-12T11:06:26.207Z"
+    },
+    "contactNumber": "+18005550120",
+    "status": "On Trip",
+    "safetyScore": 90,
+    "incidents": 0,
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  }
+]

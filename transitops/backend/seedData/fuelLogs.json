@@ -1,0 +1,2402 @@
+[
+  {
+    "_id": {
+      "$oid": "6a53753251946639381508c7"
+    },
+    "vehicleId": {
+      "$oid": "6a53753298af98bf93f2e67f"
+    },
+    "date": {
+      "$date": "2026-06-28T11:06:26.210Z"
+    },
+    "liters": 241,
+    "cost": 319,
+    "odometerAtFill": 58018,
+    "createdAt": {
+      "$date": "2026-06-28T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-28T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532dac5e9108b63c081"
+    },
+    "vehicleId": {
+      "$oid": "6a537532b13f640cf28c8b6d"
+    },
+    "date": {
+      "$date": "2026-06-06T11:06:26.210Z"
+    },
+    "liters": 115,
+    "cost": 437,
+    "odometerAtFill": 57438,
+    "createdAt": {
+      "$date": "2026-06-06T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-06T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753203f851ec313c7d7d"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d261b32adb80c919"
+    },
+    "date": {
+      "$date": "2026-06-02T11:06:26.210Z"
+    },
+    "liters": 174,
+    "cost": 797,
+    "odometerAtFill": 50594,
+    "createdAt": {
+      "$date": "2026-06-02T11:06:26.210Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-02T11:06:26.210Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d90033d05acc1310"
+    },
+    "vehicleId": {
+      "$oid": "6a537532063aec266daf5cab"
+    },
+    "date": {
+      "$date": "2026-04-24T11:06:26.211Z"
+    },
+    "liters": 216,
+    "cost": 714,
+    "odometerAtFill": 58284,
+    "createdAt": {
+      "$date": "2026-04-24T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-24T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b71008f5947e7c02"
+    },
+    "vehicleId": {
+      "$oid": "6a537532a31adf2f891934e0"
+    },
+    "date": {
+      "$date": "2026-04-10T11:06:26.211Z"
+    },
+    "liters": 133,
+    "cost": 734,
+    "odometerAtFill": 58463,
+    "createdAt": {
+      "$date": "2026-04-10T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-10T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c6ab151df8d5376e"
+    },
+    "vehicleId": {
+      "$oid": "6a537532941ce5e1b9cdbd40"
+    },
+    "date": {
+      "$date": "2026-05-29T11:06:26.211Z"
+    },
+    "liters": 238,
+    "cost": 328,
+    "odometerAtFill": 51033,
+    "createdAt": {
+      "$date": "2026-05-29T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-29T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375323b326ef7c2802961"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ebb6ca8478f765d8"
+    },
+    "date": {
+      "$date": "2026-04-29T11:06:26.211Z"
+    },
+    "liters": 145,
+    "cost": 576,
+    "odometerAtFill": 52858,
+    "createdAt": {
+      "$date": "2026-04-29T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-29T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532766c6e131fc7d81c"
+    },
+    "vehicleId": {
+      "$oid": "6a537532418cd127bc716388"
+    },
+    "date": {
+      "$date": "2026-06-08T11:06:26.211Z"
+    },
+    "liters": 295,
+    "cost": 582,
+    "odometerAtFill": 58897,
+    "createdAt": {
+      "$date": "2026-06-08T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-08T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532a9ab375d14cef0d0"
+    },
+    "vehicleId": {
+      "$oid": "6a537532cbd23e6f7b1ba64f"
+    },
+    "date": {
+      "$date": "2026-05-15T11:06:26.211Z"
+    },
+    "liters": 156,
+    "cost": 324,
+    "odometerAtFill": 55430,
+    "createdAt": {
+      "$date": "2026-05-15T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-15T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532a7aa169368401bd1"
+    },
+    "vehicleId": {
+      "$oid": "6a5375329dfa899f42e698cc"
+    },
+    "date": {
+      "$date": "2026-05-11T11:06:26.211Z"
+    },
+    "liters": 276,
+    "cost": 507,
+    "odometerAtFill": 58396,
+    "createdAt": {
+      "$date": "2026-05-11T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-11T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532bb10abe5c94e72dd"
+    },
+    "vehicleId": {
+      "$oid": "6a537532345752c1143c20cf"
+    },
+    "date": {
+      "$date": "2026-04-17T11:06:26.211Z"
+    },
+    "liters": 165,
+    "cost": 640,
+    "odometerAtFill": 57646,
+    "createdAt": {
+      "$date": "2026-04-17T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-17T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c11e31a4c2dda9c2"
+    },
+    "vehicleId": {
+      "$oid": "6a53753243efb3119ecee5ca"
+    },
+    "date": {
+      "$date": "2026-06-29T11:06:26.211Z"
+    },
+    "liters": 298,
+    "cost": 568,
+    "odometerAtFill": 58200,
+    "createdAt": {
+      "$date": "2026-06-29T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-29T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532db7bad9280975cf5"
+    },
+    "vehicleId": {
+      "$oid": "6a537532722af48f0b8b24d6"
+    },
+    "date": {
+      "$date": "2026-05-26T11:06:26.211Z"
+    },
+    "liters": 147,
+    "cost": 733,
+    "odometerAtFill": 55114,
+    "createdAt": {
+      "$date": "2026-05-26T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-26T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e4d2b87e3083fb09"
+    },
+    "vehicleId": {
+      "$oid": "6a537532941ce5e1b9cdbd40"
+    },
+    "date": {
+      "$date": "2026-04-28T11:06:26.211Z"
+    },
+    "liters": 144,
+    "cost": 434,
+    "odometerAtFill": 55663,
+    "createdAt": {
+      "$date": "2026-04-28T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-28T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532071fefda7fa41fd1"
+    },
+    "vehicleId": {
+      "$oid": "6a537532c6f05e6badaf85dc"
+    },
+    "date": {
+      "$date": "2026-06-16T11:06:26.211Z"
+    },
+    "liters": 270,
+    "cost": 405,
+    "odometerAtFill": 54934,
+    "createdAt": {
+      "$date": "2026-06-16T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-16T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375326142e1b9869c1e4b"
+    },
+    "vehicleId": {
+      "$oid": "6a5375329d977257aed6269d"
+    },
+    "date": {
+      "$date": "2026-06-20T11:06:26.211Z"
+    },
+    "liters": 133,
+    "cost": 475,
+    "odometerAtFill": 52960,
+    "createdAt": {
+      "$date": "2026-06-20T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-20T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d4fc96382101c7d4"
+    },
+    "vehicleId": {
+      "$oid": "6a5375329512ed67474663de"
+    },
+    "date": {
+      "$date": "2026-04-19T11:06:26.211Z"
+    },
+    "liters": 284,
+    "cost": 759,
+    "odometerAtFill": 59716,
+    "createdAt": {
+      "$date": "2026-04-19T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-19T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532cf886977c966fa5e"
+    },
+    "vehicleId": {
+      "$oid": "6a537532fcdd038fb086297c"
+    },
+    "date": {
+      "$date": "2026-06-11T11:06:26.211Z"
+    },
+    "liters": 268,
+    "cost": 703,
+    "odometerAtFill": 56290,
+    "createdAt": {
+      "$date": "2026-06-11T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-11T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b2c3879eeab67d3d"
+    },
+    "vehicleId": {
+      "$oid": "6a53753208a40b9a8dfed801"
+    },
+    "date": {
+      "$date": "2026-04-16T11:06:26.211Z"
+    },
+    "liters": 298,
+    "cost": 629,
+    "odometerAtFill": 55039,
+    "createdAt": {
+      "$date": "2026-04-16T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-16T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375322a5fd0ad6196ef75"
+    },
+    "vehicleId": {
+      "$oid": "6a53753201348b741cd5ad0b"
+    },
+    "date": {
+      "$date": "2026-07-07T11:06:26.211Z"
+    },
+    "liters": 146,
+    "cost": 381,
+    "odometerAtFill": 50195,
+    "createdAt": {
+      "$date": "2026-07-07T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-07T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375327767f311cb1f5767"
+    },
+    "vehicleId": {
+      "$oid": "6a537532709c7a1e42682253"
+    },
+    "date": {
+      "$date": "2026-05-09T11:06:26.211Z"
+    },
+    "liters": 269,
+    "cost": 568,
+    "odometerAtFill": 56695,
+    "createdAt": {
+      "$date": "2026-05-09T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-09T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375321d7e090e31176f25"
+    },
+    "vehicleId": {
+      "$oid": "6a53753295bf37977257af49"
+    },
+    "date": {
+      "$date": "2026-04-10T11:06:26.211Z"
+    },
+    "liters": 206,
+    "cost": 704,
+    "odometerAtFill": 59092,
+    "createdAt": {
+      "$date": "2026-04-10T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-10T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375323db66f5ee04ba831"
+    },
+    "vehicleId": {
+      "$oid": "6a53753214ebb5e57da6ee1c"
+    },
+    "date": {
+      "$date": "2026-05-14T11:06:26.211Z"
+    },
+    "liters": 240,
+    "cost": 668,
+    "odometerAtFill": 59494,
+    "createdAt": {
+      "$date": "2026-05-14T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-14T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532108b94334cb52ffe"
+    },
+    "vehicleId": {
+      "$oid": "6a53753298af98bf93f2e67f"
+    },
+    "date": {
+      "$date": "2026-04-06T11:06:26.211Z"
+    },
+    "liters": 124,
+    "cost": 301,
+    "odometerAtFill": 58198,
+    "createdAt": {
+      "$date": "2026-04-06T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-06T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532f2c9310216ec07df"
+    },
+    "vehicleId": {
+      "$oid": "6a537532b0cd6f6772b49e2a"
+    },
+    "date": {
+      "$date": "2026-06-03T11:06:26.211Z"
+    },
+    "liters": 256,
+    "cost": 711,
+    "odometerAtFill": 54611,
+    "createdAt": {
+      "$date": "2026-06-03T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-03T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753243328ab696230bb7"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ad948c302d9b9d36"
+    },
+    "date": {
+      "$date": "2026-06-30T11:06:26.211Z"
+    },
+    "liters": 242,
+    "cost": 627,
+    "odometerAtFill": 57479,
+    "createdAt": {
+      "$date": "2026-06-30T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-30T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328a83f5aed2faf336"
+    },
+    "vehicleId": {
+      "$oid": "6a5375326e6275a73cc6ffdf"
+    },
+    "date": {
+      "$date": "2026-05-20T11:06:26.211Z"
+    },
+    "liters": 216,
+    "cost": 450,
+    "odometerAtFill": 54378,
+    "createdAt": {
+      "$date": "2026-05-20T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-20T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375321f728ca403c9b902"
+    },
+    "vehicleId": {
+      "$oid": "6a5375324f2578d59c79ffc4"
+    },
+    "date": {
+      "$date": "2026-07-11T11:06:26.211Z"
+    },
+    "liters": 274,
+    "cost": 373,
+    "odometerAtFill": 55044,
+    "createdAt": {
+      "$date": "2026-07-11T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-11T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375325da6e66566f33e72"
+    },
+    "vehicleId": {
+      "$oid": "6a537532e74b585c2f6fe219"
+    },
+    "date": {
+      "$date": "2026-07-03T11:06:26.211Z"
+    },
+    "liters": 106,
+    "cost": 487,
+    "odometerAtFill": 55266,
+    "createdAt": {
+      "$date": "2026-07-03T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-03T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b94940ecc64d9d6a"
+    },
+    "vehicleId": {
+      "$oid": "6a5375324b69c299e40628a3"
+    },
+    "date": {
+      "$date": "2026-04-22T11:06:26.211Z"
+    },
+    "liters": 192,
+    "cost": 300,
+    "odometerAtFill": 51554,
+    "createdAt": {
+      "$date": "2026-04-22T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-22T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c3a7c80fa6a05ff9"
+    },
+    "vehicleId": {
+      "$oid": "6a5375324a49fd6008113bf7"
+    },
+    "date": {
+      "$date": "2026-04-29T11:06:26.211Z"
+    },
+    "liters": 260,
+    "cost": 366,
+    "odometerAtFill": 53190,
+    "createdAt": {
+      "$date": "2026-04-29T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-29T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375327a263d8395c6b7b2"
+    },
+    "vehicleId": {
+      "$oid": "6a537532b13f640cf28c8b6d"
+    },
+    "date": {
+      "$date": "2026-05-15T11:06:26.211Z"
+    },
+    "liters": 224,
+    "cost": 742,
+    "odometerAtFill": 54449,
+    "createdAt": {
+      "$date": "2026-05-15T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-15T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753293d1047a2fcaf453"
+    },
+    "vehicleId": {
+      "$oid": "6a537532e9aab06a1d5a96ba"
+    },
+    "date": {
+      "$date": "2026-05-02T11:06:26.211Z"
+    },
+    "liters": 232,
+    "cost": 769,
+    "odometerAtFill": 55261,
+    "createdAt": {
+      "$date": "2026-05-02T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-02T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b6aecdeb5c686a10"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ce83131a8bed31a1"
+    },
+    "date": {
+      "$date": "2026-06-25T11:06:26.211Z"
+    },
+    "liters": 150,
+    "cost": 709,
+    "odometerAtFill": 55508,
+    "createdAt": {
+      "$date": "2026-06-25T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-25T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375325d56c8727294a8bc"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d2bef07dbca363b6"
+    },
+    "date": {
+      "$date": "2026-06-07T11:06:26.211Z"
+    },
+    "liters": 122,
+    "cost": 628,
+    "odometerAtFill": 55395,
+    "createdAt": {
+      "$date": "2026-06-07T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-07T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532f477d4af37c80093"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d2bef07dbca363b6"
+    },
+    "date": {
+      "$date": "2026-04-21T11:06:26.211Z"
+    },
+    "liters": 195,
+    "cost": 513,
+    "odometerAtFill": 57146,
+    "createdAt": {
+      "$date": "2026-04-21T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-21T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532dbe98c5c503348f3"
+    },
+    "vehicleId": {
+      "$oid": "6a537532fa43d312ce32cc40"
+    },
+    "date": {
+      "$date": "2026-05-22T11:06:26.211Z"
+    },
+    "liters": 255,
+    "cost": 420,
+    "odometerAtFill": 55673,
+    "createdAt": {
+      "$date": "2026-05-22T11:06:26.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-22T11:06:26.211Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532a22ce083afc3dcf1"
+    },
+    "vehicleId": {
+      "$oid": "6a537532b3f402f36e020ef6"
+    },
+    "date": {
+      "$date": "2026-07-04T11:06:26.213Z"
+    },
+    "liters": 270,
+    "cost": 574,
+    "odometerAtFill": 59466,
+    "createdAt": {
+      "$date": "2026-07-04T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-04T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375322a15307b5cdca99c"
+    },
+    "vehicleId": {
+      "$oid": "6a537532cacdfb54afd8cbbb"
+    },
+    "date": {
+      "$date": "2026-06-13T11:06:26.213Z"
+    },
+    "liters": 215,
+    "cost": 504,
+    "odometerAtFill": 53411,
+    "createdAt": {
+      "$date": "2026-06-13T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-13T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e76e8b8c2ba97a31"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ebb6ca8478f765d8"
+    },
+    "date": {
+      "$date": "2026-06-29T11:06:26.213Z"
+    },
+    "liters": 149,
+    "cost": 335,
+    "odometerAtFill": 50654,
+    "createdAt": {
+      "$date": "2026-06-29T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-29T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532bef15874f9bb82b8"
+    },
+    "vehicleId": {
+      "$oid": "6a5375328c62c4bac17baffa"
+    },
+    "date": {
+      "$date": "2026-05-28T11:06:26.213Z"
+    },
+    "liters": 294,
+    "cost": 497,
+    "odometerAtFill": 50417,
+    "createdAt": {
+      "$date": "2026-05-28T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-28T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375322aba3e5ef3d065dc"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d15abd456e05f8fd"
+    },
+    "date": {
+      "$date": "2026-04-26T11:06:26.213Z"
+    },
+    "liters": 262,
+    "cost": 607,
+    "odometerAtFill": 57042,
+    "createdAt": {
+      "$date": "2026-04-26T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-26T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375320eaea82676e3eda7"
+    },
+    "vehicleId": {
+      "$oid": "6a53753287b6f7d8b78fb771"
+    },
+    "date": {
+      "$date": "2026-04-12T11:06:26.213Z"
+    },
+    "liters": 242,
+    "cost": 733,
+    "odometerAtFill": 50184,
+    "createdAt": {
+      "$date": "2026-04-12T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-12T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753276e10364e6eb5ef6"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ad7a590c7b15e370"
+    },
+    "date": {
+      "$date": "2026-05-07T11:06:26.213Z"
+    },
+    "liters": 296,
+    "cost": 594,
+    "odometerAtFill": 54616,
+    "createdAt": {
+      "$date": "2026-05-07T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-07T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753203dd16d3d410a8a7"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ebb6ca8478f765d8"
+    },
+    "date": {
+      "$date": "2026-04-30T11:06:26.213Z"
+    },
+    "liters": 168,
+    "cost": 512,
+    "odometerAtFill": 53612,
+    "createdAt": {
+      "$date": "2026-04-30T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-30T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ff50adf5b85696e8"
+    },
+    "vehicleId": {
+      "$oid": "6a537532778f815533808676"
+    },
+    "date": {
+      "$date": "2026-06-16T11:06:26.213Z"
+    },
+    "liters": 162,
+    "cost": 733,
+    "odometerAtFill": 55588,
+    "createdAt": {
+      "$date": "2026-06-16T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-16T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532dc36ad43a995996c"
+    },
+    "vehicleId": {
+      "$oid": "6a537532f481048c0ff15c36"
+    },
+    "date": {
+      "$date": "2026-06-29T11:06:26.213Z"
+    },
+    "liters": 281,
+    "cost": 731,
+    "odometerAtFill": 55436,
+    "createdAt": {
+      "$date": "2026-06-29T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-29T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ab8b5436049b3451"
+    },
+    "vehicleId": {
+      "$oid": "6a537532063aec266daf5cab"
+    },
+    "date": {
+      "$date": "2026-04-29T11:06:26.213Z"
+    },
+    "liters": 141,
+    "cost": 586,
+    "odometerAtFill": 59234,
+    "createdAt": {
+      "$date": "2026-04-29T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-29T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e0839880ba9212ce"
+    },
+    "vehicleId": {
+      "$oid": "6a537532c8016eb054e448d3"
+    },
+    "date": {
+      "$date": "2026-06-21T11:06:26.213Z"
+    },
+    "liters": 143,
+    "cost": 558,
+    "odometerAtFill": 59722,
+    "createdAt": {
+      "$date": "2026-06-21T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-21T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753262db7db0bbbd9d0d"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d15abd456e05f8fd"
+    },
+    "date": {
+      "$date": "2026-07-01T11:06:26.213Z"
+    },
+    "liters": 190,
+    "cost": 716,
+    "odometerAtFill": 51374,
+    "createdAt": {
+      "$date": "2026-07-01T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-01T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753258d8a36697afd2d6"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ad7a590c7b15e370"
+    },
+    "date": {
+      "$date": "2026-05-29T11:06:26.213Z"
+    },
+    "liters": 150,
+    "cost": 390,
+    "odometerAtFill": 59982,
+    "createdAt": {
+      "$date": "2026-05-29T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-29T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532340983f0e88bbc3e"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ad7a590c7b15e370"
+    },
+    "date": {
+      "$date": "2026-06-01T11:06:26.213Z"
+    },
+    "liters": 194,
+    "cost": 636,
+    "odometerAtFill": 55532,
+    "createdAt": {
+      "$date": "2026-06-01T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-01T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375329b871e5dbde4fe28"
+    },
+    "vehicleId": {
+      "$oid": "6a53753243efb3119ecee5ca"
+    },
+    "date": {
+      "$date": "2026-06-08T11:06:26.213Z"
+    },
+    "liters": 219,
+    "cost": 618,
+    "odometerAtFill": 54714,
+    "createdAt": {
+      "$date": "2026-06-08T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-08T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753254d6d2bbf2f785a7"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d8392f0a02f9b47e"
+    },
+    "date": {
+      "$date": "2026-06-30T11:06:26.213Z"
+    },
+    "liters": 109,
+    "cost": 462,
+    "odometerAtFill": 57405,
+    "createdAt": {
+      "$date": "2026-06-30T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-30T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375327a3ce8c0f0a67df5"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ce83131a8bed31a1"
+    },
+    "date": {
+      "$date": "2026-06-24T11:06:26.213Z"
+    },
+    "liters": 161,
+    "cost": 451,
+    "odometerAtFill": 51718,
+    "createdAt": {
+      "$date": "2026-06-24T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-24T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375325f74a125f43887ac"
+    },
+    "vehicleId": {
+      "$oid": "6a537532b13f640cf28c8b6d"
+    },
+    "date": {
+      "$date": "2026-06-08T11:06:26.213Z"
+    },
+    "liters": 127,
+    "cost": 525,
+    "odometerAtFill": 54231,
+    "createdAt": {
+      "$date": "2026-06-08T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-08T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375325d85b78eac472868"
+    },
+    "vehicleId": {
+      "$oid": "6a537532fa43d312ce32cc40"
+    },
+    "date": {
+      "$date": "2026-05-16T11:06:26.213Z"
+    },
+    "liters": 211,
+    "cost": 355,
+    "odometerAtFill": 52157,
+    "createdAt": {
+      "$date": "2026-05-16T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-16T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532654db62829ac772d"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d4d3a0fd39a49c05"
+    },
+    "date": {
+      "$date": "2026-04-25T11:06:26.213Z"
+    },
+    "liters": 206,
+    "cost": 533,
+    "odometerAtFill": 53511,
+    "createdAt": {
+      "$date": "2026-04-25T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-25T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532638398160efae7bf"
+    },
+    "vehicleId": {
+      "$oid": "6a5375323900a3f4cf7cc91b"
+    },
+    "date": {
+      "$date": "2026-06-04T11:06:26.213Z"
+    },
+    "liters": 181,
+    "cost": 591,
+    "odometerAtFill": 53794,
+    "createdAt": {
+      "$date": "2026-06-04T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-04T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532f71308ad6891bee3"
+    },
+    "vehicleId": {
+      "$oid": "6a5375321e2427b4ed2f7d85"
+    },
+    "date": {
+      "$date": "2026-04-10T11:06:26.213Z"
+    },
+    "liters": 272,
+    "cost": 538,
+    "odometerAtFill": 56331,
+    "createdAt": {
+      "$date": "2026-04-10T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-10T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532bc0a7c6684705d2b"
+    },
+    "vehicleId": {
+      "$oid": "6a53753299467b1398761cc3"
+    },
+    "date": {
+      "$date": "2026-06-10T11:06:26.213Z"
+    },
+    "liters": 266,
+    "cost": 486,
+    "odometerAtFill": 56864,
+    "createdAt": {
+      "$date": "2026-06-10T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-10T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b4051c0500dbb783"
+    },
+    "vehicleId": {
+      "$oid": "6a537532f481048c0ff15c36"
+    },
+    "date": {
+      "$date": "2026-05-11T11:06:26.213Z"
+    },
+    "liters": 238,
+    "cost": 664,
+    "odometerAtFill": 59784,
+    "createdAt": {
+      "$date": "2026-05-11T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-11T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c5b34ba23c8032f7"
+    },
+    "vehicleId": {
+      "$oid": "6a53753276cf95752712e6d0"
+    },
+    "date": {
+      "$date": "2026-07-02T11:06:26.213Z"
+    },
+    "liters": 262,
+    "cost": 780,
+    "odometerAtFill": 59085,
+    "createdAt": {
+      "$date": "2026-07-02T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-02T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ed26105990f0bc21"
+    },
+    "vehicleId": {
+      "$oid": "6a5375328bbb31d3815b64e1"
+    },
+    "date": {
+      "$date": "2026-07-04T11:06:26.213Z"
+    },
+    "liters": 145,
+    "cost": 429,
+    "odometerAtFill": 55063,
+    "createdAt": {
+      "$date": "2026-07-04T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-04T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753229ef165fef3f6174"
+    },
+    "vehicleId": {
+      "$oid": "6a537532f63dffc4542208b1"
+    },
+    "date": {
+      "$date": "2026-06-02T11:06:26.213Z"
+    },
+    "liters": 190,
+    "cost": 511,
+    "odometerAtFill": 59055,
+    "createdAt": {
+      "$date": "2026-06-02T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-02T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532bb4fca07b113e389"
+    },
+    "vehicleId": {
+      "$oid": "6a53753257a6154398f540e7"
+    },
+    "date": {
+      "$date": "2026-06-09T11:06:26.213Z"
+    },
+    "liters": 184,
+    "cost": 336,
+    "odometerAtFill": 55625,
+    "createdAt": {
+      "$date": "2026-06-09T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-09T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375324402f732114368fc"
+    },
+    "vehicleId": {
+      "$oid": "6a5375324b69c299e40628a3"
+    },
+    "date": {
+      "$date": "2026-05-28T11:06:26.213Z"
+    },
+    "liters": 149,
+    "cost": 375,
+    "odometerAtFill": 50645,
+    "createdAt": {
+      "$date": "2026-05-28T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-28T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ade59ed7850bca5f"
+    },
+    "vehicleId": {
+      "$oid": "6a537532abbff0dbc425d985"
+    },
+    "date": {
+      "$date": "2026-04-23T11:06:26.213Z"
+    },
+    "liters": 118,
+    "cost": 589,
+    "odometerAtFill": 53689,
+    "createdAt": {
+      "$date": "2026-04-23T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-23T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c968248fec3811e3"
+    },
+    "vehicleId": {
+      "$oid": "6a5375323cedae00cf2d4779"
+    },
+    "date": {
+      "$date": "2026-04-30T11:06:26.213Z"
+    },
+    "liters": 262,
+    "cost": 319,
+    "odometerAtFill": 53851,
+    "createdAt": {
+      "$date": "2026-04-30T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-30T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753207121ed625a32e84"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d2bef07dbca363b6"
+    },
+    "date": {
+      "$date": "2026-07-01T11:06:26.213Z"
+    },
+    "liters": 207,
+    "cost": 546,
+    "odometerAtFill": 51717,
+    "createdAt": {
+      "$date": "2026-07-01T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-01T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532316925fbac179766"
+    },
+    "vehicleId": {
+      "$oid": "6a5375323cedae00cf2d4779"
+    },
+    "date": {
+      "$date": "2026-05-26T11:06:26.213Z"
+    },
+    "liters": 245,
+    "cost": 745,
+    "odometerAtFill": 53294,
+    "createdAt": {
+      "$date": "2026-05-26T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-26T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375325fcda7bdaf9aa286"
+    },
+    "vehicleId": {
+      "$oid": "6a537532fa3683ae81cf81c8"
+    },
+    "date": {
+      "$date": "2026-05-27T11:06:26.213Z"
+    },
+    "liters": 202,
+    "cost": 791,
+    "odometerAtFill": 52829,
+    "createdAt": {
+      "$date": "2026-05-27T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-27T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753213acf5ef41456eda"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d2bef07dbca363b6"
+    },
+    "date": {
+      "$date": "2026-04-18T11:06:26.213Z"
+    },
+    "liters": 208,
+    "cost": 489,
+    "odometerAtFill": 52813,
+    "createdAt": {
+      "$date": "2026-04-18T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-18T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328938b1a38c57b387"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ce83131a8bed31a1"
+    },
+    "date": {
+      "$date": "2026-05-08T11:06:26.213Z"
+    },
+    "liters": 130,
+    "cost": 429,
+    "odometerAtFill": 53529,
+    "createdAt": {
+      "$date": "2026-05-08T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-08T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328de3b7cbfac7c862"
+    },
+    "vehicleId": {
+      "$oid": "6a5375328c62c4bac17baffa"
+    },
+    "date": {
+      "$date": "2026-06-29T11:06:26.213Z"
+    },
+    "liters": 161,
+    "cost": 444,
+    "odometerAtFill": 53492,
+    "createdAt": {
+      "$date": "2026-06-29T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-29T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375321028033e6d0f0127"
+    },
+    "vehicleId": {
+      "$oid": "6a53753261e64a726353e327"
+    },
+    "date": {
+      "$date": "2026-04-18T11:06:26.213Z"
+    },
+    "liters": 199,
+    "cost": 747,
+    "odometerAtFill": 56954,
+    "createdAt": {
+      "$date": "2026-04-18T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-18T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753223bf5b4e6c023346"
+    },
+    "vehicleId": {
+      "$oid": "6a537532e1a0b51f20b7a52e"
+    },
+    "date": {
+      "$date": "2026-07-09T11:06:26.213Z"
+    },
+    "liters": 242,
+    "cost": 755,
+    "odometerAtFill": 55030,
+    "createdAt": {
+      "$date": "2026-07-09T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-09T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375321f05341896841041"
+    },
+    "vehicleId": {
+      "$oid": "6a53753227eb7b2d61bf5e60"
+    },
+    "date": {
+      "$date": "2026-05-30T11:06:26.213Z"
+    },
+    "liters": 178,
+    "cost": 567,
+    "odometerAtFill": 52314,
+    "createdAt": {
+      "$date": "2026-05-30T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-30T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375324de6eb68451e2825"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d15abd456e05f8fd"
+    },
+    "date": {
+      "$date": "2026-05-19T11:06:26.213Z"
+    },
+    "liters": 171,
+    "cost": 417,
+    "odometerAtFill": 57696,
+    "createdAt": {
+      "$date": "2026-05-19T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-19T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b2c6376c833397d6"
+    },
+    "vehicleId": {
+      "$oid": "6a537532418cd127bc716388"
+    },
+    "date": {
+      "$date": "2026-06-20T11:06:26.213Z"
+    },
+    "liters": 243,
+    "cost": 348,
+    "odometerAtFill": 50916,
+    "createdAt": {
+      "$date": "2026-06-20T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-20T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532347590a2f292b941"
+    },
+    "vehicleId": {
+      "$oid": "6a5375328e45d97946510c6c"
+    },
+    "date": {
+      "$date": "2026-05-10T11:06:26.213Z"
+    },
+    "liters": 177,
+    "cost": 357,
+    "odometerAtFill": 58156,
+    "createdAt": {
+      "$date": "2026-05-10T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-10T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328510a31dc922cb8c"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d8392f0a02f9b47e"
+    },
+    "date": {
+      "$date": "2026-06-05T11:06:26.213Z"
+    },
+    "liters": 177,
+    "cost": 733,
+    "odometerAtFill": 59136,
+    "createdAt": {
+      "$date": "2026-06-05T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-05T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532fe65c30872e51429"
+    },
+    "vehicleId": {
+      "$oid": "6a53753201348b741cd5ad0b"
+    },
+    "date": {
+      "$date": "2026-05-09T11:06:26.213Z"
+    },
+    "liters": 271,
+    "cost": 378,
+    "odometerAtFill": 58410,
+    "createdAt": {
+      "$date": "2026-05-09T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-09T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c5c0e1e6b3754c2c"
+    },
+    "vehicleId": {
+      "$oid": "6a537532418cd127bc716388"
+    },
+    "date": {
+      "$date": "2026-05-05T11:06:26.213Z"
+    },
+    "liters": 227,
+    "cost": 657,
+    "odometerAtFill": 50801,
+    "createdAt": {
+      "$date": "2026-05-05T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-05T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e20741a76b9eef1b"
+    },
+    "vehicleId": {
+      "$oid": "6a537532fa43d312ce32cc40"
+    },
+    "date": {
+      "$date": "2026-04-11T11:06:26.213Z"
+    },
+    "liters": 242,
+    "cost": 769,
+    "odometerAtFill": 59669,
+    "createdAt": {
+      "$date": "2026-04-11T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-11T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c9f31a6b28f1bb55"
+    },
+    "vehicleId": {
+      "$oid": "6a537532b4cb97f396b6dfcb"
+    },
+    "date": {
+      "$date": "2026-04-22T11:06:26.213Z"
+    },
+    "liters": 135,
+    "cost": 708,
+    "odometerAtFill": 52578,
+    "createdAt": {
+      "$date": "2026-04-22T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-22T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e2504dcd9c11d761"
+    },
+    "vehicleId": {
+      "$oid": "6a537532fa43d312ce32cc40"
+    },
+    "date": {
+      "$date": "2026-04-12T11:06:26.213Z"
+    },
+    "liters": 193,
+    "cost": 600,
+    "odometerAtFill": 56475,
+    "createdAt": {
+      "$date": "2026-04-12T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-12T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532262e357a22be1b1d"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ea3d78ed7587e39a"
+    },
+    "date": {
+      "$date": "2026-05-19T11:06:26.213Z"
+    },
+    "liters": 239,
+    "cost": 757,
+    "odometerAtFill": 57084,
+    "createdAt": {
+      "$date": "2026-05-19T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-19T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c8c2b1b6921fe944"
+    },
+    "vehicleId": {
+      "$oid": "6a537532db1268d5860378dd"
+    },
+    "date": {
+      "$date": "2026-06-15T11:06:26.213Z"
+    },
+    "liters": 257,
+    "cost": 341,
+    "odometerAtFill": 50455,
+    "createdAt": {
+      "$date": "2026-06-15T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-15T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532583e46690a887ef6"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ef64607dc3a3a96f"
+    },
+    "date": {
+      "$date": "2026-06-10T11:06:26.213Z"
+    },
+    "liters": 258,
+    "cost": 385,
+    "odometerAtFill": 50798,
+    "createdAt": {
+      "$date": "2026-06-10T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-10T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375323c02b921224c4400"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d8392f0a02f9b47e"
+    },
+    "date": {
+      "$date": "2026-07-10T11:06:26.213Z"
+    },
+    "liters": 181,
+    "cost": 423,
+    "odometerAtFill": 55120,
+    "createdAt": {
+      "$date": "2026-07-10T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-10T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532a20d9aacf51c9601"
+    },
+    "vehicleId": {
+      "$oid": "6a5375320e55bd8657dd72f9"
+    },
+    "date": {
+      "$date": "2026-04-16T11:06:26.213Z"
+    },
+    "liters": 299,
+    "cost": 754,
+    "odometerAtFill": 52674,
+    "createdAt": {
+      "$date": "2026-04-16T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-16T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532f0e9a8591cee9d8c"
+    },
+    "vehicleId": {
+      "$oid": "6a537532f67e5deda61605e9"
+    },
+    "date": {
+      "$date": "2026-06-09T11:06:26.213Z"
+    },
+    "liters": 281,
+    "cost": 602,
+    "odometerAtFill": 57092,
+    "createdAt": {
+      "$date": "2026-06-09T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-09T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375329bdf67d6c0472462"
+    },
+    "vehicleId": {
+      "$oid": "6a53753299467b1398761cc3"
+    },
+    "date": {
+      "$date": "2026-05-24T11:06:26.213Z"
+    },
+    "liters": 135,
+    "cost": 622,
+    "odometerAtFill": 56609,
+    "createdAt": {
+      "$date": "2026-05-24T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-24T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532164ce0e55ee8ab19"
+    },
+    "vehicleId": {
+      "$oid": "6a5375321c18f16b9d68ca7a"
+    },
+    "date": {
+      "$date": "2026-04-23T11:06:26.213Z"
+    },
+    "liters": 156,
+    "cost": 476,
+    "odometerAtFill": 57422,
+    "createdAt": {
+      "$date": "2026-04-23T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-23T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375325d7c67ae793eeec9"
+    },
+    "vehicleId": {
+      "$oid": "6a537532c764e14e2199fb1a"
+    },
+    "date": {
+      "$date": "2026-04-25T11:06:26.213Z"
+    },
+    "liters": 181,
+    "cost": 587,
+    "odometerAtFill": 51331,
+    "createdAt": {
+      "$date": "2026-04-25T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-25T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532aca48afce79c4cc1"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d15abd456e05f8fd"
+    },
+    "date": {
+      "$date": "2026-05-24T11:06:26.213Z"
+    },
+    "liters": 271,
+    "cost": 786,
+    "odometerAtFill": 54337,
+    "createdAt": {
+      "$date": "2026-05-24T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-24T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753228348224656d8cad"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d15abd456e05f8fd"
+    },
+    "date": {
+      "$date": "2026-04-26T11:06:26.213Z"
+    },
+    "liters": 290,
+    "cost": 696,
+    "odometerAtFill": 52007,
+    "createdAt": {
+      "$date": "2026-04-26T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-26T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375320d9d234925ab4297"
+    },
+    "vehicleId": {
+      "$oid": "6a537532b0cd6f6772b49e2a"
+    },
+    "date": {
+      "$date": "2026-05-25T11:06:26.213Z"
+    },
+    "liters": 254,
+    "cost": 316,
+    "odometerAtFill": 59692,
+    "createdAt": {
+      "$date": "2026-05-25T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-25T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375327ba9e656948732d0"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d8fa492292b9294c"
+    },
+    "date": {
+      "$date": "2026-06-17T11:06:26.213Z"
+    },
+    "liters": 184,
+    "cost": 770,
+    "odometerAtFill": 53808,
+    "createdAt": {
+      "$date": "2026-06-17T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-17T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532677bb1c7a0856741"
+    },
+    "vehicleId": {
+      "$oid": "6a5375321c18f16b9d68ca7a"
+    },
+    "date": {
+      "$date": "2026-05-21T11:06:26.213Z"
+    },
+    "liters": 287,
+    "cost": 750,
+    "odometerAtFill": 59243,
+    "createdAt": {
+      "$date": "2026-05-21T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-21T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532a9f5317aa5028956"
+    },
+    "vehicleId": {
+      "$oid": "6a537532a31adf2f891934e0"
+    },
+    "date": {
+      "$date": "2026-05-30T11:06:26.213Z"
+    },
+    "liters": 228,
+    "cost": 707,
+    "odometerAtFill": 54549,
+    "createdAt": {
+      "$date": "2026-05-30T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-30T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753239a21076e6dd7354"
+    },
+    "vehicleId": {
+      "$oid": "6a5375329d977257aed6269d"
+    },
+    "date": {
+      "$date": "2026-06-21T11:06:26.213Z"
+    },
+    "liters": 276,
+    "cost": 461,
+    "odometerAtFill": 59034,
+    "createdAt": {
+      "$date": "2026-06-21T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-21T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532da29a9942b0cffc1"
+    },
+    "vehicleId": {
+      "$oid": "6a537532cb38b971aeab4267"
+    },
+    "date": {
+      "$date": "2026-06-11T11:06:26.213Z"
+    },
+    "liters": 240,
+    "cost": 377,
+    "odometerAtFill": 59489,
+    "createdAt": {
+      "$date": "2026-06-11T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-11T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375326ded500211103f7b"
+    },
+    "vehicleId": {
+      "$oid": "6a537532778f815533808676"
+    },
+    "date": {
+      "$date": "2026-04-09T11:06:26.213Z"
+    },
+    "liters": 135,
+    "cost": 604,
+    "odometerAtFill": 57257,
+    "createdAt": {
+      "$date": "2026-04-09T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-09T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375324f5081f0590e63dc"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ea3d78ed7587e39a"
+    },
+    "date": {
+      "$date": "2026-07-04T11:06:26.213Z"
+    },
+    "liters": 297,
+    "cost": 688,
+    "odometerAtFill": 56675,
+    "createdAt": {
+      "$date": "2026-07-04T11:06:26.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-04T11:06:26.213Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532f71aad19a6bd9af0"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d5051a6e9a122f98"
+    },
+    "date": {
+      "$date": "2026-06-18T11:06:26.214Z"
+    },
+    "liters": 279,
+    "cost": 787,
+    "odometerAtFill": 54849,
+    "createdAt": {
+      "$date": "2026-06-18T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-18T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375325c52b94b8690545c"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d261b32adb80c919"
+    },
+    "date": {
+      "$date": "2026-06-20T11:06:26.214Z"
+    },
+    "liters": 129,
+    "cost": 697,
+    "odometerAtFill": 52631,
+    "createdAt": {
+      "$date": "2026-06-20T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-20T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375322328161e8e53faa6"
+    },
+    "vehicleId": {
+      "$oid": "6a53753204d7faced34c842e"
+    },
+    "date": {
+      "$date": "2026-06-30T11:06:26.214Z"
+    },
+    "liters": 275,
+    "cost": 336,
+    "odometerAtFill": 51357,
+    "createdAt": {
+      "$date": "2026-06-30T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-30T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532790eddf3895ec6ff"
+    },
+    "vehicleId": {
+      "$oid": "6a5375324f2578d59c79ffc4"
+    },
+    "date": {
+      "$date": "2026-06-10T11:06:26.214Z"
+    },
+    "liters": 298,
+    "cost": 588,
+    "odometerAtFill": 54782,
+    "createdAt": {
+      "$date": "2026-06-10T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-10T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b064b233794288cc"
+    },
+    "vehicleId": {
+      "$oid": "6a537532f535fba0e963f2d0"
+    },
+    "date": {
+      "$date": "2026-06-23T11:06:26.214Z"
+    },
+    "liters": 187,
+    "cost": 551,
+    "odometerAtFill": 55576,
+    "createdAt": {
+      "$date": "2026-06-23T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-23T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532703c0165d49ea2c5"
+    },
+    "vehicleId": {
+      "$oid": "6a537532fa21b978d245cbf3"
+    },
+    "date": {
+      "$date": "2026-04-24T11:06:26.214Z"
+    },
+    "liters": 258,
+    "cost": 749,
+    "odometerAtFill": 59087,
+    "createdAt": {
+      "$date": "2026-04-24T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-24T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753243800553ff1daf07"
+    },
+    "vehicleId": {
+      "$oid": "6a537532fa3683ae81cf81c8"
+    },
+    "date": {
+      "$date": "2026-06-10T11:06:26.214Z"
+    },
+    "liters": 251,
+    "cost": 591,
+    "odometerAtFill": 52988,
+    "createdAt": {
+      "$date": "2026-06-10T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-10T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753293e2bdcfbd8239c3"
+    },
+    "vehicleId": {
+      "$oid": "6a537532e74b585c2f6fe219"
+    },
+    "date": {
+      "$date": "2026-05-19T11:06:26.214Z"
+    },
+    "liters": 152,
+    "cost": 405,
+    "odometerAtFill": 54912,
+    "createdAt": {
+      "$date": "2026-05-19T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-19T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375321290e75664780c40"
+    },
+    "vehicleId": {
+      "$oid": "6a5375321c18f16b9d68ca7a"
+    },
+    "date": {
+      "$date": "2026-05-15T11:06:26.214Z"
+    },
+    "liters": 231,
+    "cost": 498,
+    "odometerAtFill": 50859,
+    "createdAt": {
+      "$date": "2026-05-15T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-15T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532286693bf0aa67d6f"
+    },
+    "vehicleId": {
+      "$oid": "6a53753276cf95752712e6d0"
+    },
+    "date": {
+      "$date": "2026-05-08T11:06:26.214Z"
+    },
+    "liters": 277,
+    "cost": 678,
+    "odometerAtFill": 55566,
+    "createdAt": {
+      "$date": "2026-05-08T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-08T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375323a349b63d02dc742"
+    },
+    "vehicleId": {
+      "$oid": "6a5375324a49fd6008113bf7"
+    },
+    "date": {
+      "$date": "2026-04-07T11:06:26.214Z"
+    },
+    "liters": 247,
+    "cost": 327,
+    "odometerAtFill": 55860,
+    "createdAt": {
+      "$date": "2026-04-07T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-07T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b134f928d21476f2"
+    },
+    "vehicleId": {
+      "$oid": "6a537532255379abaa67301c"
+    },
+    "date": {
+      "$date": "2026-07-11T11:06:26.214Z"
+    },
+    "liters": 168,
+    "cost": 389,
+    "odometerAtFill": 59234,
+    "createdAt": {
+      "$date": "2026-07-11T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-11T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532741f7c05f75cd0dd"
+    },
+    "vehicleId": {
+      "$oid": "6a537532fa43d312ce32cc40"
+    },
+    "date": {
+      "$date": "2026-07-04T11:06:26.214Z"
+    },
+    "liters": 141,
+    "cost": 634,
+    "odometerAtFill": 50949,
+    "createdAt": {
+      "$date": "2026-07-04T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-04T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375321169909c54563cf3"
+    },
+    "vehicleId": {
+      "$oid": "6a537532cacdfb54afd8cbbb"
+    },
+    "date": {
+      "$date": "2026-04-06T11:06:26.214Z"
+    },
+    "liters": 140,
+    "cost": 500,
+    "odometerAtFill": 58771,
+    "createdAt": {
+      "$date": "2026-04-06T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-06T11:06:26.214Z"
+    }
+  }
+]

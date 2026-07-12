@@ -1,0 +1,2282 @@
+[
+  {
+    "_id": {
+      "$oid": "6a537532ede2a0829916e773"
+    },
+    "regNo": "TX-1001",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 12451,
+    "odometer": 144232,
+    "acquisitionCost": 120680,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532bf7b08308cff57bf"
+    },
+    "regNo": "TX-1002",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 11620,
+    "odometer": 87860,
+    "acquisitionCost": 161951,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ef64607dc3a3a96f"
+    },
+    "regNo": "TX-1003",
+    "modelName": "Freightliner Cascadia",
+    "type": "Heavy Truck",
+    "capacity": 14751,
+    "odometer": 117784,
+    "acquisitionCost": 154468,
+    "status": "On Trip",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532db1268d5860378dd"
+    },
+    "regNo": "TX-1004",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 13743,
+    "odometer": 115004,
+    "acquisitionCost": 162536,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532722af48f0b8b24d6"
+    },
+    "regNo": "TX-1005",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 14938,
+    "odometer": 149040,
+    "acquisitionCost": 136032,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ad7a590c7b15e370"
+    },
+    "regNo": "TX-1006",
+    "modelName": "Volvo VNL",
+    "type": "Heavy Truck",
+    "capacity": 10179,
+    "odometer": 66498,
+    "acquisitionCost": 132206,
+    "status": "On Trip",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375323900a3f4cf7cc91b"
+    },
+    "regNo": "TX-1007",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 13139,
+    "odometer": 130206,
+    "acquisitionCost": 160995,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532f63dffc4542208b1"
+    },
+    "regNo": "TX-1008",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 14193,
+    "odometer": 54546,
+    "acquisitionCost": 134664,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532cbd23e6f7b1ba64f"
+    },
+    "regNo": "TX-1009",
+    "modelName": "Freightliner Cascadia",
+    "type": "Heavy Truck",
+    "capacity": 10034,
+    "odometer": 52549,
+    "acquisitionCost": 142768,
+    "status": "On Trip",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532a801fa3b77c08f82"
+    },
+    "regNo": "TX-1010",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 10287,
+    "odometer": 121545,
+    "acquisitionCost": 149966,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532abbff0dbc425d985"
+    },
+    "regNo": "TX-1011",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 13685,
+    "odometer": 144325,
+    "acquisitionCost": 158064,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375329a519c45fddb5c87"
+    },
+    "regNo": "TX-1012",
+    "modelName": "Volvo VNL",
+    "type": "Heavy Truck",
+    "capacity": 12341,
+    "odometer": 69989,
+    "acquisitionCost": 137172,
+    "status": "On Trip",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375326fe30d9983f5d39a"
+    },
+    "regNo": "TX-1013",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 12928,
+    "odometer": 72747,
+    "acquisitionCost": 154427,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532979d0eae4eb78a6d"
+    },
+    "regNo": "TX-1014",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 11291,
+    "odometer": 53556,
+    "acquisitionCost": 136622,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c38d45551fc1ceb2"
+    },
+    "regNo": "TX-1015",
+    "modelName": "Freightliner Cascadia",
+    "type": "Heavy Truck",
+    "capacity": 13892,
+    "odometer": 143194,
+    "acquisitionCost": 129282,
+    "status": "On Trip",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b6293e69ce278593"
+    },
+    "regNo": "TX-1016",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 12917,
+    "odometer": 140056,
+    "acquisitionCost": 145446,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753261e64a726353e327"
+    },
+    "regNo": "TX-1017",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 13605,
+    "odometer": 54862,
+    "acquisitionCost": 143509,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532770842ceccfc25f4"
+    },
+    "regNo": "TX-1018",
+    "modelName": "Volvo VNL",
+    "type": "Heavy Truck",
+    "capacity": 13553,
+    "odometer": 109580,
+    "acquisitionCost": 127687,
+    "status": "On Trip",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d2870002fdf80796"
+    },
+    "regNo": "TX-1019",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 14207,
+    "odometer": 128710,
+    "acquisitionCost": 141231,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375320f67b056cc457280"
+    },
+    "regNo": "TX-1020",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 13805,
+    "odometer": 112880,
+    "acquisitionCost": 148585,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328fce8ba4790064fc"
+    },
+    "regNo": "TX-1021",
+    "modelName": "Freightliner Cascadia",
+    "type": "Heavy Truck",
+    "capacity": 11477,
+    "odometer": 130458,
+    "acquisitionCost": 123172,
+    "status": "On Trip",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753276cf95752712e6d0"
+    },
+    "regNo": "TX-1022",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 11006,
+    "odometer": 95713,
+    "acquisitionCost": 169219,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532857ce04d59af84df"
+    },
+    "regNo": "TX-1023",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 10406,
+    "odometer": 119045,
+    "acquisitionCost": 121103,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532969ace0265a2d014"
+    },
+    "regNo": "TX-1024",
+    "modelName": "Volvo VNL",
+    "type": "Heavy Truck",
+    "capacity": 13388,
+    "odometer": 125378,
+    "acquisitionCost": 126512,
+    "status": "On Trip",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375323d385cc5c7d9ba4a"
+    },
+    "regNo": "TX-1025",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 14299,
+    "odometer": 80727,
+    "acquisitionCost": 144459,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c764e14e2199fb1a"
+    },
+    "regNo": "TX-1026",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 10060,
+    "odometer": 59499,
+    "acquisitionCost": 126498,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375320e55bd8657dd72f9"
+    },
+    "regNo": "TX-1027",
+    "modelName": "Freightliner Cascadia",
+    "type": "Heavy Truck",
+    "capacity": 12688,
+    "odometer": 141729,
+    "acquisitionCost": 148560,
+    "status": "On Trip",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375323d3c0da81ce6e3d9"
+    },
+    "regNo": "TX-1028",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 10580,
+    "odometer": 112299,
+    "acquisitionCost": 152014,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375329d977257aed6269d"
+    },
+    "regNo": "TX-1029",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 14085,
+    "odometer": 70492,
+    "acquisitionCost": 132892,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c8016eb054e448d3"
+    },
+    "regNo": "TX-1030",
+    "modelName": "Volvo VNL",
+    "type": "Heavy Truck",
+    "capacity": 10988,
+    "odometer": 75450,
+    "acquisitionCost": 162634,
+    "status": "On Trip",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532aa2d02d0f9841ca2"
+    },
+    "regNo": "TX-1031",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 14899,
+    "odometer": 109190,
+    "acquisitionCost": 158737,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532255379abaa67301c"
+    },
+    "regNo": "TX-1032",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 13582,
+    "odometer": 103151,
+    "acquisitionCost": 138017,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d15abd456e05f8fd"
+    },
+    "regNo": "TX-1033",
+    "modelName": "Freightliner Cascadia",
+    "type": "Heavy Truck",
+    "capacity": 13808,
+    "odometer": 93288,
+    "acquisitionCost": 153463,
+    "status": "On Trip",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753255ac7f036331b094"
+    },
+    "regNo": "TX-1034",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 14758,
+    "odometer": 128144,
+    "acquisitionCost": 126702,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328e45d97946510c6c"
+    },
+    "regNo": "TX-1035",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 12533,
+    "odometer": 129817,
+    "acquisitionCost": 160314,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753299467b1398761cc3"
+    },
+    "regNo": "TX-1036",
+    "modelName": "Volvo VNL",
+    "type": "Heavy Truck",
+    "capacity": 11209,
+    "odometer": 94191,
+    "acquisitionCost": 164029,
+    "status": "On Trip",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532969f6a1d8454cc21"
+    },
+    "regNo": "TX-1037",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 12349,
+    "odometer": 52859,
+    "acquisitionCost": 128247,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532cb38b971aeab4267"
+    },
+    "regNo": "TX-1038",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 13997,
+    "odometer": 64713,
+    "acquisitionCost": 162652,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375324f2578d59c79ffc4"
+    },
+    "regNo": "TX-1039",
+    "modelName": "Freightliner Cascadia",
+    "type": "Heavy Truck",
+    "capacity": 13719,
+    "odometer": 148513,
+    "acquisitionCost": 152890,
+    "status": "On Trip",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753298af98bf93f2e67f"
+    },
+    "regNo": "TX-1040",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 12610,
+    "odometer": 65832,
+    "acquisitionCost": 162218,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753244f5d8bd947a3460"
+    },
+    "regNo": "TX-1041",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 14646,
+    "odometer": 71595,
+    "acquisitionCost": 123433,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532778f815533808676"
+    },
+    "regNo": "TX-1042",
+    "modelName": "Volvo VNL",
+    "type": "Heavy Truck",
+    "capacity": 10208,
+    "odometer": 111424,
+    "acquisitionCost": 169912,
+    "status": "On Trip",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532f75b9b0eaccfb85a"
+    },
+    "regNo": "TX-1043",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 12852,
+    "odometer": 137083,
+    "acquisitionCost": 158572,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532aa7c9dc5b05fa49d"
+    },
+    "regNo": "TX-1044",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 12566,
+    "odometer": 125136,
+    "acquisitionCost": 126203,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753243efb3119ecee5ca"
+    },
+    "regNo": "TX-1045",
+    "modelName": "Freightliner Cascadia",
+    "type": "Heavy Truck",
+    "capacity": 13893,
+    "odometer": 148315,
+    "acquisitionCost": 121972,
+    "status": "On Trip",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753257a6154398f540e7"
+    },
+    "regNo": "TX-1046",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 10512,
+    "odometer": 81663,
+    "acquisitionCost": 143071,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e1a0b51f20b7a52e"
+    },
+    "regNo": "TX-1047",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 11515,
+    "odometer": 69224,
+    "acquisitionCost": 165279,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d5051a6e9a122f98"
+    },
+    "regNo": "TX-1048",
+    "modelName": "Volvo VNL",
+    "type": "Heavy Truck",
+    "capacity": 14967,
+    "odometer": 63427,
+    "acquisitionCost": 156688,
+    "status": "On Trip",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753270af727a07b7a465"
+    },
+    "regNo": "TX-1049",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 11112,
+    "odometer": 144287,
+    "acquisitionCost": 138578,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328ced866d015284f9"
+    },
+    "regNo": "TX-1050",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 13261,
+    "odometer": 98544,
+    "acquisitionCost": 142558,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753214ebb5e57da6ee1c"
+    },
+    "regNo": "TX-1051",
+    "modelName": "Freightliner Cascadia",
+    "type": "Heavy Truck",
+    "capacity": 14620,
+    "odometer": 120629,
+    "acquisitionCost": 127567,
+    "status": "On Trip",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532f535fba0e963f2d0"
+    },
+    "regNo": "TX-1052",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 11036,
+    "odometer": 124098,
+    "acquisitionCost": 134083,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753287b6f7d8b78fb771"
+    },
+    "regNo": "TX-1053",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 10899,
+    "odometer": 116346,
+    "acquisitionCost": 160884,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375323cedae00cf2d4779"
+    },
+    "regNo": "TX-1054",
+    "modelName": "Volvo VNL",
+    "type": "Heavy Truck",
+    "capacity": 13511,
+    "odometer": 119981,
+    "acquisitionCost": 131102,
+    "status": "On Trip",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e9aab06a1d5a96ba"
+    },
+    "regNo": "TX-1055",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 11073,
+    "odometer": 130247,
+    "acquisitionCost": 126427,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375321c18f16b9d68ca7a"
+    },
+    "regNo": "TX-1056",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 12388,
+    "odometer": 65420,
+    "acquisitionCost": 161319,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532fa43d312ce32cc40"
+    },
+    "regNo": "TX-1057",
+    "modelName": "Freightliner Cascadia",
+    "type": "Heavy Truck",
+    "capacity": 11838,
+    "odometer": 140548,
+    "acquisitionCost": 164136,
+    "status": "On Trip",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328b2320ab0c463f9f"
+    },
+    "regNo": "TX-1058",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 10889,
+    "odometer": 56734,
+    "acquisitionCost": 168493,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532f481048c0ff15c36"
+    },
+    "regNo": "TX-1059",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 10339,
+    "odometer": 148395,
+    "acquisitionCost": 158308,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532fa21b978d245cbf3"
+    },
+    "regNo": "TX-1060",
+    "modelName": "Volvo VNL",
+    "type": "Heavy Truck",
+    "capacity": 14866,
+    "odometer": 141296,
+    "acquisitionCost": 136201,
+    "status": "On Trip",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c29c0d31ab2fe56b"
+    },
+    "regNo": "TX-1061",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 13867,
+    "odometer": 139160,
+    "acquisitionCost": 160217,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753271ec652aa4a74cf7"
+    },
+    "regNo": "TX-1062",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 10124,
+    "odometer": 55571,
+    "acquisitionCost": 148802,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ebb6ca8478f765d8"
+    },
+    "regNo": "TX-1063",
+    "modelName": "Freightliner Cascadia",
+    "type": "Heavy Truck",
+    "capacity": 12110,
+    "odometer": 57767,
+    "acquisitionCost": 136843,
+    "status": "On Trip",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375321e2427b4ed2f7d85"
+    },
+    "regNo": "TX-1064",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 11514,
+    "odometer": 101754,
+    "acquisitionCost": 149292,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753208a40b9a8dfed801"
+    },
+    "regNo": "TX-1065",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 10868,
+    "odometer": 75201,
+    "acquisitionCost": 126870,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ec602c9664600f73"
+    },
+    "regNo": "TX-1066",
+    "modelName": "Volvo VNL",
+    "type": "Heavy Truck",
+    "capacity": 11431,
+    "odometer": 89412,
+    "acquisitionCost": 151760,
+    "status": "On Trip",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375327cddf8a10a787fc4"
+    },
+    "regNo": "TX-1067",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 13327,
+    "odometer": 147876,
+    "acquisitionCost": 148852,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d261b32adb80c919"
+    },
+    "regNo": "TX-1068",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 14135,
+    "odometer": 137977,
+    "acquisitionCost": 160128,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ad948c302d9b9d36"
+    },
+    "regNo": "TX-1069",
+    "modelName": "Freightliner Cascadia",
+    "type": "Heavy Truck",
+    "capacity": 10396,
+    "odometer": 85302,
+    "acquisitionCost": 148186,
+    "status": "On Trip",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e0e68d11eab17c6d"
+    },
+    "regNo": "TX-1070",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 12994,
+    "odometer": 99495,
+    "acquisitionCost": 120671,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375329e514365c0a0c000"
+    },
+    "regNo": "TX-1071",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 12912,
+    "odometer": 55201,
+    "acquisitionCost": 139988,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532063aec266daf5cab"
+    },
+    "regNo": "TX-1072",
+    "modelName": "Volvo VNL",
+    "type": "Heavy Truck",
+    "capacity": 10624,
+    "odometer": 95899,
+    "acquisitionCost": 149059,
+    "status": "On Trip",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753227eb7b2d61bf5e60"
+    },
+    "regNo": "TX-1073",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 11903,
+    "odometer": 113627,
+    "acquisitionCost": 132115,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d27de402eb5b49be"
+    },
+    "regNo": "TX-1074",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 10685,
+    "odometer": 68265,
+    "acquisitionCost": 127135,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375326f50776fb9183408"
+    },
+    "regNo": "TX-1075",
+    "modelName": "Freightliner Cascadia",
+    "type": "Heavy Truck",
+    "capacity": 10875,
+    "odometer": 103682,
+    "acquisitionCost": 148496,
+    "status": "On Trip",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375324b69c299e40628a3"
+    },
+    "regNo": "TX-1076",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 12337,
+    "odometer": 57785,
+    "acquisitionCost": 145271,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375324a49fd6008113bf7"
+    },
+    "regNo": "TX-1077",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 10392,
+    "odometer": 127056,
+    "acquisitionCost": 122968,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532fcdd038fb086297c"
+    },
+    "regNo": "TX-1078",
+    "modelName": "Volvo VNL",
+    "type": "Heavy Truck",
+    "capacity": 14825,
+    "odometer": 128653,
+    "acquisitionCost": 163613,
+    "status": "On Trip",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375320545a276bf362d82"
+    },
+    "regNo": "TX-1079",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 14791,
+    "odometer": 147699,
+    "acquisitionCost": 143602,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532f79182d0f01ce443"
+    },
+    "regNo": "TX-1080",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 10054,
+    "odometer": 85051,
+    "acquisitionCost": 160308,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532944356d4b32f442e"
+    },
+    "regNo": "TX-1081",
+    "modelName": "Freightliner Cascadia",
+    "type": "Heavy Truck",
+    "capacity": 10530,
+    "odometer": 147890,
+    "acquisitionCost": 149143,
+    "status": "On Trip",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532345752c1143c20cf"
+    },
+    "regNo": "TX-1082",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 14709,
+    "odometer": 72769,
+    "acquisitionCost": 132021,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375329bb74d9605d0e399"
+    },
+    "regNo": "TX-1083",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 13980,
+    "odometer": 108315,
+    "acquisitionCost": 141384,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328c62c4bac17baffa"
+    },
+    "regNo": "TX-1084",
+    "modelName": "Volvo VNL",
+    "type": "Heavy Truck",
+    "capacity": 13235,
+    "odometer": 133422,
+    "acquisitionCost": 160307,
+    "status": "On Trip",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753294207e0b4597028f"
+    },
+    "regNo": "TX-1085",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 11969,
+    "odometer": 75538,
+    "acquisitionCost": 120980,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d2bef07dbca363b6"
+    },
+    "regNo": "TX-1086",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 14564,
+    "odometer": 116388,
+    "acquisitionCost": 141664,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375325dc630423a122cc5"
+    },
+    "regNo": "TX-1087",
+    "modelName": "Freightliner Cascadia",
+    "type": "Heavy Truck",
+    "capacity": 11167,
+    "odometer": 103271,
+    "acquisitionCost": 148815,
+    "status": "On Trip",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ea3d78ed7587e39a"
+    },
+    "regNo": "TX-1088",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 12454,
+    "odometer": 81946,
+    "acquisitionCost": 151052,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532709c7a1e42682253"
+    },
+    "regNo": "TX-1089",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 10302,
+    "odometer": 145978,
+    "acquisitionCost": 156538,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c6f05e6badaf85dc"
+    },
+    "regNo": "TX-1090",
+    "modelName": "Volvo VNL",
+    "type": "Heavy Truck",
+    "capacity": 13511,
+    "odometer": 56162,
+    "acquisitionCost": 159253,
+    "status": "On Trip",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753204d7faced34c842e"
+    },
+    "regNo": "TX-1091",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 13099,
+    "odometer": 131019,
+    "acquisitionCost": 146827,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532fa3683ae81cf81c8"
+    },
+    "regNo": "TX-1092",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 14834,
+    "odometer": 111163,
+    "acquisitionCost": 154462,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d4d3a0fd39a49c05"
+    },
+    "regNo": "TX-1093",
+    "modelName": "Freightliner Cascadia",
+    "type": "Heavy Truck",
+    "capacity": 10829,
+    "odometer": 124315,
+    "acquisitionCost": 124261,
+    "status": "On Trip",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d8392f0a02f9b47e"
+    },
+    "regNo": "TX-1094",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 12728,
+    "odometer": 108603,
+    "acquisitionCost": 127149,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532f13d4fae78a6ccf8"
+    },
+    "regNo": "TX-1095",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 11772,
+    "odometer": 135948,
+    "acquisitionCost": 147829,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753295bf37977257af49"
+    },
+    "regNo": "TX-1096",
+    "modelName": "Volvo VNL",
+    "type": "Heavy Truck",
+    "capacity": 12820,
+    "odometer": 50281,
+    "acquisitionCost": 141643,
+    "status": "On Trip",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b0cd6f6772b49e2a"
+    },
+    "regNo": "TX-1097",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 12372,
+    "odometer": 64749,
+    "acquisitionCost": 167968,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ce83131a8bed31a1"
+    },
+    "regNo": "TX-1098",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 12796,
+    "odometer": 100289,
+    "acquisitionCost": 127311,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532cacdfb54afd8cbbb"
+    },
+    "regNo": "TX-1099",
+    "modelName": "Freightliner Cascadia",
+    "type": "Heavy Truck",
+    "capacity": 14864,
+    "odometer": 113617,
+    "acquisitionCost": 123752,
+    "status": "On Trip",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.208Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e74b585c2f6fe219"
+    },
+    "regNo": "TX-1100",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 14471,
+    "odometer": 69473,
+    "acquisitionCost": 150285,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532a333fe1805b49af8"
+    },
+    "regNo": "TX-1101",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 12128,
+    "odometer": 145601,
+    "acquisitionCost": 140573,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532a31adf2f891934e0"
+    },
+    "regNo": "TX-1102",
+    "modelName": "Volvo VNL",
+    "type": "Heavy Truck",
+    "capacity": 11396,
+    "odometer": 137826,
+    "acquisitionCost": 126948,
+    "status": "On Trip",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c4419b4592f206da"
+    },
+    "regNo": "TX-1103",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 10678,
+    "odometer": 57433,
+    "acquisitionCost": 151683,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532bacaa40029b3168e"
+    },
+    "regNo": "TX-1104",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 11549,
+    "odometer": 149584,
+    "acquisitionCost": 121912,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375329f4ffbbdfe7bef27"
+    },
+    "regNo": "TX-1105",
+    "modelName": "Freightliner Cascadia",
+    "type": "Heavy Truck",
+    "capacity": 12697,
+    "odometer": 113192,
+    "acquisitionCost": 157831,
+    "status": "On Trip",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532418cd127bc716388"
+    },
+    "regNo": "TX-1106",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 10223,
+    "odometer": 145647,
+    "acquisitionCost": 159256,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532f67e5deda61605e9"
+    },
+    "regNo": "TX-1107",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 10317,
+    "odometer": 79934,
+    "acquisitionCost": 153169,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d8fa492292b9294c"
+    },
+    "regNo": "TX-1108",
+    "modelName": "Volvo VNL",
+    "type": "Heavy Truck",
+    "capacity": 11952,
+    "odometer": 55883,
+    "acquisitionCost": 158296,
+    "status": "On Trip",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532941ce5e1b9cdbd40"
+    },
+    "regNo": "TX-1109",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 11953,
+    "odometer": 114983,
+    "acquisitionCost": 153272,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b13f640cf28c8b6d"
+    },
+    "regNo": "TX-1110",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 10811,
+    "odometer": 143428,
+    "acquisitionCost": 154797,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375329512ed67474663de"
+    },
+    "regNo": "TX-1111",
+    "modelName": "Freightliner Cascadia",
+    "type": "Heavy Truck",
+    "capacity": 10053,
+    "odometer": 62401,
+    "acquisitionCost": 153208,
+    "status": "On Trip",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532877fa9398aa577df"
+    },
+    "regNo": "TX-1112",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 12642,
+    "odometer": 117932,
+    "acquisitionCost": 121453,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ac44d3ab84145978"
+    },
+    "regNo": "TX-1113",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 10201,
+    "odometer": 80379,
+    "acquisitionCost": 144314,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532cc2314a7fc9f9d9f"
+    },
+    "regNo": "TX-1114",
+    "modelName": "Volvo VNL",
+    "type": "Heavy Truck",
+    "capacity": 14291,
+    "odometer": 84688,
+    "acquisitionCost": 137894,
+    "status": "On Trip",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375329dfa899f42e698cc"
+    },
+    "regNo": "TX-1115",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 12123,
+    "odometer": 91881,
+    "acquisitionCost": 157039,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375326e6275a73cc6ffdf"
+    },
+    "regNo": "TX-1116",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 14445,
+    "odometer": 126438,
+    "acquisitionCost": 166107,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753201348b741cd5ad0b"
+    },
+    "regNo": "TX-1117",
+    "modelName": "Freightliner Cascadia",
+    "type": "Heavy Truck",
+    "capacity": 10870,
+    "odometer": 103543,
+    "acquisitionCost": 150928,
+    "status": "On Trip",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b4cb97f396b6dfcb"
+    },
+    "regNo": "TX-1118",
+    "modelName": "Volvo VNL",
+    "type": "Medium Van",
+    "capacity": 14825,
+    "odometer": 62132,
+    "acquisitionCost": 169730,
+    "status": "Available",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b3f402f36e020ef6"
+    },
+    "regNo": "TX-1119",
+    "modelName": "Freightliner Cascadia",
+    "type": "Medium Van",
+    "capacity": 10451,
+    "odometer": 116177,
+    "acquisitionCost": 141809,
+    "status": "Available",
+    "region": "Europe",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328bbb31d3815b64e1"
+    },
+    "regNo": "TX-1120",
+    "modelName": "Volvo VNL",
+    "type": "Heavy Truck",
+    "capacity": 11823,
+    "odometer": 139323,
+    "acquisitionCost": 127948,
+    "status": "On Trip",
+    "region": "North America",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.209Z"
+    }
+  }
+]

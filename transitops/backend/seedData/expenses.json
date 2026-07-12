@@ -1,0 +1,2402 @@
+[
+  {
+    "_id": {
+      "$oid": "6a5375328a58d39fa3176454"
+    },
+    "vehicleId": {
+      "$oid": "6a53753208a40b9a8dfed801"
+    },
+    "date": {
+      "$date": "2026-07-02T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 558,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-07-02T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-02T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c3929cf651842d56"
+    },
+    "vehicleId": {
+      "$oid": "6a53753201348b741cd5ad0b"
+    },
+    "date": {
+      "$date": "2026-06-07T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 750,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-07T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-07T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532248e3fb5e381c0b9"
+    },
+    "vehicleId": {
+      "$oid": "6a537532cb38b971aeab4267"
+    },
+    "date": {
+      "$date": "2026-04-21T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 1800,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-04-21T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-21T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375324b0bc53f5c3734f6"
+    },
+    "vehicleId": {
+      "$oid": "6a5375329dfa899f42e698cc"
+    },
+    "date": {
+      "$date": "2026-07-10T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 1932,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-07-10T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-10T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328fa72a396d9a64a5"
+    },
+    "vehicleId": {
+      "$oid": "6a5375321e2427b4ed2f7d85"
+    },
+    "date": {
+      "$date": "2026-04-20T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 1195,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-04-20T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-20T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753251bc6830401e62e9"
+    },
+    "vehicleId": {
+      "$oid": "6a537532cc2314a7fc9f9d9f"
+    },
+    "date": {
+      "$date": "2026-06-28T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 1444,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-28T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-28T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532920fa9f356f9e7ec"
+    },
+    "vehicleId": {
+      "$oid": "6a53753208a40b9a8dfed801"
+    },
+    "date": {
+      "$date": "2026-06-26T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 1804,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-26T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-26T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375322d6f5d144235f112"
+    },
+    "vehicleId": {
+      "$oid": "6a5375329a519c45fddb5c87"
+    },
+    "date": {
+      "$date": "2026-05-06T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 1693,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-06T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-06T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753298012ef45319f4ba"
+    },
+    "vehicleId": {
+      "$oid": "6a5375326f50776fb9183408"
+    },
+    "date": {
+      "$date": "2026-06-13T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 1814,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-13T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-13T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375325f08552872d48dff"
+    },
+    "vehicleId": {
+      "$oid": "6a537532b0cd6f6772b49e2a"
+    },
+    "date": {
+      "$date": "2026-05-30T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 868,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-30T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-30T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532933b20bfb4c19b1e"
+    },
+    "vehicleId": {
+      "$oid": "6a5375326e6275a73cc6ffdf"
+    },
+    "date": {
+      "$date": "2026-06-21T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 1868,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-21T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-21T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e060d8486e098184"
+    },
+    "vehicleId": {
+      "$oid": "6a537532255379abaa67301c"
+    },
+    "date": {
+      "$date": "2026-04-20T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 1851,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-04-20T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-20T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375327c53896c83dc5c5b"
+    },
+    "vehicleId": {
+      "$oid": "6a5375327cddf8a10a787fc4"
+    },
+    "date": {
+      "$date": "2026-07-12T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 1642,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-07-12T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-12T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375327dc1ef2fc6a3e682"
+    },
+    "vehicleId": {
+      "$oid": "6a5375323d385cc5c7d9ba4a"
+    },
+    "date": {
+      "$date": "2026-04-17T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 1470,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-04-17T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-17T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375329453b52e8c9208e7"
+    },
+    "vehicleId": {
+      "$oid": "6a53753276cf95752712e6d0"
+    },
+    "date": {
+      "$date": "2026-06-07T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 966,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-07T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-07T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532eebc0645f8c76323"
+    },
+    "vehicleId": {
+      "$oid": "6a537532c764e14e2199fb1a"
+    },
+    "date": {
+      "$date": "2026-05-29T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 802,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-29T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-29T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532a1188230b5dee4af"
+    },
+    "vehicleId": {
+      "$oid": "6a537532b4cb97f396b6dfcb"
+    },
+    "date": {
+      "$date": "2026-05-17T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 678,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-17T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-17T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b7adbaa6f0d27db9"
+    },
+    "vehicleId": {
+      "$oid": "6a5375329d977257aed6269d"
+    },
+    "date": {
+      "$date": "2026-05-08T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 1378,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-08T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-08T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753263e302bb48eb9325"
+    },
+    "vehicleId": {
+      "$oid": "6a537532f63dffc4542208b1"
+    },
+    "date": {
+      "$date": "2026-06-29T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 1756,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-29T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-29T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532f73aa3468fb8d55d"
+    },
+    "vehicleId": {
+      "$oid": "6a5375324f2578d59c79ffc4"
+    },
+    "date": {
+      "$date": "2026-07-02T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 1964,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-07-02T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-02T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375329fcb62f595d467c3"
+    },
+    "vehicleId": {
+      "$oid": "6a53753270af727a07b7a465"
+    },
+    "date": {
+      "$date": "2026-05-25T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 1213,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-25T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-25T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532153bbf9ac1c2773d"
+    },
+    "vehicleId": {
+      "$oid": "6a53753243efb3119ecee5ca"
+    },
+    "date": {
+      "$date": "2026-05-18T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 1440,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-18T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-18T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ac0c83b4978d4460"
+    },
+    "vehicleId": {
+      "$oid": "6a537532cc2314a7fc9f9d9f"
+    },
+    "date": {
+      "$date": "2026-06-23T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 1390,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-23T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-23T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753204e3c3565df8fcc2"
+    },
+    "vehicleId": {
+      "$oid": "6a5375328e45d97946510c6c"
+    },
+    "date": {
+      "$date": "2026-07-02T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 1297,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-07-02T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-02T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375324ad6d60deecc7236"
+    },
+    "vehicleId": {
+      "$oid": "6a5375321e2427b4ed2f7d85"
+    },
+    "date": {
+      "$date": "2026-07-09T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 610,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-07-09T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-09T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532aaced557f61779d1"
+    },
+    "vehicleId": {
+      "$oid": "6a537532fcdd038fb086297c"
+    },
+    "date": {
+      "$date": "2026-04-07T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 1395,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-04-07T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-07T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532332e2e1dc0b2798f"
+    },
+    "vehicleId": {
+      "$oid": "6a53753287b6f7d8b78fb771"
+    },
+    "date": {
+      "$date": "2026-05-28T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 686,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-28T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-28T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532622f35b728ef6383"
+    },
+    "vehicleId": {
+      "$oid": "6a537532cacdfb54afd8cbbb"
+    },
+    "date": {
+      "$date": "2026-06-29T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 1845,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-29T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-29T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375324ea42f4f2b223e9d"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d261b32adb80c919"
+    },
+    "date": {
+      "$date": "2026-04-28T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 619,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-04-28T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-28T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375323755be19b55b769b"
+    },
+    "vehicleId": {
+      "$oid": "6a537532c6f05e6badaf85dc"
+    },
+    "date": {
+      "$date": "2026-05-24T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 1977,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-24T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-24T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b09cef841e7e1159"
+    },
+    "vehicleId": {
+      "$oid": "6a537532e9aab06a1d5a96ba"
+    },
+    "date": {
+      "$date": "2026-06-15T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 1693,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-15T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-15T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375327570ab579b276189"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d15abd456e05f8fd"
+    },
+    "date": {
+      "$date": "2026-06-05T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 1160,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-05T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-05T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375321e95478420f3b566"
+    },
+    "vehicleId": {
+      "$oid": "6a5375324f2578d59c79ffc4"
+    },
+    "date": {
+      "$date": "2026-05-19T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 1659,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-19T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-19T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375329b5d64c3f52f2aa7"
+    },
+    "vehicleId": {
+      "$oid": "6a537532969ace0265a2d014"
+    },
+    "date": {
+      "$date": "2026-05-29T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 1845,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-29T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-29T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375324906517f72802df0"
+    },
+    "vehicleId": {
+      "$oid": "6a537532a31adf2f891934e0"
+    },
+    "date": {
+      "$date": "2026-05-02T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 1509,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-02T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-02T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b9f1517eb46977c5"
+    },
+    "vehicleId": {
+      "$oid": "6a537532fa21b978d245cbf3"
+    },
+    "date": {
+      "$date": "2026-06-30T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 506,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-30T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-30T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753202caa89b1540bcd5"
+    },
+    "vehicleId": {
+      "$oid": "6a537532b4cb97f396b6dfcb"
+    },
+    "date": {
+      "$date": "2026-06-25T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 1392,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-25T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-25T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753275dc356e780e5a76"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ce83131a8bed31a1"
+    },
+    "date": {
+      "$date": "2026-05-26T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 547,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-26T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-26T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d9dd30f412ef5603"
+    },
+    "vehicleId": {
+      "$oid": "6a537532709c7a1e42682253"
+    },
+    "date": {
+      "$date": "2026-04-27T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 991,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-04-27T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-27T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532a6eeb160d394bee8"
+    },
+    "vehicleId": {
+      "$oid": "6a537532b0cd6f6772b49e2a"
+    },
+    "date": {
+      "$date": "2026-05-07T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 709,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-07T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-07T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d2b1ee5f2b52a2a5"
+    },
+    "vehicleId": {
+      "$oid": "6a537532e9aab06a1d5a96ba"
+    },
+    "date": {
+      "$date": "2026-05-29T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 548,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-29T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-29T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532dc44687676022dd7"
+    },
+    "vehicleId": {
+      "$oid": "6a53753261e64a726353e327"
+    },
+    "date": {
+      "$date": "2026-06-03T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 1189,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-03T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-03T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b3cf2d31734e3e5b"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ce83131a8bed31a1"
+    },
+    "date": {
+      "$date": "2026-06-24T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 1932,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-24T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-24T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b6b8caa344a304eb"
+    },
+    "vehicleId": {
+      "$oid": "6a537532857ce04d59af84df"
+    },
+    "date": {
+      "$date": "2026-05-01T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 1958,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-01T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-01T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532cf40254cd57d084c"
+    },
+    "vehicleId": {
+      "$oid": "6a537532857ce04d59af84df"
+    },
+    "date": {
+      "$date": "2026-05-24T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 1911,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-24T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-24T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532994b6930b21f07e1"
+    },
+    "vehicleId": {
+      "$oid": "6a5375328e45d97946510c6c"
+    },
+    "date": {
+      "$date": "2026-04-10T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 658,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-04-10T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-10T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532fb6c1b3ba50fa6f5"
+    },
+    "vehicleId": {
+      "$oid": "6a537532c6f05e6badaf85dc"
+    },
+    "date": {
+      "$date": "2026-04-17T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 995,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-04-17T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-17T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532fb08fd0032affcd2"
+    },
+    "vehicleId": {
+      "$oid": "6a537532255379abaa67301c"
+    },
+    "date": {
+      "$date": "2026-04-27T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 532,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-04-27T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-27T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e6907dce1c90ae95"
+    },
+    "vehicleId": {
+      "$oid": "6a537532c4419b4592f206da"
+    },
+    "date": {
+      "$date": "2026-06-17T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 1419,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-17T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-17T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375326d0b23490ba6d2d2"
+    },
+    "vehicleId": {
+      "$oid": "6a537532b13f640cf28c8b6d"
+    },
+    "date": {
+      "$date": "2026-04-20T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 1053,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-04-20T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-20T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375329eaf9e7b078d5fec"
+    },
+    "vehicleId": {
+      "$oid": "6a53753261e64a726353e327"
+    },
+    "date": {
+      "$date": "2026-06-24T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 1332,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-24T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-24T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375321f4ffa8f3cf910d1"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ad948c302d9b9d36"
+    },
+    "date": {
+      "$date": "2026-05-16T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 1987,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-16T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-16T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753290f9f0ffe25b45c9"
+    },
+    "vehicleId": {
+      "$oid": "6a5375327cddf8a10a787fc4"
+    },
+    "date": {
+      "$date": "2026-04-12T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 643,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-04-12T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-12T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e3418ed972be6b6c"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d27de402eb5b49be"
+    },
+    "date": {
+      "$date": "2026-05-09T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 997,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-09T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-09T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ddb42518378a4cc9"
+    },
+    "vehicleId": {
+      "$oid": "6a537532709c7a1e42682253"
+    },
+    "date": {
+      "$date": "2026-05-29T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 1480,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-29T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-29T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753267b1e2531c7f9470"
+    },
+    "vehicleId": {
+      "$oid": "6a53753214ebb5e57da6ee1c"
+    },
+    "date": {
+      "$date": "2026-06-22T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 1323,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-22T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-22T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c58c47971c58576e"
+    },
+    "vehicleId": {
+      "$oid": "6a537532cb38b971aeab4267"
+    },
+    "date": {
+      "$date": "2026-06-02T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 1510,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-02T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-02T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532cb6333c9cf69e8fe"
+    },
+    "vehicleId": {
+      "$oid": "6a537532e1a0b51f20b7a52e"
+    },
+    "date": {
+      "$date": "2026-04-16T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 1398,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-04-16T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-16T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375323de753186fc82bee"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ad948c302d9b9d36"
+    },
+    "date": {
+      "$date": "2026-06-07T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 1420,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-07T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-07T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532bc95308cb83e05f3"
+    },
+    "vehicleId": {
+      "$oid": "6a537532fcdd038fb086297c"
+    },
+    "date": {
+      "$date": "2026-05-20T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 889,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-20T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-20T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753268d58e4c7b976b41"
+    },
+    "vehicleId": {
+      "$oid": "6a537532b13f640cf28c8b6d"
+    },
+    "date": {
+      "$date": "2026-06-17T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 1565,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-17T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-17T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532396940abceb3685d"
+    },
+    "vehicleId": {
+      "$oid": "6a5375327cddf8a10a787fc4"
+    },
+    "date": {
+      "$date": "2026-07-08T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 740,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-07-08T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-08T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532aacb4df95da0da20"
+    },
+    "vehicleId": {
+      "$oid": "6a537532969ace0265a2d014"
+    },
+    "date": {
+      "$date": "2026-04-29T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 1639,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-04-29T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-29T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375329ba5d2db7e91252e"
+    },
+    "vehicleId": {
+      "$oid": "6a5375329512ed67474663de"
+    },
+    "date": {
+      "$date": "2026-05-12T11:06:26.214Z"
+    },
+    "type": "Maintenance",
+    "amount": 566,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-12T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-12T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e50a7c70db883267"
+    },
+    "vehicleId": {
+      "$oid": "6a537532e9aab06a1d5a96ba"
+    },
+    "date": {
+      "$date": "2026-07-08T11:06:26.214Z"
+    },
+    "type": "Insurance",
+    "amount": 991,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-07-08T11:06:26.214Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-08T11:06:26.214Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328d8bb9bcc8f74eda"
+    },
+    "vehicleId": {
+      "$oid": "6a537532f13d4fae78a6ccf8"
+    },
+    "date": {
+      "$date": "2026-05-11T11:06:26.215Z"
+    },
+    "type": "Maintenance",
+    "amount": 571,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-11T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-11T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753214eec5cab2004ff9"
+    },
+    "vehicleId": {
+      "$oid": "6a537532e0e68d11eab17c6d"
+    },
+    "date": {
+      "$date": "2026-05-17T11:06:26.215Z"
+    },
+    "type": "Insurance",
+    "amount": 1965,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-17T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-17T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753229060bf0e6c4903c"
+    },
+    "vehicleId": {
+      "$oid": "6a53753294207e0b4597028f"
+    },
+    "date": {
+      "$date": "2026-04-12T11:06:26.215Z"
+    },
+    "type": "Maintenance",
+    "amount": 971,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-04-12T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-12T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532aa3250d527989b7a"
+    },
+    "vehicleId": {
+      "$oid": "6a53753299467b1398761cc3"
+    },
+    "date": {
+      "$date": "2026-04-12T11:06:26.215Z"
+    },
+    "type": "Insurance",
+    "amount": 1478,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-04-12T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-12T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753280c48e8db85f5f60"
+    },
+    "vehicleId": {
+      "$oid": "6a537532b6293e69ce278593"
+    },
+    "date": {
+      "$date": "2026-05-14T11:06:26.215Z"
+    },
+    "type": "Maintenance",
+    "amount": 1352,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-14T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-14T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d5131e3a0d5a2f25"
+    },
+    "vehicleId": {
+      "$oid": "6a537532a31adf2f891934e0"
+    },
+    "date": {
+      "$date": "2026-04-18T11:06:26.215Z"
+    },
+    "type": "Insurance",
+    "amount": 1434,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-04-18T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-18T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375325d799b42d8604cc2"
+    },
+    "vehicleId": {
+      "$oid": "6a5375326fe30d9983f5d39a"
+    },
+    "date": {
+      "$date": "2026-04-08T11:06:26.215Z"
+    },
+    "type": "Maintenance",
+    "amount": 1177,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-04-08T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-08T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753267be34837de1f785"
+    },
+    "vehicleId": {
+      "$oid": "6a537532e9aab06a1d5a96ba"
+    },
+    "date": {
+      "$date": "2026-07-09T11:06:26.215Z"
+    },
+    "type": "Insurance",
+    "amount": 1914,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-07-09T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-09T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e66357520280c53f"
+    },
+    "vehicleId": {
+      "$oid": "6a537532f75b9b0eaccfb85a"
+    },
+    "date": {
+      "$date": "2026-07-05T11:06:26.215Z"
+    },
+    "type": "Maintenance",
+    "amount": 1289,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-07-05T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-05T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b1957e4b6b0d734c"
+    },
+    "vehicleId": {
+      "$oid": "6a537532345752c1143c20cf"
+    },
+    "date": {
+      "$date": "2026-06-11T11:06:26.215Z"
+    },
+    "type": "Insurance",
+    "amount": 1923,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-11T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-11T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532dec4ba4427634fd8"
+    },
+    "vehicleId": {
+      "$oid": "6a5375324a49fd6008113bf7"
+    },
+    "date": {
+      "$date": "2026-05-24T11:06:26.215Z"
+    },
+    "type": "Maintenance",
+    "amount": 1519,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-24T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-24T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e6a6818472652847"
+    },
+    "vehicleId": {
+      "$oid": "6a537532fa21b978d245cbf3"
+    },
+    "date": {
+      "$date": "2026-07-01T11:06:26.215Z"
+    },
+    "type": "Insurance",
+    "amount": 929,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-07-01T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-01T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c4113add7c9bd7ef"
+    },
+    "vehicleId": {
+      "$oid": "6a537532e0e68d11eab17c6d"
+    },
+    "date": {
+      "$date": "2026-05-25T11:06:26.215Z"
+    },
+    "type": "Maintenance",
+    "amount": 1428,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-25T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-25T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532cef9e1e0f8ea554d"
+    },
+    "vehicleId": {
+      "$oid": "6a537532709c7a1e42682253"
+    },
+    "date": {
+      "$date": "2026-05-31T11:06:26.215Z"
+    },
+    "type": "Insurance",
+    "amount": 762,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-31T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-31T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532bf3dd925a33edb7c"
+    },
+    "vehicleId": {
+      "$oid": "6a537532b6293e69ce278593"
+    },
+    "date": {
+      "$date": "2026-04-10T11:06:26.215Z"
+    },
+    "type": "Maintenance",
+    "amount": 1646,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-04-10T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-10T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753248d18696bed8c85f"
+    },
+    "vehicleId": {
+      "$oid": "6a537532fcdd038fb086297c"
+    },
+    "date": {
+      "$date": "2026-06-29T11:06:26.215Z"
+    },
+    "type": "Insurance",
+    "amount": 1458,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-29T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-29T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532abcf40b964adc785"
+    },
+    "vehicleId": {
+      "$oid": "6a53753201348b741cd5ad0b"
+    },
+    "date": {
+      "$date": "2026-07-06T11:06:26.215Z"
+    },
+    "type": "Maintenance",
+    "amount": 1241,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-07-06T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-06T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d3d8df1c088642aa"
+    },
+    "vehicleId": {
+      "$oid": "6a537532fcdd038fb086297c"
+    },
+    "date": {
+      "$date": "2026-06-20T11:06:26.215Z"
+    },
+    "type": "Insurance",
+    "amount": 975,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-20T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-20T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328c7fee0be54394da"
+    },
+    "vehicleId": {
+      "$oid": "6a537532979d0eae4eb78a6d"
+    },
+    "date": {
+      "$date": "2026-06-15T11:06:26.215Z"
+    },
+    "type": "Maintenance",
+    "amount": 1123,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-15T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-15T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753240d4321823b188f5"
+    },
+    "vehicleId": {
+      "$oid": "6a5375324f2578d59c79ffc4"
+    },
+    "date": {
+      "$date": "2026-06-04T11:06:26.215Z"
+    },
+    "type": "Insurance",
+    "amount": 1586,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-04T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-04T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e8655cf917eb5c24"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ec602c9664600f73"
+    },
+    "date": {
+      "$date": "2026-04-16T11:06:26.215Z"
+    },
+    "type": "Maintenance",
+    "amount": 1217,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-04-16T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-16T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532f0fee626334af4cd"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ef64607dc3a3a96f"
+    },
+    "date": {
+      "$date": "2026-05-27T11:06:26.215Z"
+    },
+    "type": "Insurance",
+    "amount": 1771,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-27T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-27T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375327b3cfb05da1e0b5a"
+    },
+    "vehicleId": {
+      "$oid": "6a53753298af98bf93f2e67f"
+    },
+    "date": {
+      "$date": "2026-04-06T11:06:26.215Z"
+    },
+    "type": "Maintenance",
+    "amount": 604,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-04-06T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-06T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b43b0e5b79eeeb80"
+    },
+    "vehicleId": {
+      "$oid": "6a537532bf7b08308cff57bf"
+    },
+    "date": {
+      "$date": "2026-07-10T11:06:26.215Z"
+    },
+    "type": "Insurance",
+    "amount": 509,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-07-10T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-10T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753220e2a654627f21f7"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ec602c9664600f73"
+    },
+    "date": {
+      "$date": "2026-05-30T11:06:26.215Z"
+    },
+    "type": "Maintenance",
+    "amount": 1432,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-30T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-30T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532dab7229ae991700d"
+    },
+    "vehicleId": {
+      "$oid": "6a537532e9aab06a1d5a96ba"
+    },
+    "date": {
+      "$date": "2026-05-28T11:06:26.215Z"
+    },
+    "type": "Insurance",
+    "amount": 1150,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-28T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-28T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753244164f0168d848c2"
+    },
+    "vehicleId": {
+      "$oid": "6a537532fa3683ae81cf81c8"
+    },
+    "date": {
+      "$date": "2026-06-07T11:06:26.215Z"
+    },
+    "type": "Maintenance",
+    "amount": 1708,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-07T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-07T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375323c61a241a4a7fbc2"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ce83131a8bed31a1"
+    },
+    "date": {
+      "$date": "2026-06-23T11:06:26.215Z"
+    },
+    "type": "Insurance",
+    "amount": 1748,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-23T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-23T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532544e7b2a7cdf9ab3"
+    },
+    "vehicleId": {
+      "$oid": "6a53753243efb3119ecee5ca"
+    },
+    "date": {
+      "$date": "2026-05-25T11:06:26.215Z"
+    },
+    "type": "Maintenance",
+    "amount": 982,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-25T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-25T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375320e0f83bd3cd4987a"
+    },
+    "vehicleId": {
+      "$oid": "6a537532a31adf2f891934e0"
+    },
+    "date": {
+      "$date": "2026-05-11T11:06:26.215Z"
+    },
+    "type": "Insurance",
+    "amount": 1521,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-11T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-11T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c02ee59e7c0aed83"
+    },
+    "vehicleId": {
+      "$oid": "6a53753299467b1398761cc3"
+    },
+    "date": {
+      "$date": "2026-05-11T11:06:26.215Z"
+    },
+    "type": "Maintenance",
+    "amount": 1193,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-11T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-11T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753292161b0f9b1108b5"
+    },
+    "vehicleId": {
+      "$oid": "6a537532e9aab06a1d5a96ba"
+    },
+    "date": {
+      "$date": "2026-06-24T11:06:26.215Z"
+    },
+    "type": "Insurance",
+    "amount": 1296,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-24T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-24T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375323388605e775b352b"
+    },
+    "vehicleId": {
+      "$oid": "6a5375328ced866d015284f9"
+    },
+    "date": {
+      "$date": "2026-05-29T11:06:26.215Z"
+    },
+    "type": "Maintenance",
+    "amount": 731,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-29T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-29T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532621de918bfcfc5f4"
+    },
+    "vehicleId": {
+      "$oid": "6a5375328bbb31d3815b64e1"
+    },
+    "date": {
+      "$date": "2026-07-08T11:06:26.215Z"
+    },
+    "type": "Insurance",
+    "amount": 508,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-07-08T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-08T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753213497dcefefffb79"
+    },
+    "vehicleId": {
+      "$oid": "6a537532a31adf2f891934e0"
+    },
+    "date": {
+      "$date": "2026-06-10T11:06:26.215Z"
+    },
+    "type": "Maintenance",
+    "amount": 698,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-10T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-10T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ef447900cffd070b"
+    },
+    "vehicleId": {
+      "$oid": "6a537532b3f402f36e020ef6"
+    },
+    "date": {
+      "$date": "2026-05-10T11:06:26.215Z"
+    },
+    "type": "Insurance",
+    "amount": 1860,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-10T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-10T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375329f1b12f11bfa8bb9"
+    },
+    "vehicleId": {
+      "$oid": "6a5375329dfa899f42e698cc"
+    },
+    "date": {
+      "$date": "2026-04-28T11:06:26.215Z"
+    },
+    "type": "Maintenance",
+    "amount": 1837,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-04-28T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-28T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753241f7201a5c1bb37e"
+    },
+    "vehicleId": {
+      "$oid": "6a537532c4419b4592f206da"
+    },
+    "date": {
+      "$date": "2026-06-27T11:06:26.215Z"
+    },
+    "type": "Insurance",
+    "amount": 1629,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-27T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-27T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e4bbe9e35c6799ad"
+    },
+    "vehicleId": {
+      "$oid": "6a5375329f4ffbbdfe7bef27"
+    },
+    "date": {
+      "$date": "2026-07-10T11:06:26.215Z"
+    },
+    "type": "Maintenance",
+    "amount": 1436,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-07-10T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-10T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328baf78759d346b3c"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d4d3a0fd39a49c05"
+    },
+    "date": {
+      "$date": "2026-06-17T11:06:26.215Z"
+    },
+    "type": "Insurance",
+    "amount": 603,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-17T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-17T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753287a2f141fc6df384"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d2870002fdf80796"
+    },
+    "date": {
+      "$date": "2026-06-21T11:06:26.215Z"
+    },
+    "type": "Maintenance",
+    "amount": 1658,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-21T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-21T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532f9c8142b8e5aadf0"
+    },
+    "vehicleId": {
+      "$oid": "6a5375320f67b056cc457280"
+    },
+    "date": {
+      "$date": "2026-04-09T11:06:26.215Z"
+    },
+    "type": "Insurance",
+    "amount": 662,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-04-09T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-09T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532a1eef5d8e5ff392e"
+    },
+    "vehicleId": {
+      "$oid": "6a537532f13d4fae78a6ccf8"
+    },
+    "date": {
+      "$date": "2026-06-12T11:06:26.215Z"
+    },
+    "type": "Maintenance",
+    "amount": 1952,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-12T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-12T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753232c4d75060e8fd73"
+    },
+    "vehicleId": {
+      "$oid": "6a53753214ebb5e57da6ee1c"
+    },
+    "date": {
+      "$date": "2026-07-04T11:06:26.215Z"
+    },
+    "type": "Insurance",
+    "amount": 1982,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-07-04T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-04T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375320c43205b7de51b77"
+    },
+    "vehicleId": {
+      "$oid": "6a537532709c7a1e42682253"
+    },
+    "date": {
+      "$date": "2026-04-26T11:06:26.215Z"
+    },
+    "type": "Maintenance",
+    "amount": 1506,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-04-26T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-26T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532be481717401bef14"
+    },
+    "vehicleId": {
+      "$oid": "6a537532a31adf2f891934e0"
+    },
+    "date": {
+      "$date": "2026-06-30T11:06:26.215Z"
+    },
+    "type": "Insurance",
+    "amount": 818,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-30T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-30T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532572e2ea411e25597"
+    },
+    "vehicleId": {
+      "$oid": "6a537532f481048c0ff15c36"
+    },
+    "date": {
+      "$date": "2026-07-09T11:06:26.215Z"
+    },
+    "type": "Maintenance",
+    "amount": 1202,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-07-09T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-09T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375329eb4eeac7959b93a"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d27de402eb5b49be"
+    },
+    "date": {
+      "$date": "2026-05-02T11:06:26.215Z"
+    },
+    "type": "Insurance",
+    "amount": 1132,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-02T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-02T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328c442db356162a36"
+    },
+    "vehicleId": {
+      "$oid": "6a53753244f5d8bd947a3460"
+    },
+    "date": {
+      "$date": "2026-05-24T11:06:26.215Z"
+    },
+    "type": "Maintenance",
+    "amount": 714,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-24T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-24T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532dea17f43527b0c17"
+    },
+    "vehicleId": {
+      "$oid": "6a5375324a49fd6008113bf7"
+    },
+    "date": {
+      "$date": "2026-06-03T11:06:26.215Z"
+    },
+    "type": "Insurance",
+    "amount": 1314,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-03T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-03T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532fea4066808e676df"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d4d3a0fd39a49c05"
+    },
+    "date": {
+      "$date": "2026-07-07T11:06:26.215Z"
+    },
+    "type": "Maintenance",
+    "amount": 1249,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-07-07T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-07T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532a3cc59f1d853fac7"
+    },
+    "vehicleId": {
+      "$oid": "6a53753270af727a07b7a465"
+    },
+    "date": {
+      "$date": "2026-04-04T11:06:26.215Z"
+    },
+    "type": "Insurance",
+    "amount": 1931,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-04-04T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-04T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328a79441fc92fbd4c"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ec602c9664600f73"
+    },
+    "date": {
+      "$date": "2026-05-08T11:06:26.215Z"
+    },
+    "type": "Maintenance",
+    "amount": 932,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-05-08T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-08T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375324c740cd73ef071b8"
+    },
+    "vehicleId": {
+      "$oid": "6a537532063aec266daf5cab"
+    },
+    "date": {
+      "$date": "2026-06-22T11:06:26.215Z"
+    },
+    "type": "Insurance",
+    "amount": 1201,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-22T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-22T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532f40f4f24e87fb675"
+    },
+    "vehicleId": {
+      "$oid": "6a53753208a40b9a8dfed801"
+    },
+    "date": {
+      "$date": "2026-06-13T11:06:26.215Z"
+    },
+    "type": "Maintenance",
+    "amount": 533,
+    "description": "Routine checkup and repair",
+    "createdAt": {
+      "$date": "2026-06-13T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-13T11:06:26.215Z"
+    }
+  }
+]

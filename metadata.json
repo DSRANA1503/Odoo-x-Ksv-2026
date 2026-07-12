@@ -1,0 +1,6 @@
+{
+  "name": "Starter Website",
+  "description": "A starter template waiting for user instructions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

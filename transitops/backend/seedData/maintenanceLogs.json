@@ -1,0 +1,2522 @@
+[
+  {
+    "_id": {
+      "$oid": "6a53753229fe64e700d15654"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d27de402eb5b49be"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 991,
+    "date": {
+      "$date": "2026-05-09T11:06:26.215Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-09T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-09T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328b05e0f038b3364b"
+    },
+    "vehicleId": {
+      "$oid": "6a537532969ace0265a2d014"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 803,
+    "date": {
+      "$date": "2026-04-19T11:06:26.215Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-19T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-19T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753203f4c9c240d7fa74"
+    },
+    "vehicleId": {
+      "$oid": "6a537532aa2d02d0f9841ca2"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 905,
+    "date": {
+      "$date": "2026-06-28T11:06:26.215Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-28T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-28T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753280eea343e827467e"
+    },
+    "vehicleId": {
+      "$oid": "6a537532f535fba0e963f2d0"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 842,
+    "date": {
+      "$date": "2026-07-06T11:06:26.215Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-07-06T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-06T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375323b1cba22397bb5c7"
+    },
+    "vehicleId": {
+      "$oid": "6a53753276cf95752712e6d0"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 811,
+    "date": {
+      "$date": "2026-07-02T11:06:26.215Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-07-02T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-02T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753268ebe2b1e0d12d52"
+    },
+    "vehicleId": {
+      "$oid": "6a537532c4419b4592f206da"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 911,
+    "date": {
+      "$date": "2026-04-10T11:06:26.215Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-10T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-10T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532909aa858834e5369"
+    },
+    "vehicleId": {
+      "$oid": "6a53753299467b1398761cc3"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 416,
+    "date": {
+      "$date": "2026-06-15T11:06:26.215Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-15T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-15T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753265b5e89d762bf7c2"
+    },
+    "vehicleId": {
+      "$oid": "6a537532bf7b08308cff57bf"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 801,
+    "date": {
+      "$date": "2026-05-07T11:06:26.215Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-07T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-07T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e4c86450bf8b54ff"
+    },
+    "vehicleId": {
+      "$oid": "6a537532db1268d5860378dd"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 671,
+    "date": {
+      "$date": "2026-04-22T11:06:26.215Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-22T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-22T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375327e7c398e32b943de"
+    },
+    "vehicleId": {
+      "$oid": "6a53753257a6154398f540e7"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 476,
+    "date": {
+      "$date": "2026-05-13T11:06:26.215Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-13T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-13T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532078166c90354bd05"
+    },
+    "vehicleId": {
+      "$oid": "6a537532a801fa3b77c08f82"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 640,
+    "date": {
+      "$date": "2026-04-24T11:06:26.215Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-24T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-24T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375326fe3e39d3cc76331"
+    },
+    "vehicleId": {
+      "$oid": "6a5375325dc630423a122cc5"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 919,
+    "date": {
+      "$date": "2026-07-09T11:06:26.215Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-07-09T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-09T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532997b2b4a12c9a672"
+    },
+    "vehicleId": {
+      "$oid": "6a5375328c62c4bac17baffa"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 691,
+    "date": {
+      "$date": "2026-05-08T11:06:26.215Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-08T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-08T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375321ea675f7d4041f99"
+    },
+    "vehicleId": {
+      "$oid": "6a537532fa43d312ce32cc40"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 873,
+    "date": {
+      "$date": "2026-05-22T11:06:26.215Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-22T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-22T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b9cc779e8c5cf4b4"
+    },
+    "vehicleId": {
+      "$oid": "6a5375329512ed67474663de"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 641,
+    "date": {
+      "$date": "2026-04-21T11:06:26.215Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-21T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-21T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532eb46fd7be19231f1"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ad7a590c7b15e370"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 982,
+    "date": {
+      "$date": "2026-06-28T11:06:26.215Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-28T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-28T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532323a2e40ae628845"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ef64607dc3a3a96f"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 402,
+    "date": {
+      "$date": "2026-04-11T11:06:26.215Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-11T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-11T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532878366e77091711e"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ce83131a8bed31a1"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 925,
+    "date": {
+      "$date": "2026-06-29T11:06:26.215Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-29T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-29T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753206445407181084e8"
+    },
+    "vehicleId": {
+      "$oid": "6a537532fa21b978d245cbf3"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 553,
+    "date": {
+      "$date": "2026-06-14T11:06:26.215Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-14T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-14T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375325547ac83f37aa67c"
+    },
+    "vehicleId": {
+      "$oid": "6a537532722af48f0b8b24d6"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 678,
+    "date": {
+      "$date": "2026-06-08T11:06:26.215Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-08T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-08T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532a112b2ecbf94460c"
+    },
+    "vehicleId": {
+      "$oid": "6a537532c38d45551fc1ceb2"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 412,
+    "date": {
+      "$date": "2026-04-14T11:06:26.215Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-14T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-14T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375325b22b568a1fdf353"
+    },
+    "vehicleId": {
+      "$oid": "6a53753204d7faced34c842e"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 918,
+    "date": {
+      "$date": "2026-05-04T11:06:26.215Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-04T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-04T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532a00767f477cab931"
+    },
+    "vehicleId": {
+      "$oid": "6a537532857ce04d59af84df"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 892,
+    "date": {
+      "$date": "2026-07-07T11:06:26.215Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-07-07T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-07T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532302983c26428a21a"
+    },
+    "vehicleId": {
+      "$oid": "6a53753243efb3119ecee5ca"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 947,
+    "date": {
+      "$date": "2026-04-06T11:06:26.215Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-06T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-06T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753222d7cc40a756c8c7"
+    },
+    "vehicleId": {
+      "$oid": "6a537532c764e14e2199fb1a"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 853,
+    "date": {
+      "$date": "2026-05-23T11:06:26.215Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-23T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-23T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375323c4ebe5af37a8de1"
+    },
+    "vehicleId": {
+      "$oid": "6a53753255ac7f036331b094"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 877,
+    "date": {
+      "$date": "2026-06-25T11:06:26.215Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-25T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-25T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532a6f16bbd630a1a01"
+    },
+    "vehicleId": {
+      "$oid": "6a5375321c18f16b9d68ca7a"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 673,
+    "date": {
+      "$date": "2026-04-15T11:06:26.215Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-15T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-15T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753276ba0fbb02c951ae"
+    },
+    "vehicleId": {
+      "$oid": "6a537532063aec266daf5cab"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 939,
+    "date": {
+      "$date": "2026-06-28T11:06:26.215Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-28T11:06:26.215Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-28T11:06:26.215Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753281d2b12eb65a2bb0"
+    },
+    "vehicleId": {
+      "$oid": "6a537532c8016eb054e448d3"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 895,
+    "date": {
+      "$date": "2026-05-03T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-03T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-03T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532022b1d11827f1d34"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ebb6ca8478f765d8"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 597,
+    "date": {
+      "$date": "2026-07-09T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-07-09T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-09T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532aace6b5104700a8d"
+    },
+    "vehicleId": {
+      "$oid": "6a537532fa3683ae81cf81c8"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 885,
+    "date": {
+      "$date": "2026-06-14T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-14T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-14T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375326317b1d8e041617e"
+    },
+    "vehicleId": {
+      "$oid": "6a537532b3f402f36e020ef6"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 460,
+    "date": {
+      "$date": "2026-04-16T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-16T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-16T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532661a240098b99526"
+    },
+    "vehicleId": {
+      "$oid": "6a537532770842ceccfc25f4"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 947,
+    "date": {
+      "$date": "2026-04-06T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-06T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-06T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375325189685ae2f6f0b9"
+    },
+    "vehicleId": {
+      "$oid": "6a537532345752c1143c20cf"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 900,
+    "date": {
+      "$date": "2026-07-04T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-07-04T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-04T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532149668746780d129"
+    },
+    "vehicleId": {
+      "$oid": "6a537532c6f05e6badaf85dc"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 532,
+    "date": {
+      "$date": "2026-04-15T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-15T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-15T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753262c32eb77e597423"
+    },
+    "vehicleId": {
+      "$oid": "6a537532e0e68d11eab17c6d"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 777,
+    "date": {
+      "$date": "2026-05-30T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-30T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-30T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753235c3ffa037702d19"
+    },
+    "vehicleId": {
+      "$oid": "6a537532cbd23e6f7b1ba64f"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 550,
+    "date": {
+      "$date": "2026-06-06T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-06T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-06T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e61b35af6fbc9130"
+    },
+    "vehicleId": {
+      "$oid": "6a5375320545a276bf362d82"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 855,
+    "date": {
+      "$date": "2026-07-02T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-07-02T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-02T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532a1bbd5848e6a142c"
+    },
+    "vehicleId": {
+      "$oid": "6a537532f75b9b0eaccfb85a"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 801,
+    "date": {
+      "$date": "2026-07-10T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-07-10T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-10T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753201cb5d2d8020a6a9"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d5051a6e9a122f98"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 905,
+    "date": {
+      "$date": "2026-04-19T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-19T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-19T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b8449e4f416e2705"
+    },
+    "vehicleId": {
+      "$oid": "6a537532bacaa40029b3168e"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 844,
+    "date": {
+      "$date": "2026-06-16T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-16T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-16T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ac8e01676546d3e3"
+    },
+    "vehicleId": {
+      "$oid": "6a537532418cd127bc716388"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 490,
+    "date": {
+      "$date": "2026-06-23T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-23T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-23T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753274e468c1fe05d1ec"
+    },
+    "vehicleId": {
+      "$oid": "6a537532fa43d312ce32cc40"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 895,
+    "date": {
+      "$date": "2026-05-02T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-02T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-02T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375329c1c79f51e49466a"
+    },
+    "vehicleId": {
+      "$oid": "6a537532709c7a1e42682253"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 802,
+    "date": {
+      "$date": "2026-04-17T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-17T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-17T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532a12b7e4315df0711"
+    },
+    "vehicleId": {
+      "$oid": "6a537532a333fe1805b49af8"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 788,
+    "date": {
+      "$date": "2026-04-22T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-22T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-22T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375320ea18835b70f3197"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ef64607dc3a3a96f"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 480,
+    "date": {
+      "$date": "2026-04-19T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-19T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-19T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753261eaf025085c1409"
+    },
+    "vehicleId": {
+      "$oid": "6a537532db1268d5860378dd"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 951,
+    "date": {
+      "$date": "2026-04-04T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-04T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-04T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532763480ac451a1392"
+    },
+    "vehicleId": {
+      "$oid": "6a5375329dfa899f42e698cc"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 571,
+    "date": {
+      "$date": "2026-06-24T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-24T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-24T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375327f747f67ad57b5c7"
+    },
+    "vehicleId": {
+      "$oid": "6a537532063aec266daf5cab"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 426,
+    "date": {
+      "$date": "2026-06-23T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-23T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-23T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753262ffa4150459ae99"
+    },
+    "vehicleId": {
+      "$oid": "6a5375324a49fd6008113bf7"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 880,
+    "date": {
+      "$date": "2026-06-11T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-11T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-11T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532a1478121b6912da8"
+    },
+    "vehicleId": {
+      "$oid": "6a537532c38d45551fc1ceb2"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 852,
+    "date": {
+      "$date": "2026-05-29T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-29T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-29T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532821749779b06dd7f"
+    },
+    "vehicleId": {
+      "$oid": "6a5375327cddf8a10a787fc4"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 752,
+    "date": {
+      "$date": "2026-06-01T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-01T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-01T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532810e4e170e6bf0a9"
+    },
+    "vehicleId": {
+      "$oid": "6a537532fa3683ae81cf81c8"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 886,
+    "date": {
+      "$date": "2026-04-24T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-24T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-24T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ec5bf01da8bcfc50"
+    },
+    "vehicleId": {
+      "$oid": "6a53753214ebb5e57da6ee1c"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 594,
+    "date": {
+      "$date": "2026-05-04T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-04T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-04T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532f4c994f925c84d49"
+    },
+    "vehicleId": {
+      "$oid": "6a537532b3f402f36e020ef6"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 586,
+    "date": {
+      "$date": "2026-05-31T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-31T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-31T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753204702ead462e3f34"
+    },
+    "vehicleId": {
+      "$oid": "6a5375329a519c45fddb5c87"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 671,
+    "date": {
+      "$date": "2026-07-01T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-07-01T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-01T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532520f86dfa268a5e5"
+    },
+    "vehicleId": {
+      "$oid": "6a537532f75b9b0eaccfb85a"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 822,
+    "date": {
+      "$date": "2026-04-05T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-05T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-05T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532fb3f285e83cd30f4"
+    },
+    "vehicleId": {
+      "$oid": "6a5375328c62c4bac17baffa"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 428,
+    "date": {
+      "$date": "2026-05-02T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-02T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-02T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c13a7258dd10be79"
+    },
+    "vehicleId": {
+      "$oid": "6a53753255ac7f036331b094"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 469,
+    "date": {
+      "$date": "2026-06-23T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-23T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-23T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753287bff596db2c9b5e"
+    },
+    "vehicleId": {
+      "$oid": "6a5375323cedae00cf2d4779"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 719,
+    "date": {
+      "$date": "2026-05-13T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-13T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-13T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d84bbb1eecaef88f"
+    },
+    "vehicleId": {
+      "$oid": "6a5375329dfa899f42e698cc"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 452,
+    "date": {
+      "$date": "2026-04-25T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-25T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-25T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532261e8cb0f69a234c"
+    },
+    "vehicleId": {
+      "$oid": "6a537532e74b585c2f6fe219"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 741,
+    "date": {
+      "$date": "2026-05-14T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-14T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-14T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375322de79f5154b72c43"
+    },
+    "vehicleId": {
+      "$oid": "6a53753294207e0b4597028f"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 583,
+    "date": {
+      "$date": "2026-05-06T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-06T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-06T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532f66fd26aba258db4"
+    },
+    "vehicleId": {
+      "$oid": "6a53753244f5d8bd947a3460"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 570,
+    "date": {
+      "$date": "2026-06-18T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-18T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-18T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532bc17dc2fec364f06"
+    },
+    "vehicleId": {
+      "$oid": "6a53753227eb7b2d61bf5e60"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 675,
+    "date": {
+      "$date": "2026-06-28T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-28T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-28T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375321ae0c755f429a454"
+    },
+    "vehicleId": {
+      "$oid": "6a537532fa21b978d245cbf3"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 972,
+    "date": {
+      "$date": "2026-06-10T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-10T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-10T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532afbf74ffeef83b42"
+    },
+    "vehicleId": {
+      "$oid": "6a537532c8016eb054e448d3"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 614,
+    "date": {
+      "$date": "2026-06-22T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-22T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-22T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532dee0c020c40863b3"
+    },
+    "vehicleId": {
+      "$oid": "6a537532b3f402f36e020ef6"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 749,
+    "date": {
+      "$date": "2026-05-25T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-25T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-25T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375325ce52acf5565b125"
+    },
+    "vehicleId": {
+      "$oid": "6a53753294207e0b4597028f"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 570,
+    "date": {
+      "$date": "2026-07-09T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-07-09T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-09T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532a82ea535534d1bda"
+    },
+    "vehicleId": {
+      "$oid": "6a537532e74b585c2f6fe219"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 865,
+    "date": {
+      "$date": "2026-07-09T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-07-09T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-09T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753298ef5e7ef64b8dbf"
+    },
+    "vehicleId": {
+      "$oid": "6a5375329e514365c0a0c000"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 701,
+    "date": {
+      "$date": "2026-07-02T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-07-02T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-02T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375325c5cdd4d03cf7868"
+    },
+    "vehicleId": {
+      "$oid": "6a53753299467b1398761cc3"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 681,
+    "date": {
+      "$date": "2026-04-17T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-17T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-17T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b2e312b3fed18664"
+    },
+    "vehicleId": {
+      "$oid": "6a5375328ced866d015284f9"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 572,
+    "date": {
+      "$date": "2026-05-05T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-05T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-05T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328319275168a56100"
+    },
+    "vehicleId": {
+      "$oid": "6a537532db1268d5860378dd"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 643,
+    "date": {
+      "$date": "2026-05-28T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-28T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-28T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753218e23c0fe379c616"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ec602c9664600f73"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 559,
+    "date": {
+      "$date": "2026-05-14T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-14T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-14T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ccbcd0cfb7d6c7a8"
+    },
+    "vehicleId": {
+      "$oid": "6a537532857ce04d59af84df"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 555,
+    "date": {
+      "$date": "2026-05-31T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-31T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-31T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753255139c0354711aa3"
+    },
+    "vehicleId": {
+      "$oid": "6a53753214ebb5e57da6ee1c"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 477,
+    "date": {
+      "$date": "2026-04-18T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-18T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-18T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375327ba2d2e077bb97de"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d4d3a0fd39a49c05"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 782,
+    "date": {
+      "$date": "2026-06-11T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-11T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-11T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d089f42fcb493ec3"
+    },
+    "vehicleId": {
+      "$oid": "6a53753201348b741cd5ad0b"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 556,
+    "date": {
+      "$date": "2026-05-25T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-25T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-25T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753250f324cc78f003c0"
+    },
+    "vehicleId": {
+      "$oid": "6a537532fa21b978d245cbf3"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 610,
+    "date": {
+      "$date": "2026-04-04T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-04T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-04T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375323510adfcd553bf65"
+    },
+    "vehicleId": {
+      "$oid": "6a537532e9aab06a1d5a96ba"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 906,
+    "date": {
+      "$date": "2026-07-05T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-07-05T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-05T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b97abbe4b30dd79c"
+    },
+    "vehicleId": {
+      "$oid": "6a537532944356d4b32f442e"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 931,
+    "date": {
+      "$date": "2026-04-22T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-22T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-22T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375324aca5630bad06c6d"
+    },
+    "vehicleId": {
+      "$oid": "6a537532063aec266daf5cab"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 756,
+    "date": {
+      "$date": "2026-05-13T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-13T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-13T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753239755d60126a7e45"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ad948c302d9b9d36"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 586,
+    "date": {
+      "$date": "2026-07-01T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-07-01T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-01T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753220ebaedc703af318"
+    },
+    "vehicleId": {
+      "$oid": "6a53753204d7faced34c842e"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 886,
+    "date": {
+      "$date": "2026-05-17T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-17T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-17T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532839b854f59858baf"
+    },
+    "vehicleId": {
+      "$oid": "6a5375324b69c299e40628a3"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 461,
+    "date": {
+      "$date": "2026-07-06T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-07-06T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-06T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753215578aeba40bd6b2"
+    },
+    "vehicleId": {
+      "$oid": "6a53753261e64a726353e327"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 422,
+    "date": {
+      "$date": "2026-04-06T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-06T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-06T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753221fcac325d258e0a"
+    },
+    "vehicleId": {
+      "$oid": "6a53753276cf95752712e6d0"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 515,
+    "date": {
+      "$date": "2026-07-09T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-07-09T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-09T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328a44d80e2d2b3d6b"
+    },
+    "vehicleId": {
+      "$oid": "6a5375323d3c0da81ce6e3d9"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 676,
+    "date": {
+      "$date": "2026-04-20T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-20T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-20T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375329ca6dec3948d63d5"
+    },
+    "vehicleId": {
+      "$oid": "6a5375326fe30d9983f5d39a"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 989,
+    "date": {
+      "$date": "2026-06-04T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-04T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-04T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ea277d684436b7f3"
+    },
+    "vehicleId": {
+      "$oid": "6a5375329f4ffbbdfe7bef27"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 535,
+    "date": {
+      "$date": "2026-06-19T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-19T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-19T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753227b592ca25762bda"
+    },
+    "vehicleId": {
+      "$oid": "6a53753204d7faced34c842e"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 881,
+    "date": {
+      "$date": "2026-06-13T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-13T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-13T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532102936be36294be3"
+    },
+    "vehicleId": {
+      "$oid": "6a537532aa7c9dc5b05fa49d"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 571,
+    "date": {
+      "$date": "2026-05-04T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-04T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-04T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375327dcb3a43f0408280"
+    },
+    "vehicleId": {
+      "$oid": "6a5375329e514365c0a0c000"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 991,
+    "date": {
+      "$date": "2026-05-19T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-19T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-19T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375324467e68772376da0"
+    },
+    "vehicleId": {
+      "$oid": "6a537532c38d45551fc1ceb2"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 554,
+    "date": {
+      "$date": "2026-04-06T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-06T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-06T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532e576f4fbbab885b6"
+    },
+    "vehicleId": {
+      "$oid": "6a53753255ac7f036331b094"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 597,
+    "date": {
+      "$date": "2026-05-06T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-06T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-06T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375327ef6453e0918f785"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ad7a590c7b15e370"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 631,
+    "date": {
+      "$date": "2026-07-08T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-07-08T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-08T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532301f77b331be31fa"
+    },
+    "vehicleId": {
+      "$oid": "6a537532770842ceccfc25f4"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 602,
+    "date": {
+      "$date": "2026-06-28T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-28T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-28T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532c917cda67f29e71a"
+    },
+    "vehicleId": {
+      "$oid": "6a537532e74b585c2f6fe219"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 827,
+    "date": {
+      "$date": "2026-04-17T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-17T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-17T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375327d790510e2c280cf"
+    },
+    "vehicleId": {
+      "$oid": "6a537532cacdfb54afd8cbbb"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 415,
+    "date": {
+      "$date": "2026-04-23T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-23T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-23T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375325a0ece6718188484"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ea3d78ed7587e39a"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 670,
+    "date": {
+      "$date": "2026-05-13T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-13T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-13T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532cbf860b9c0c4b722"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d2870002fdf80796"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 831,
+    "date": {
+      "$date": "2026-05-06T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-06T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-06T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375324edb5196d67e5f75"
+    },
+    "vehicleId": {
+      "$oid": "6a5375320e55bd8657dd72f9"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 612,
+    "date": {
+      "$date": "2026-04-13T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-13T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-13T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532ad1b8a77e7f2f428"
+    },
+    "vehicleId": {
+      "$oid": "6a537532c6f05e6badaf85dc"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 907,
+    "date": {
+      "$date": "2026-04-10T11:06:26.216Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-10T11:06:26.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-10T11:06:26.216Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375321adff08252654c51"
+    },
+    "vehicleId": {
+      "$oid": "6a537532941ce5e1b9cdbd40"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 796,
+    "date": {
+      "$date": "2026-06-28T11:06:26.217Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-28T11:06:26.217Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-28T11:06:26.217Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328b2d3a0a7871562f"
+    },
+    "vehicleId": {
+      "$oid": "6a53753244f5d8bd947a3460"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 440,
+    "date": {
+      "$date": "2026-06-14T11:06:26.217Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-14T11:06:26.217Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-14T11:06:26.217Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532a00a48c1d1f751a4"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d2870002fdf80796"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 578,
+    "date": {
+      "$date": "2026-06-05T11:06:26.217Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-05T11:06:26.217Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-05T11:06:26.217Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375323e361dea3368fe94"
+    },
+    "vehicleId": {
+      "$oid": "6a537532e74b585c2f6fe219"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 953,
+    "date": {
+      "$date": "2026-04-19T11:06:26.217Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-19T11:06:26.217Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-19T11:06:26.217Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375321146f11049ebcca0"
+    },
+    "vehicleId": {
+      "$oid": "6a5375327cddf8a10a787fc4"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 747,
+    "date": {
+      "$date": "2026-06-02T11:06:26.217Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-02T11:06:26.217Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-02T11:06:26.217Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375322beafceed412dc05"
+    },
+    "vehicleId": {
+      "$oid": "6a537532cc2314a7fc9f9d9f"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 820,
+    "date": {
+      "$date": "2026-04-16T11:06:26.217Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-16T11:06:26.217Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-16T11:06:26.217Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d358c037413c0a3e"
+    },
+    "vehicleId": {
+      "$oid": "6a537532e74b585c2f6fe219"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 432,
+    "date": {
+      "$date": "2026-05-28T11:06:26.217Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-28T11:06:26.217Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-28T11:06:26.217Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375323c83517573c281e8"
+    },
+    "vehicleId": {
+      "$oid": "6a537532d8fa492292b9294c"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 958,
+    "date": {
+      "$date": "2026-05-30T11:06:26.217Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-30T11:06:26.217Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-30T11:06:26.217Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532b3623fd72f2076bf"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ebb6ca8478f765d8"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 451,
+    "date": {
+      "$date": "2026-06-10T11:06:26.217Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-10T11:06:26.217Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-10T11:06:26.217Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532d8f5118b70ee1df8"
+    },
+    "vehicleId": {
+      "$oid": "6a537532aa7c9dc5b05fa49d"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 896,
+    "date": {
+      "$date": "2026-05-21T11:06:26.217Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-21T11:06:26.217Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-21T11:06:26.217Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532017760c96264f266"
+    },
+    "vehicleId": {
+      "$oid": "6a53753214ebb5e57da6ee1c"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 594,
+    "date": {
+      "$date": "2026-05-19T11:06:26.217Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-19T11:06:26.217Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-19T11:06:26.217Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753240cd544e9c812a2d"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ce83131a8bed31a1"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 506,
+    "date": {
+      "$date": "2026-05-23T11:06:26.217Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-05-23T11:06:26.217Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-23T11:06:26.217Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375326923caad2cc6a464"
+    },
+    "vehicleId": {
+      "$oid": "6a537532e9aab06a1d5a96ba"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 617,
+    "date": {
+      "$date": "2026-04-16T11:06:26.217Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-16T11:06:26.217Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-16T11:06:26.217Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a537532f72a98689e690fbd"
+    },
+    "vehicleId": {
+      "$oid": "6a537532e9aab06a1d5a96ba"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 736,
+    "date": {
+      "$date": "2026-06-16T11:06:26.217Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-06-16T11:06:26.217Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-16T11:06:26.217Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a5375328d82725e73cf6c94"
+    },
+    "vehicleId": {
+      "$oid": "6a537532ac44d3ab84145978"
+    },
+    "type": "Repair",
+    "description": "Brake replacement",
+    "cost": 987,
+    "date": {
+      "$date": "2026-04-16T11:06:26.217Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-04-16T11:06:26.217Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-16T11:06:26.217Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a53753215cfbdf97c6d9420"
+    },
+    "vehicleId": {
+      "$oid": "6a537532c4419b4592f206da"
+    },
+    "type": "Routine",
+    "description": "Brake replacement",
+    "cost": 530,
+    "date": {
+      "$date": "2026-07-03T11:06:26.217Z"
+    },
+    "performedBy": "Auto Fixers Inc",
+    "createdAt": {
+      "$date": "2026-07-03T11:06:26.217Z"
+    },
+    "updatedAt": {
+      "$date": "2026-07-03T11:06:26.217Z"
+    }
+  }
+]
